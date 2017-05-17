@@ -449,11 +449,11 @@
 <br />Какой залог будет закрыт на вашей кредитной карточке? 
 <br />Будет ли добавлен НДС к вашему заказу?
 <br />Эти все другие вопросы будут разрешены если вы свяжитесь с нами
- <br /><img src="images/phone.gif" alt="Позвоните Vastama по аренде атомобиля в Израиле" /> Телефон в Израиле +972-58-7710101
+ <br /><img src="../images/phone.gif" alt="Позвоните Vastama по аренде атомобиля в Израиле" /> Телефон в Израиле +972-58-7710101
 <!--  <br /><img src="images/phone.gif" alt="Позвоните Vastama по аренде атомобиля в Израиле" /> Телефон в России 7-499-1123-995 -->
- <br /><img src="images/whatsapp.png" alt="Позвоните Vastama по аренде атомобиля в Израиле" /> WhatsApp +972-58-7710101
- <br /><img src="images/viber.png" alt="Позвоните Vastama по аренде атомобиля в Израиле" /> Viber +972-58-7710101
- <br /><img src="images/mail.gif" alt="Позвоните Vastama по аренде атомобиля в Израиле" /> Почта rentcar@vastama.com
+ <br /><img src="../images/whatsapp.png" alt="Позвоните Vastama по аренде атомобиля в Израиле" /> WhatsApp +972-58-7710101
+ <br /><img src="../images/viber.png" alt="Позвоните Vastama по аренде атомобиля в Израиле" /> Viber +972-58-7710101
+ <br /><img src="../images/mail.gif" alt="Позвоните Vastama по аренде атомобиля в Израиле" /> Почта rentcar@vastama.com
  <br />говорим по русски
  <hr />
  
@@ -467,11 +467,11 @@
 
 <h4>Последние отзывы наших клиентов: </h4>
 <br><a href="https://www.facebook.com/pg/vastama.israel/reviews/"> <img src="images/facebook-icon-small.png" alt="отзывы наших клиентов пять звезд" height="20" />
- <img src="images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />
- <img src="images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />
- <img src="images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />
- <img src="images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />
- <img src="images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />
+ <img src="../images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />
+ <img src="../images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />
+ <img src="../images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />
+ <img src="../images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />
+ <img src="../images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />
  
  </a> 
  March 20, 2017 
@@ -488,11 +488,11 @@
 <a href="https://www.facebook.com/Dmitry.Tikhonofff">Dmitry Tikhonov</a> Арендовали автомобиль через Шер Олега. В качестве бонуса "получили" отзывчивого человека, всегда готового придти на помощь и дать толковый совет. Причем, оперативно, что в чужой стране бывает актуально. Рекомендую.
 
 <br><a href="https://www.facebook.com/pg/vastama.israel/reviews/"> <img src="images/facebook-icon-small.png" alt="отзывы наших клиентов пять звезд" height="20" />
- <img src="images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />
- <img src="images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />
- <img src="images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />
- <img src="images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />
- <img src="images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />
+ <img src="../images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />
+ <img src="../images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />
+ <img src="../images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />
+ <img src="../images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />
+ <img src="../images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />
  </a> 
  March 6, 2017 
 <a href="https://www.facebook.com/profile.php?id=1829188783">Ольга Рыбакова</a> Помогли арендовать автомобиль, дешевле, чем в других агентствах. Предоставили автомобиль новый и выше классом.
@@ -502,11 +502,11 @@
 <hr />
 
 <h4>Последние заказы на сайте: </h4>
-<br><img src="images/blue_star_20px.png" alt="заказы на сайте" /> Александр 22- 26 Марта 2017 категория Mazda3, отделение аренды проката - Тель Авив, Яркон ‎ - в прокате
-<br><img src="images/blue_star_20px.png" alt="заказы на сайте" /> Татьяна 21- 28 Марта 2017 категория Ford Fiesta, ‎отделение аренды проката - Тель Авив, Бен Гурион - в прокате
-<br><img src="images/blue_star_20px.png" alt="заказы на сайте" /> Лариса 22 Мая - 22 Июня 2017 категория Hy‎undai i20, отделение аренды проката - Нетания - подтверждено
-<br><img src="images/blue_star_20px.png" alt="заказы на сайте" /> Андрей 16 - 27 Марта 2017 категория Ford Fiesta, ‎отделение аренды проката - Тель Авив, Бен Гурион - в прокате
-<br><img src="images/blue_star_20px.png" alt="заказы на сайте" /> Александра 13 Марта - 15 Июня 2017 категория Hyundai Tucson‎, отделение аренды проката - Тель Авив, Яркон - в прокате
+<br><img src="../images/blue_star_20px.png" alt="заказы на сайте" /> Александр 22- 26 Марта 2017 категория Mazda3, отделение аренды проката - Тель Авив, Яркон ‎ - в прокате
+<br><img src="../images/blue_star_20px.png" alt="заказы на сайте" /> Татьяна 21- 28 Марта 2017 категория Ford Fiesta, ‎отделение аренды проката - Тель Авив, Бен Гурион - в прокате
+<br><img src="../images/blue_star_20px.png" alt="заказы на сайте" /> Лариса 22 Мая - 22 Июня 2017 категория Hy‎undai i20, отделение аренды проката - Нетания - подтверждено
+<br><img src="../images/blue_star_20px.png" alt="заказы на сайте" /> Андрей 16 - 27 Марта 2017 категория Ford Fiesta, ‎отделение аренды проката - Тель Авив, Бен Гурион - в прокате
+<br><img src="../images/blue_star_20px.png" alt="заказы на сайте" /> Александра 13 Марта - 15 Июня 2017 категория Hyundai Tucson‎, отделение аренды проката - Тель Авив, Яркон - в прокате
 
 
 
@@ -514,7 +514,7 @@
 <hr />
 
 <h4>Новости компании: </h4>
-<br><img src="images/blue_star_20px.png" alt="Новости компании - аренда прокат автомобилей в Израиле" /> Акция: аренда прокат всех категорий машин на Майские праздники по цене низкого сезона(срок действия ограничен)
+<br><img src="../images/blue_star_20px.png" alt="Новости компании - аренда прокат автомобилей в Израиле" /> Акция: аренда прокат всех категорий машин на Майские праздники по цене низкого сезона(срок действия ограничен)
 
 
 
