@@ -3,6 +3,8 @@ RewriteEngine on
 rewritecond %{http_host} ^rentalcarsisrael.com [nc]
 rewriterule ^(.*)$ http://www.rentalcarsisrael.com/$1 [r=301,nc]
 
+Redirect /index.php http://www.rentalcarsisrael.com/ru/
+
 
 # Enable GZIP
 <ifmodule mod_deflate.c>
