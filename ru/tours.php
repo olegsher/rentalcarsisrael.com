@@ -25,12 +25,12 @@ if(isset($_POST['submit'])){
     $headers .= "Content-Type: text/html; charset=utf-8\r\n";
     
     
-    $subject = $_POST['First_name'] . " " . $_POST['Last_name'] . " " . $_POST['car-select'] . " " . "rentcarisrael.online";    
+    $subject = $_POST['First_name'] . " " . $_POST['Last_name'] . " " . $_POST['car-select'] . " " . "rentalcarsisrael.com";    
             $message = '<html><body>';
             $message .= '<hr />';
-            $message .= 'Заказ частной экскурсии на http://www.rentcarisrael.online +972-58-7710101';
+            $message .= 'Заказ частной экскурсии на http://www.rentalcarsisrael.com +972-58-7710101';
             $message .= '<hr />';
-$message .= '<img src="http://www.rentcarisrael.online/images/Thrifty-Israel.jpg" alt="Website Change Request" />';
+$message .= '<img src="http://www.rentalcarsisrael.com/images/Thrifty-Israel.jpg" alt="Website Change Request" />';
 $message .= '<table rules="all" style="border-color: #666;" cellpadding="10">';
 $message .= "<tr style='background: #eee;'><td><strong>First Name:</strong> </td><td>" . strip_tags($_POST['First_name']) . "</td></tr>";
 $message .= "<tr style='background: #eee;'><td><strong>Last Name:</strong> </td><td>" . strip_tags($_POST['Last_name']) . "</td></tr>";
@@ -49,7 +49,7 @@ $message .= "</body></html>";
 
      mail($to,$subject,$message,$headers);
     
-    $subject2 = "Заказ частного гида на http://www.rentcarisrael.online +972-58-7710101";
+    $subject2 = "Заказ частного гида на http://www.rentalcarsisrael.com +972-58-7710101";
     $headers2 = "From: " . strip_tags($reqemail) . "\r\n";
     $headers2 .= "Reply-To: ". strip_tags($reqemail) . "\r\n";
 //    $headers .= "CC: office@vastama.com\r\n";
@@ -58,20 +58,20 @@ $message .= "</body></html>";
     $headers2 .= "Content-Type: text/html; charset=utf-8\r\n";
     // $message2 = "test";
    mail($from,$subject2,$message,$headers2); // sends a copy of the message to the sender  
-header('Location: http://www.rentcarisrael.online/thankyou.php');
+header('Location: http://www.rentalcarsisrael.com/thankyou.php');
     }
 ?>
 <!DOCTYPE HTML>
 <html lang="ru">
 <head>
-<title>Индивидуальные экскурсии по Израилю | RentCarIsrael.online</title>
+<title>Индивидуальные экскурсии по Израилю | rentalcarsisrael.com</title>
 <meta name="keywords" content="Индивидуальные экскурсии по Израилю" />
 <meta  name="description"  content="Индивидуальные экскурсии по Израилю звоните +972-58-7710101" />
 <meta property="fb:app_id" content="1322511981092474" />
 <meta property="og:type" content="website" />
 <meta property="og:locale" content="ru_RU" />
-<meta property="og:url" content="http://www.rentcarisrael.online/tours.php" />
-<meta property="og:image" content="http://www.rentcarisrael.online/images/guide_ru.png"/>
+<meta property="og:url" content="http://www.rentalcarsisrael.com/tours.php" />
+<meta property="og:image" content="http://www.rentalcarsisrael.com/images/guide_ru.png"/>
 <meta property="og:image:type" content="image/png" />
 <meta property="og:image:width" content="640" />
 <meta property="og:image:height" content="460" />

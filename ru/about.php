@@ -9,8 +9,8 @@
 <meta property="fb:app_id" content="1322511981092474" />
 <meta property="og:type" content="website" />
 <meta property="og:locale" content="ru_RU" />
-<meta property="og:url" content="http://www.rentcarisrael.online" />
-<meta property="og:image" content="http://www.rentcarisrael.online/images/thankyoucar.png"/>
+<meta property="og:url" content="http://www.rentalcarsisrael.com" />
+<meta property="og:image" content="http://www.rentalcarsisrael.com/images/thankyoucar.png"/>
 <meta property="og:image:type" content="image/png" />
 <meta property="og:image:width" content="640" />
 <meta property="og:image:height" content="320" />

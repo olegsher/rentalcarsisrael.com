@@ -40,12 +40,12 @@ $reqemail = "rentcargroup@privateisrael.com";
     $headers .= "Content-Type: text/html; charset=utf-8\r\n";
     
     
-    $subject = $_POST['First_name'] . " " . $_POST['Last_name'] . " " . $_POST['car-select'] . " " . "rentcarisrael.online";    
+    $subject = $_POST['First_name'] . " " . $_POST['Last_name'] . " " . $_POST['car-select'] . " " . "rentalcarsisrael.com";    
             $message = '<html lang="ru"><body>';
             $message .= '<hr />';
-            $message .= 'Бронирование автомобиля в Израиле на http://www.rentcarisrael.online +972-58-7710101';
+            $message .= 'Бронирование автомобиля в Израиле на http://www.rentalcarsisrael.com +972-58-7710101';
             $message .= '<hr />';
-$message .= '<img src="http://www.rentcarisrael.online/images/Thrifty-Israel.jpg" alt="Бронирование автомобиля в Израиле +972-58-7710101" />';
+$message .= '<img src="http://www.rentalcarsisrael.com/images/Thrifty-Israel.jpg" alt="Бронирование автомобиля в Израиле +972-58-7710101" />';
 $message .= '<table rules="all" style="border-color: #666;" cellpadding="10">';
 $message .= "<tr style='background: #eee;'><td><strong>First Name:</strong> </td><td>" . strip_tags($_POST['First_name']) . "</td></tr>";
 $message .= "<tr style='background: #eee;'><td><strong>Last Name:</strong> </td><td>" . strip_tags($_POST['Last_name']) . "</td></tr>";
@@ -74,7 +74,7 @@ $message .= "</body></html>";
 
      mail($to,$subject,$message,$headers);
     
-    $subject2 = "Ваше бронирование автомобиля в Израиле на http://www.rentcarisrael.online +972-58-7710101";
+    $subject2 = "Ваше бронирование автомобиля в Израиле на http://www.rentalcarsisrael.com +972-58-7710101";
     $headers2 = "From: " . strip_tags($reqemail) . "\r\n";
     $headers2 .= "Reply-To: ". strip_tags($reqemail) . "\r\n";
     $headers .= "CC: office@vastama.com\r\n";
@@ -83,20 +83,20 @@ $message .= "</body></html>";
     $headers2 .= "Content-Type: text/html; charset=utf-8\r\n";
     // $message2 = "test";
    mail($from,$subject2,$message,$headers2); // sends a copy of the message to the sender  
-header('Location: http://www.rentcarisrael.online/thankyou.php');
+header('Location: http://www.rentalcarsisrael.com/thankyou.php');
     }
 ?>
 <!DOCTYPE HTML>
 <html lang="ru">
 <head>
-<title>Недорогая аренда прокат автомобиля в Израиле | RentCarIsrael.online</title>
+<title>Недорогая аренда прокат автомобиля в Израиле | rentalcarsisrael.com</title>
 <meta name="keywords" content="машина прокат, машина прокат Израиле, аренда машины Израиль, avto prokat, prokat mashin, auto arenda, прокат аренда машин, где можно взять машину напрокат, заказать машину, аренда иномарок, arenda avto, стоимость аренды машины, израиль прокат автомобилей, съем машины Израиле, аренда авто, прокат машины, сьем автомобиля,автомобиль,  машина Израиле, дешевый прокат автомобиля" />
 <meta  name="description"  content="аренда прокат автомобиля в Израиле, эконом класс и семейные машины, микроавтобусы и минивэны 7-8-9 мест" />
 <meta property="fb:app_id" content="1322511981092474" />
 <meta property="og:type" content="website" />
 <meta property="og:locale" content="ru_RU" />
-<meta property="og:url" content="http://www.rentcarisrael.online" />
-<meta property="og:image" content="http://www.rentcarisrael.online/images/thankyoucar.png"/>
+<meta property="og:url" content="http://www.rentalcarsisrael.com" />
+<meta property="og:image" content="http://www.rentalcarsisrael.com/images/thankyoucar.png"/>
 <meta property="og:image:type" content="image/png" />
 <meta property="og:image:width" content="640" />
 <meta property="og:image:height" content="320" />
