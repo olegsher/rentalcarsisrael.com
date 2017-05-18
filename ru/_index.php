@@ -1,7 +1,7 @@
 <div class="container">
 	<div class="col-md-5 bann-info1 wow fadeInLeft animated" data-wow-delay=".5s">
 <!--		<i class="fa fa-columns"></i>-->
-<i> <img src="images/Thrifty-Israel.jpg" alt="машина прокат, машина прокат Израиле, аренда машины Израиль" class="img-responsive" /></i>
+<i> <img src="../images/Thrifty-Israel.jpg" alt="машина прокат, машина прокат Израиле, аренда машины Израиль" class="img-responsive" /></i>
 		<h3>БРОНИРОВАНИЕ АВТОМОБИЛЯ В ИЗРАИЛЕ ЗА ОДИН ШАГ</h3>
                 
                     
@@ -424,7 +424,7 @@
     </div>
 
 <div class="col-md-7 bann-info wow fadeInRight animated" data-wow-delay=".5s">
-<img src="images/catJ.png" alt="машина прокат, машина прокат Израиле, аренда машины Израиль" class="img-responsive" />
+<img src="../images/catJ.png" alt="машина прокат, машина прокат Израиле, аренда машины Израиль" class="img-responsive" />
 <!--<script type="text/javascript" src="https://zadarma.com/swfobject.js"></script>
 <script type="text/javascript">
         var flashvars = {};
@@ -450,7 +450,7 @@
 <br />Будет ли добавлен НДС к вашему заказу?
 <br />Эти все другие вопросы будут разрешены если вы свяжитесь с нами
  <br /><img src="../images/phone.gif" alt="Позвоните Vastama по аренде атомобиля в Израиле" /> Телефон в Израиле +972-58-7710101
-<!--  <br /><img src="images/phone.gif" alt="Позвоните Vastama по аренде атомобиля в Израиле" /> Телефон в России 7-499-1123-995 -->
+<!--  <br /><img src="../images/phone.gif" alt="Позвоните Vastama по аренде атомобиля в Израиле" /> Телефон в России 7-499-1123-995 -->
  <br /><img src="../images/whatsapp.png" alt="Позвоните Vastama по аренде атомобиля в Израиле" /> WhatsApp +972-58-7710101
  <br /><img src="../images/viber.png" alt="Позвоните Vastama по аренде атомобиля в Израиле" /> Viber +972-58-7710101
  <br /><img src="../images/mail.gif" alt="Позвоните Vastama по аренде атомобиля в Израиле" /> Почта rentcar@vastama.com
@@ -466,7 +466,7 @@
 
 
 <h4>Последние отзывы наших клиентов: </h4>
-<br><a href="https://www.facebook.com/pg/vastama.israel/reviews/"> <img src="images/facebook-icon-small.png" alt="отзывы наших клиентов пять звезд" height="20" />
+<br><a href="https://www.facebook.com/pg/vastama.israel/reviews/"> <img src="../images/facebook-icon-small.png" alt="отзывы наших клиентов пять звезд" height="20" />
  <img src="../images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />
  <img src="../images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />
  <img src="../images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />
@@ -477,7 +477,7 @@
  March 20, 2017 
 <a href="https://www.facebook.com/sasa.sim.7315">Sasa Sim</a> Спасибо за сервис и авто. Арендовал авто в Бен Гурион, сдавал в Ашдоде. Предварительно проконсультировали на русском по всем тонкостям, авто предоставили классом выше чем заказывал, деньги списаны по договоренности. Все доступно , точно и понятно. Буду обращаться еще.
 
-<br><a href="https://www.facebook.com/pg/vastama.israel/reviews/"> <img src="images/facebook-icon-small.png" alt="отзывы наших клиентов пять звезд" height="20" />
+<br><a href="https://www.facebook.com/pg/vastama.israel/reviews/"> <img src="../images/facebook-icon-small.png" alt="отзывы наших клиентов пять звезд" height="20" />
  <img src="images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />
  <img src="images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />
  <img src="images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />
@@ -487,7 +487,7 @@
  March 16, 2017 
 <a href="https://www.facebook.com/Dmitry.Tikhonofff">Dmitry Tikhonov</a> Арендовали автомобиль через Шер Олега. В качестве бонуса "получили" отзывчивого человека, всегда готового придти на помощь и дать толковый совет. Причем, оперативно, что в чужой стране бывает актуально. Рекомендую.
 
-<br><a href="https://www.facebook.com/pg/vastama.israel/reviews/"> <img src="images/facebook-icon-small.png" alt="отзывы наших клиентов пять звезд" height="20" />
+<br><a href="https://www.facebook.com/pg/vastama.israel/reviews/"> <img src="../images/facebook-icon-small.png" alt="отзывы наших клиентов пять звезд" height="20" />
  <img src="../images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />
  <img src="../images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />
  <img src="../images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />
