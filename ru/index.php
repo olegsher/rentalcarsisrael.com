@@ -107,7 +107,7 @@ header('Location: http://www.rentalcarsisrael.com/ru/thankyou.php');
 <body>
 <?php include("x__facebook.html"); ?>
 <?php include("x__google.html"); ?>
-<?php include("x__mailru.html"); ?>
+<?php include("__mailru.html"); ?>
 <?php include("__yandex.html"); ?>
 <?php include("__shema.html"); ?>
 
