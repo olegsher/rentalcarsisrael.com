@@ -17,8 +17,6 @@
 <?php include("__header.html"); ?>
 </head>
 <body>
-<?php include("__facebook.html"); ?>
-<?php include("__google.html"); ?>
 <?php include("__mailru.html"); ?>
 <?php include("__yandex.html"); ?>
 <?php include("__shema.html"); ?>
