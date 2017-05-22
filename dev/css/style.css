@@ -292,15 +292,15 @@ span.menu{
 .box{
 	width: 243px;
     height: 300px;
-    background: url(../images/1.jpg);
+    background: url(http://www.thrifty.co.il/CarImages/Rent/CarCategories/260t1.jpg) 0px 140px no-repeat;
     overflow: hidden;
 }
 .box1{
-	background: url(../images/2.jpg);
+	background: url(http://www.thrifty.co.il/CarImages/Rent/CarCategories/90t1.jpg) 0px 140px no-repeat;
 }
 
 .box2{
-	background: url(../images/3.jpg);
+	background: url(http://www.thrifty.co.il/CarImages/Rent/CarCategories/230t.jpg) 0px 140px no-repeat;
 }
 .cover{
   width: 100%;
@@ -1314,7 +1314,7 @@ h4.modal-title {
 		left: 7%;
 	}
 	.box {
-		background: url(../images/1.jpg) 0px 0px no-repeat;
+		background-image: url(http://www.thrifty.co.il/CarImages/Rent/CarCategories/10t1.jpg) 0px 0px no-repeat;
 		background-size: cover;
 		-webkit-background-size: cover;
 		-moz-background-size: cover;
@@ -1322,7 +1322,7 @@ h4.modal-title {
 		-ms-background-size: cover;
 	}
 	.box1 {
-		background: url(../images/2.jpg) 0px 0px no-repeat;
+		background: url("http://www.thrifty.co.il/CarImages/Rent/CarCategories/10t1.jpg") 0px 0px no-repeat;
 		background-size: cover;
 		-webkit-background-size: cover;
 		-moz-background-size: cover;
