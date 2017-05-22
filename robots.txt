@@ -5,4 +5,5 @@ Disallow: /fonts/
 Disallow: /css/
 Disallow: /nbproject/
 Disallow: /en/
+Disallow: /dev/
 Host: www.rentalcarsisrael.com
