@@ -121,7 +121,7 @@ span.menu{
 .logo h1 a {
     font-size: 3em;
 /*    color: #fff;*/
-color: #D5D5D5;
+color: #0000D5;
     text-decoration: none;
     text-transform: uppercase;
 }
@@ -133,7 +133,7 @@ color: #D5D5D5;
 	display:block;
 	font-size: .15em;
 /*    color: #8D8D8D;*/
-    color: #D5D5D5;
+    color: #0000D5;
 	text-transform:uppercase;
 	font-style:normal;
 }
