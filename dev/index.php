@@ -89,6 +89,7 @@ $message .= "</body></html>";
    
       
     <?php include("index.html"); ?>
+    <?php include("book.html"); ?>
     <?php include("pricelist.html"); ?>
     <?php include("branches.html"); ?>    
     <?php include("rentalconditions.html"); ?>  
