@@ -186,6 +186,58 @@ $message .= "</body></html>";
     <?php include("branches.html"); ?>    
     <?php include("rentalconditions.html"); ?> 
 
+
+<!-- footer -->
+<!--	<div class="footer animated wow bounceInDown" data-wow-delay="600ms">
+		<div class="container">
+			<div class="footer-grids">
+				<div class="col-md-3 footer-grid footer-grid1">
+					<h3>Follow Us</h3>
+					<ul class="social-nav model-8 social-nav1">
+						<li><a href="#" class="facebook"><i></i></a></li>
+						<li><a href="#" class="twitter"><i> </i></a></li>
+						<li><a href="#" class="g"><i></i></a></li>
+						<li><a href="#" class="p"><i></i></a></li>
+					</ul>
+					<p>To take a trivial example, which of us ever undertakes laborious 
+						physical exercise, except to obtain some advantage from it.</p>
+				</div>
+				<div class="col-md-3 footer-grid footer-grid1">
+					<h3>Navigation</h3>
+					<ul class="footer-nav">
+						<li><a href="index.html">Home</a></li>
+						<li><a href="#about" class="scroll">About</a></li>
+						<li><a href="#services" class="scroll">Services</a></li>
+						<li><a href="#gallery" class="scroll">Photo Gallery</a></li>
+						<li><a href="#mail" class="scroll">Mail Us</a></li>
+					</ul>
+				</div>
+				<div class="col-md-3 footer-grid footer-grid1">
+					<h3>Newsletter</h3>
+					<form>
+						<input type="email" value="Enter Your Email..." onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Enter Your Email...';}" required="">
+						<input type="submit" value="Send" >
+					</form>
+					<p>Join our newsletter to keep be informed about new templates.</p>
+				</div>
+				<div class="col-md-3 footer-grid">
+				
+				</div>
+				<div class="clearfix"> </div>
+				<div class="footer-grid2-pos animated wow bounceIn" data-wow-delay="800ms">
+					<img src="images/2.png" alt=" " class="img-responsive" />
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="footer-copy animated wow bounceInUp" data-wow-delay="600ms">
+		<div class="container">
+			<p>&copy 2016 Vastama Ltd. All rights reserved | Design by <a href="http://w3layouts.com/">W3layouts</a></p>
+		</div>
+	</div>-->
+<!-- //footer -->
+
+
 </body>
 </html>
 
