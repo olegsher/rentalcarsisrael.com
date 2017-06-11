@@ -133,9 +133,9 @@ $message .= "</body></html>";
 <!-- //here ends scrolling icon -->
 
 <!-- //for-mobile-apps -->
-<link href="css/bootstrap.css" rel='stylesheet' type='text/css' />
+<link href="dev/css/bootstrap.css" rel='stylesheet' type='text/css' />
 <!-- Custom Theme files -->
-<link href="css/style.css" rel='stylesheet' type='text/css' />
+<link href="css/style_1.css" rel='stylesheet' type='text/css' />
 
 <!-- animation-effect -->
 <link href="css/animate.min.css" rel="stylesheet"> 
