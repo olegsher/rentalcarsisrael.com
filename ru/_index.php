@@ -31,7 +31,7 @@
 				<label  for="car-select">Выбирайте класс автомобиля</label>
                                
                         
-						 <select class="form-control" name="car-select" id="car-select" required >
+		<select class="form-control" name="car-select" id="car-select" required >
                      <option value="" >Категории автомобилей</option>							
 							<option value="Category Q" >Fiat 500(два места) или похожая в категории Q - от 24$ в сутки(франшиза - 475$)</option>
 							<option value="Category B" >Kia Picanto(механика) или похожая в категории B - от 24$ в сутки(франшиза - 475$)</option>
@@ -46,12 +46,12 @@
 							<option value="Category T" >Fiat Doblo(механика, 5 мест) или похожая в категории T - от 60$ в сутки(франшиза - 475$)</option>
 							<option value="Category J" >Hyundai Tucson(автомат, 5 мест) или похожая в категории J - от 63$ в сутки(франшиза - 715$)</option>
 							<option value="Category U" >Mazda 5(автомат, 7 мест) или похожая в категории U - от 60$ в сутки(франшиза - 715$)</option>
-                     <option value="Category V" >Mitsubishi Outlander(автомат, 7 мест) или похожая в категории V - от 77$ в сутки(франшиза - 960$)</option>
-                     <option value="Category S" >Hyundai i800(механика, 8 мест) или похожая в категории S - от 104$ в сутки(франшиза - 960$)</option>
-                     <option value="Category V8" >Toyota Sienna(автомат, 8 мест) или похожая в категории V8 - от 120$ в сутки(франшиза - 960$)</option>
-                     <option value="Category Y" >Citroen Jumpy(механика, 9 мест)или похожая в категории Y - от 94$ в сутки(франшиза - 960$)</option>
+                                                        <option value="Category V" >Mitsubishi Outlander(автомат, 7 мест) или похожая в категории V - от 77$ в сутки(франшиза - 960$)</option>
+                                                        <option value="Category S" >Hyundai i800(механика, 8 мест) или похожая в категории S - от 104$ в сутки(франшиза - 960$)</option>
+                                                        <option value="Category V8" >Toyota Sienna(автомат, 8 мест) или похожая в категории V8 - от 120$ в сутки(франшиза - 960$)</option>
+                                                        <option value="Category Y" >Citroen Jumpy(механика, 9 мест)или похожая в категории Y - от 94$ в сутки(франшиза - 960$)</option>
 							<option value="Category Z" >Hyundai i800(автомат, 9 мест) или похожая в категории Z - от 131$ в сутки(франшиза - 960$)</option>
-                     <option value="Category P" >Volvo S80(автомат) или похожая в категории P - от 116$ в сутки(франшиза - 960$)</option>
+                                                        <option value="Category P" >Volvo S80(автомат) или похожая в категории P - от 116$ в сутки(франшиза - 960$)</option>
 							<option value="Category K" >BMW 318i(автомат) или похожая в категории K - от 84$ в сутки(франшиза - 960$)</option>
 							<option value="Category W" >BMW i535(автомат) или похожая в категории W - от 155$ в сутки(франшиза - 960$)</option>
 							<option value="Category O" >Toyota Highlander(автомат) или похожая в категории O - от 174$ в сутки(франшиза - 960$)</option>
