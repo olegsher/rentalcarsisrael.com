@@ -86,13 +86,108 @@ $message .= "</body></html>";
 //header('Location: http://www.rentalcarsisrael.com/thankyou.php');
     }
 ?>
-   
+<!DOCTYPE html>
+<html>
+<head>
+<title>Rental Cars Israel by Vastama Ltd</title>
+<!-- for-mobile-apps -->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="car rental israel,car hire israel,cheap car rental israel,car rental israel cheap,hire car israel,car hire israel compare,luxury car rental israel" />
+<meta  name="description"  content="Minivans and Luxury cars for rent in Israel, economy and compact car classes for book online" />
+<meta property="fb:app_id" content="1322511981092474" />
+<meta property="og:type" content="website" />
+<meta property="og:locale" content="en" />
+<meta property="og:url" content="http://www.rentalcarsisrael.com/en" />
+<meta property="og:image" content="http://www.rentalcarsisrael.com/images/thankyoucar.png"/>
+<meta property="og:image:type" content="image/png" />
+<meta property="og:image:width" content="640" />
+<meta property="og:image:height" content="320" />
+<meta property="og:title" content="Minivans and Luxury cars for rent in Israel, economy and compact classes for book online" />
+<meta property="og:description" content="car rental israel,car hire israel,cheap car rental israel,car rental israel cheap,hire car israel,car hire israel compare,luxury car rental israel"/>
+
+<!-- js -->
+   <script src="js/jquery-1.11.1.min.js"></script>
+<!-- //js -->
+<link rel="shortcut icon" href="favicon.ico">
+<!--<link href="css/datepicker.css" rel="stylesheet">-->
+  <!-- Main Styles -->
+<!--  <link href="../css/styles-red.css" rel="stylesheet">-->
+  <script src="js/bootstrap.min.js"></script>
+<!-- here stars scrolling icon -->
+	<script type="text/javascript">
+		$(document).ready(function() {
+			/*
+				var defaults = {
+				containerID: 'toTop', // fading element id
+				containerHoverID: 'toTopHover', // fading element hover id
+				scrollSpeed: 1200,
+				easingType: 'linear' 
+				};
+			*/
+								
+			$().UItoTop({ easingType: 'easeOutQuart' });
+								
+			});
+	</script>
+<!-- //here ends scrolling icon -->
+
+<!-- //for-mobile-apps -->
+<link href="css/bootstrap.css" rel='stylesheet' type='text/css' />
+<!-- Custom Theme files -->
+<link href="css/style.css" rel='stylesheet' type='text/css' />
+
+<!-- animation-effect -->
+<link href="css/animate.min.css" rel="stylesheet"> 
+<script src="js/wow.min.js"></script>
+<script>
+ new WOW().init();
+</script>
+<!-- //animation-effect -->
+<!-- Custom Theme files -->
+<!--webfont-->
+<link href='//fonts.googleapis.com/css?family=Vollkorn:400,400italic,700,700italic' rel='stylesheet' type='text/css'>
+<link href='//fonts.googleapis.com/css?family=Cabin:400,400italic,500,500italic,600,600italic,700,700italic' rel='stylesheet' type='text/css'>
+<!-- start-smoth-scrolling -->
+<script type="text/javascript" src="js/move-top.js"></script>
+<script type="text/javascript" src="js/easing.js"></script>
+<!--<script type="text/javascript" src="js/bootstrap-datepicker.js"></script>-->
+<script type="text/javascript">
+	jQuery(document).ready(function($) {
+		$(".scroll").click(function(event){		
+			event.preventDefault();
+			$('html,body').animate({scrollTop:$(this.hash).offset().top},1000);
+		});
+	});
+</script>
+<!-- start-smoth-scrolling -->
+</head>
+<body>
+<script type="application/ld+json"> { 
+"@context" : "http://schema.org",
+"@type" : "TravelAgency", 
+"name":"Vastama Ltd",
+"url":"http://www.rentalcarsisrael.com",
+"email":"admin@vastama.com",
+"telephone":"972587710101",
+"openingHours": [ 
+"Su-Sa 09:00-18:00"], 
+"aggregateRating":{
+"@type":"AggregateRating",
+"ratingValue":"5",
+"reviewCount":"5"},
+"priceRange":"2",
+"paymentAccepted":"Visa, Master Card, Amex"
+} </script>   
       
     <?php include("index.html"); ?>
     <?php include("book.html"); ?>
     <?php include("pricelist.html"); ?>
     <?php include("branches.html"); ?>    
-    <?php include("rentalconditions.html"); ?>  
+    <?php include("rentalconditions.html"); ?> 
+
+</body>
+</html>
 
 
 
