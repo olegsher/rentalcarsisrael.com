@@ -10,7 +10,7 @@
     <!-- <hr /><a  href="http://www.rentalcarsisrael.com/transfer.php">Частный трансфер из аэропорта Бен Гурион начиная от 60$</a> -->
 	 <hr /><a href="http://www.israeltour.online"><span><img src="http://www.privateisrael.com/wp-content/uploads/2017/03/flashing.gif" alt="лучшие цены privateisrael.com" width="20" height="20" />
  Индивидуальные экскурсии по Израилю с частным гидом 250$</span></a>    
-    <br><img src="http://www.privateisrael.com/wp-content/uploads/2017/03/flashing.gif" alt="Аренда прокат всех категорий машин на Майские праздники по цене низкого сезона" width="20" height="20" />Аренда прокат всех категорий машин на Майские праздники по цене низкого сезона
+    
     <br><img src="http://www.privateisrael.com/wp-content/uploads/2017/03/flashing.gif" alt="Отделения по аренде прокату автомобилей во всех крупных городах Израиля" width="20" height="20" />Отделения по аренде прокату автомобилей во всех крупных городах Израиля
     <br><img src="http://www.privateisrael.com/wp-content/uploads/2017/03/flashing.gif" alt="Неограниченный километраж при заказе 3-29 дней" width="20" height="20" />Неограниченный километраж при заказе 3-29 дней
     <br><img src="http://www.privateisrael.com/wp-content/uploads/2017/03/flashing.gif" alt="Огромные скидки при бронирование автомобиля на 30+ дней" width="20" height="20" />Огромные скидки при бронирование автомобиля на 30+ дней      
