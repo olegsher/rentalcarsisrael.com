@@ -236,7 +236,11 @@ $message .= "</body></html>";
 		</div>
 	</div>-->
 <!-- //footer -->
-
+<div class="footer-copy animated wow bounceInUp" data-wow-delay="600ms">
+		<div class="container">
+			<p>&copy 2014-2017 Vastama Ltd. All rights reserved | Design by <a href="http://w3layouts.com/">W3layouts</a></p>
+		</div>
+	</div>
 
 </body>
 </html>
