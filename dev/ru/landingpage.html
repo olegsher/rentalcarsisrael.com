@@ -9,86 +9,159 @@ and open the template in the editor.
         <title>TODO supply a title</title>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <script type="text/javascript">
-		var isFirstRun = true;
-
-		function sleep(milliseconds) {
-		  var start = new Date().getTime();
-		  for (var i = 0; i < 1e7; i++) {
-		    if ((new Date().getTime() - start) > milliseconds){
-		      break;
-		    }
-		  }
-		}
-
-
-		$(function() {
-			var $imgs = $('#images .carousel'),
-				$capt = $('#captions .carousel'),
-				$timr = $('#timer');
-
-			$imgs.carouFredSel({
-				circular: true,
-				scroll: {
-					easing: 'quadratic',
-					duration: 0.3,
-					timeoutDuration: 3000,
-					onBefore: function( data ) {
-						if (isFirstRun) {
-							isFirstRun = false;
-							sleep(3000);
-						} else {
-							$capt.trigger( 'slideTo', [ '.' + data.items.visible.first().attr( 'alt' ) ] );
-							$timr.stop().animate({
-								opacity: 0
-							}, data.scroll.duration);
-						}
-					},
-					onAfter: function() {
-						$timr.stop().animate({
-							opacity: 1
-						}, 150);
-					}
-				},
-				pagination: {
-					container: '.pager',
-					anchorBuilder: function( i ) {
-						return '<a class="p' + i + '" href="#"></a>';
-					}
-				}
-			});
-			$capt.carouFredSel({
-				circular: false,
-				auto: false,
-				scroll: {
-					easing: 'quadratic',
-					duration: 0.3
-				}
-			});
-            $("#stage").height("575px");
-		});
-	</script>
-	
-<script type="text/javascript">
-                var ie = (function(){
-
-                    var undef,
-                            v = 3,
-                            div = document.createElement('div'),
-                            all = div.getElementsByTagName('i');
-
-                    while (
-                            div.innerHTML = '<!--[if gt IE ' + (++v) + ']><i></i><![endif]-->',
-                                    all[0]
-                            );
-
-                    return v > 4 ? v : undef;
-
-                }());
-
-            </script>
+        
     </head>
     <body>
-        <div>TODO write content</div>
+        <div id="contents" class="seoReviewsList">
+	
+
+<h1 id="title">Find out more about our wide range of vehicles</h1>
+
+<section>
+	<div class="cardata">
+		<img src="img/carpic_1.jpg" width="299px" height="79px" />
+		<div class="shim">
+			<ul class="price">
+				<li class="text">from</li>
+				<li>$29.00</li>
+				<li class="text">per day*</li>
+			</ul>
+		</div>
+	</div>
+	<div class="details">
+		<h3>Top Sellers</h3>
+		<p>
+			From small and medium cars, to sedans, family cars, van rental or even something special to add a touch of luxury to your journey.
+			<a href="/reviews/top-sellers">Read more</a>
+			</p>
+	</div>
+	<div class="btns">
+		<span class="js_opensearch ">
+            <input class="ctaFlat" type="button" value="Book now" >
+                </span>
+	</div>
+</section><div class="spacing"></div>
+					
+<section class="nobanner">
+	<div class="details">
+		<h3>Small & Medium Cars</h3>
+		<p>
+			A fantastic range of the most recent small and medium vehicles; hit the road in no time.
+			<a href="/reviews/small-medium-cars">Read more</a>
+			</p>
+	</div>
+	<div class="cardata">
+		<img width="205px" src="img/carpic_4.png" />
+		<ul class="price">
+			<li class="text">from</li>
+			<li>$29.00</li>
+			<li class="text">per day*</li>
+		</ul>
+	</div>
+	<div class="btns">
+		<span class="js_opensearch ">
+            <input class="ctaFlat" type="button" value="Book now" >
+                </span>
+	</div>
+</section><div class="spacing"></div>
+					
+<section>
+	<div class="cardata">
+		<img src="img/carpic_2.jpg" width="299px" height="79px" />
+		<div class="shim">
+			<ul class="price">
+				<li class="text">from</li>
+				<li>$44.00</li>
+				<li class="text">per day*</li>
+			</ul>
+		</div>
+	</div>
+	<div class="details">
+		<h3>Family Cars</h3>
+		<p>
+			Take the road with your family in one of Europcar's spacious family cars or MPVs.
+			<a href="/reviews/mpv-family-cars">Read more</a>
+			</p>
+	</div>
+	<div class="btns">
+		<span class="js_opensearch ">
+            <input class="ctaFlat" type="button" value="Book now" >
+                </span>
+	</div>
+</section><div class="spacingH"></div>
+					
+<section class="nobanner">
+	<div class="details">
+		<h3>Sedans</h3>
+		<p>
+			Comfort, convenience and quality service? You'll get all that and more when you rent a sedan with Europcar..
+			<a href="/reviews/sedans">Read more</a>
+			</p>
+	</div>
+	<div class="cardata">
+		<img width="205px" src="img/carpic_5.png" />
+		<ul class="price">
+			<li class="text">from</li>
+			<li>$40.00</li>
+			<li class="text">per day*</li>
+		</ul>
+	</div>
+	<div class="btns">
+		<span class="js_opensearch ">
+            <input class="ctaFlat" type="button" value="Book now" >
+                </span>
+	</div>
+</section><div class="spacing"></div>
+					
+<section>
+	<div class="cardata">
+		<img src="img/carpic_3.jpg" width="299px" height="79px" />
+		<div class="shim">
+			<ul class="price">
+				<li class="text">from</li>
+				<li>$45.00</li>
+				<li class="text">per day*</li>
+			</ul>
+		</div>
+	</div>
+	<div class="details">
+		<h3>Luxury & Prestige Cars</h3>
+		<p>
+			Check out our wide range of prestige vehicles.
+			<a href="/reviews/luxury-prestige-cars">Read more</a>
+			</p>
+	</div>
+	<div class="btns">
+		<span class="js_opensearch ">
+            <input class="ctaFlat" type="button" value="Book now" >
+                </span>
+	</div>
+</section><div class="spacing"></div>
+					
+<section class="nobanner">
+	<div class="details">
+		<h3>Vans & Trucks</h3>
+		<p>
+			It's easy for you to get where you're going - whether you have a large group or a heavy load.
+			<a href="https://www.europcar.com/van-and-truck-rental">Read more</a>
+			</p>
+	</div>
+	<div class="cardata">
+		<img width="205px" src="img/Untitled.png" />
+		<ul class="price">
+			<li class="text">from</li>
+			<li>$55.00</li>
+			<li class="text">per day*</li>
+		</ul>
+	</div>
+	<div class="btns">
+		<span class="js_opensearch truckTab">
+            <input class="ctaFlat" type="button" value="Book now" >
+                </span>
+	</div>
+</section>
+<div class="spacingH"></div>
+                    
+</div>
     </body>
 </html>
