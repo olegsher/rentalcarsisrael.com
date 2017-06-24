@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>TODO supply a title</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <script type="text/javascript">
+		var isFirstRun = true;
+
+		function sleep(milliseconds) {
+		  var start = new Date().getTime();
+		  for (var i = 0; i < 1e7; i++) {
+		    if ((new Date().getTime() - start) > milliseconds){
+		      break;
+		    }
+		  }
+		}
+
+
+		$(function() {
+			var $imgs = $('#images .carousel'),
+				$capt = $('#captions .carousel'),
+				$timr = $('#timer');
+
+			$imgs.carouFredSel({
+				circular: true,
+				scroll: {
+					easing: 'quadratic',
+					duration: 0.3,
+					timeoutDuration: 3000,
+					onBefore: function( data ) {
+						if (isFirstRun) {
+							isFirstRun = false;
+							sleep(3000);
+						} else {
+							$capt.trigger( 'slideTo', [ '.' + data.items.visible.first().attr( 'alt' ) ] );
+							$timr.stop().animate({
+								opacity: 0
+							}, data.scroll.duration);
+						}
+					},
+					onAfter: function() {
+						$timr.stop().animate({
+							opacity: 1
+						}, 150);
+					}
+				},
+				pagination: {
+					container: '.pager',
+					anchorBuilder: function( i ) {
+						return '<a class="p' + i + '" href="#"></a>';
+					}
+				}
+			});
+			$capt.carouFredSel({
+				circular: false,
+				auto: false,
+				scroll: {
+					easing: 'quadratic',
+					duration: 0.3
+				}
+			});
+            $("#stage").height("575px");
+		});
+	</script>
+	
+<script type="text/javascript">
+                var ie = (function(){
+
+                    var undef,
+                            v = 3,
+                            div = document.createElement('div'),
+                            all = div.getElementsByTagName('i');
+
+                    while (
+                            div.innerHTML = '<!--[if gt IE ' + (++v) + ']><i></i><![endif]-->',
+                                    all[0]
+                            );
+
+                    return v > 4 ? v : undef;
+
+                }());
+
+            </script>
+    </head>
+    <body>
+        <div>TODO write content</div>
+    </body>
+</html>
