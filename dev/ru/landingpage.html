@@ -9,10 +9,109 @@ and open the template in the editor.
         <title>TODO supply a title</title>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <link rel="stylesheet" href="https://static.europcar.com/resources/europcar-base-resources.min.css?_=2.10.9" media="screen" type="text/css"/>
-<!--<script type="text/javascript" src="https://static.europcar.com/resources/2e64e4a16fd21765fbe2520f630725c.min.js?_=2.10.9"></script>-->
-<link rel="stylesheet" href="https://static.europcar.com/resources/b6e922c5910b128240da1ad491463.min.css?_=2.10.9" media="print" type="text/css"/>
+<style type="text/css">
+section {
+	position: relative;
+	width: 299px;
+	height: 240px;
+	border-bottom: 1px solid #d8d8d8;
+	background: #f0f0f0;
+	float: left;
+}
 
+section .details {
+	padding: 10px 10px 10px 12px;
+	height: 73px;
+}
+
+section .details h3 {
+	font-weight: bold;
+	margin-bottom: 5px;
+}
+
+section .details p {
+	font-size: 14px;
+}
+
+section .cardata {
+	position: relative;
+	height: 100px;
+}
+
+section .cardata img {
+	
+}
+
+section .cardata .shim {
+	position: absolute;
+	top: 0;
+	left: 0;
+	height: 79px;
+	background: transparent url('img/shadow_car.png') no-repeat 0 0;
+	background-color: transparent;
+	background-image: -webkit-gradient(linear, left, from(transparent),
+		to(#000));
+	background-image: -moz-linear-gradient(to left, transparent, #000);
+	background-image: -ms-linear-gradient(to left, transparent, #000);
+	background-image: -o-linear-gradient(to left, transparent, #000);
+	background-image: linear-gradient(to left, transparent, #000)
+}
+
+section .cardata .price {
+	position: relative;
+	top: 10px;
+	left: 14px;
+}
+
+section .cardata .price li {
+	color: #FFF;
+	font-size: 24px;
+	font-weight: bold;
+}
+
+section .cardata .price li.text {
+	font-size: 12px;
+	font-weight: normal;
+}
+
+section .btns {
+	text-align: right;
+	padding-right: 15px;
+	clear: both
+}
+
+section.nobanner {
+	width: 299px;
+	overflow: hidden;
+}
+
+section.nobanner .cardata {
+
+}
+
+section.nobanner .cardata .price {
+	position: absolute;
+	left: 164px;
+	top: 20px;
+}
+
+section.nobanner .cardata .price li {
+	color: #333;
+}
+
+.spacing {
+	position: relative;
+	float: left;
+	width: 10px;
+	height: 208px;
+}
+
+.spacingH {
+	position: relative;
+	clear: both;
+	height: 10px;
+}
+</style>
     </head>
     <body>
         <div id="contents" class="seoReviewsList">
