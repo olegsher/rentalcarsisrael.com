@@ -62,8 +62,8 @@ and open the template in the editor.
         
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="keywords" content="Hire Mazda3, 18$/day, car rental israel,car hire israel,cheap car rental israel,car rental israel cheap,hire car israel,car hire israel compare,luxury car rental israel" />
-        <meta  name="description"  content="Hire Mazda 3 in Israel starting 18$/day. Minivans and Luxury cars for rent in Israel, economy and compact car classes for book online" />
+        <meta name="keywords" content="Hire Mazda3, 18$, car rental israel,car hire israel,cheap car rental israel,car rental israel cheap,hire car israel,car hire israel compare,luxury car rental israel" />
+        <meta  name="description"  content="Hire Mazda 3 in Israel starting 18$. Minivans and Luxury cars for rent in Israel, economy and compact car classes for book online" />
         <meta property="fb:app_id" content="1322511981092474" />
         <meta property="og:type" content="website" />
         <meta property="og:locale" content="en" />
@@ -72,7 +72,7 @@ and open the template in the editor.
         <meta property="og:image:type" content="image/png" />
         <meta property="og:image:width" content="640" />
         <meta property="og:image:height" content="320" />
-        <meta property="og:title" content="Hire Mazda 3 in Israel starting 18$/day. Minivans and Luxury cars for rent in Israel, economy and compact classes for book online" />
+        <meta property="og:title" content="Hire Mazda 3 in Israel starting 18$, Minivans and Luxury cars for rent in Israel, economy and compact classes for book online" />
         <meta property="og:description" content="Hire Mazda 3 in Israel starting 18$/day,car rental israel,car hire israel,cheap car rental israel,car rental israel cheap,hire car israel,car hire israel compare,luxury car rental israel"/>
   <title>Hire Mazda 3 in Israel starting 18$/day</title>
         
@@ -211,11 +211,11 @@ span.price:after {
             
             
         <div class="container-fluid">
-              <h1>Hire Mazda 3 in Israel starting 18$/day</h1>
+              <h1>Hire Mazda 3 in Israel starting 18$</h1>
               <div class="row">
                 <div class="col-sm-6 biseller-column" >
 <!--                  <a href="single.html">	-->
-                    <img src="images/i.png" alt="Hire Mazda 3 in Israel starting 18$/day" class="img-responsive"/>
+                    <img src="images/i.png" alt="Hire Mazda 3 in Israel starting 18$" class="img-responsive"/>
                     <span class="price">Call +44 7978204454</span>
 <!--                  </a>-->
                 </div>
