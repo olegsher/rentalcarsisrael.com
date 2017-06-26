@@ -6,7 +6,7 @@ if(isset($_POST['submit'])){
     $from = $_POST['email']; // this is the sender's Email address
     $first_name = $_POST['First_name'];
     $phone = $_POST['phone'];    
-    $car_select = $_POST['car-select'];
+    $car_select = "Category I";
     $message = $_POST['message'];
    
 
