@@ -74,7 +74,7 @@ and open the template in the editor.
         <meta property="og:image:height" content="320" />
         <meta property="og:title" content="Hire Mazda 3 in Israel starting 18$, Minivans and Luxury cars for rent in Israel, economy and compact classes for book online" />
         <meta property="og:description" content="Hire Mazda 3 in Israel starting 18$/day,car rental israel,car hire israel,cheap car rental israel,car rental israel cheap,hire car israel,car hire israel compare,luxury car rental israel"/>
-  <title>Hire Mazda 3 in Israel starting 18$/day</title>
+  <title>Hire Mazda 3 in Israel starting 18$</title>
         
         
         
