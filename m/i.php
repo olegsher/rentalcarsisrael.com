@@ -221,11 +221,18 @@ span.price:after {
                 </div>
                 <div class="col-sm-6 ad-info">
                   <h2>Rental Car Category: I(SDAR) 
-                      <br>Mazda 3 or Similar<br>Automatic</h2>
+                      <br>Mazda 3 or Similar</h2>
+                    Air Conditioning Automatic Transmission<br>
                     Hyundai i35, Subaru Impreza, Renault Megan, Skoda Roomster, 
                     Toyota Corolla, Ford Focus, Kia Forte, Mitsubishi Lancer, Hyundai i30, Kia Ceed, Citroen C-Elysee or similar
                     <br>Car models are for guidance only and similar car models may be supplied
                     <br>Minimum age required is 23 + D.L. valid for at least one year.
+
+                <h3>No credit card fees
+                    <br>No amendment fees
+                    <br>24/7 phone support
+
+ </h3>
 
                   <h4>Available for rent in following branches in Israel: </h4>
                   Ben Gurion Int'l Airport, Tel Aviv, Eilat, Jerusalem, Kfar Saba, Natanya, Ashdod, Bnei Brak, 
