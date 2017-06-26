@@ -62,8 +62,8 @@ and open the template in the editor.
         
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="keywords" content="car rental israel,car hire israel,cheap car rental israel,car rental israel cheap,hire car israel,car hire israel compare,luxury car rental israel" />
-        <meta  name="description"  content="Minivans and Luxury cars for rent in Israel, economy and compact car classes for book online" />
+        <meta name="keywords" content="Hire Mazda3, 18$/day, car rental israel,car hire israel,cheap car rental israel,car rental israel cheap,hire car israel,car hire israel compare,luxury car rental israel" />
+        <meta  name="description"  content="Hire Mazda 3 in Israel starting 18$/day. Minivans and Luxury cars for rent in Israel, economy and compact car classes for book online" />
         <meta property="fb:app_id" content="1322511981092474" />
         <meta property="og:type" content="website" />
         <meta property="og:locale" content="en" />
@@ -72,9 +72,9 @@ and open the template in the editor.
         <meta property="og:image:type" content="image/png" />
         <meta property="og:image:width" content="640" />
         <meta property="og:image:height" content="320" />
-        <meta property="og:title" content="Minivans and Luxury cars for rent in Israel, economy and compact classes for book online" />
-        <meta property="og:description" content="car rental israel,car hire israel,cheap car rental israel,car rental israel cheap,hire car israel,car hire israel compare,luxury car rental israel"/>
-  <title>Car Rental Israel by Vastama Ltd</title>
+        <meta property="og:title" content="Hire Mazda 3 in Israel starting 18$/day. Minivans and Luxury cars for rent in Israel, economy and compact classes for book online" />
+        <meta property="og:description" content="Hire Mazda 3 in Israel starting 18$/day,car rental israel,car hire israel,cheap car rental israel,car rental israel cheap,hire car israel,car hire israel compare,luxury car rental israel"/>
+  <title>Hire Mazda 3 in Israel starting 18$/day</title>
         
         
         
