@@ -218,17 +218,17 @@ span.price:after {
                     <img src="images/i.png" alt="Hire Mazda 3 in Israel starting 18$" class="img-responsive"/>
                     <span class="price">WhatsApp/Viber +972-58-7710101</span>
 <!--                  </a>-->
-
+<hr/>Car models are for guidance only and similar car models may be supplied
+                    <br>Minimum age required is 23 + D.L. valid for at least one year.<hr/>
                 </div>
                 <div class="col-sm-6 ad-info">
                   <h2>Rental Car Category: I(SDAR) 
                       <br>Mazda 3 or Similar</h2>
                     <img src="images/blue_star_20px.png" alt="Hire Mazda 3 in Israel starting 18$" />Air Conditioning 
                     <img src="images/blue_star_20px.png" alt="Hire Mazda 3 in Israel starting 18$" />Automatic Transmission<br>
-                    Hyundai i35, Subaru Impreza, Renault Megan, Skoda Roomster, 
+                    <hr/>Hyundai i35, Subaru Impreza, Renault Megan, Skoda Roomster, 
                     Toyota Corolla, Ford Focus, Kia Forte, Mitsubishi Lancer, Hyundai i30, Kia Ceed, Citroen C-Elysee or similar
-                    <br>Car models are for guidance only and similar car models may be supplied
-                    <br>Minimum age required is 23 + D.L. valid for at least one year.
+                    
 
                 <div class="alert alert-success">
   <strong><img src="images/blue_star_20px.png" alt="Hire Mazda 3 in Israel starting 18$" />No credit card fees <img src="images/blue_star_20px.png" alt="Hire Mazda 3 in Israel starting 18$" />  No amendment fees <img src="images/blue_star_20px.png" alt="Hire Mazda 3 in Israel starting 18$" /> 24/7 phone support</strong> 
@@ -250,7 +250,7 @@ span.price:after {
                       <input type="text" name="phone" required class="form-control" placeholder="Phone/WhatsApp/Viber" >  
                       <input type="text" name="message" class="form-control" placeholder="message">      
                     <div class="clearfix"></div>
-                    <input type="submit" class="submit" name="submit" value="Send Form" id="checkoutModalLabel">
+                    <input type="submit" class="btn .btn-success" name="submit" value="Send Form" id="checkoutModalLabel">
                   </form>           
                 <h5>or message us by <img src="images/viber_whatsapp_icon.png" alt="Hire Mazda 3 in Israel starting 18$" /> +972-58-771-0101</h5>
                 
