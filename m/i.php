@@ -229,9 +229,9 @@ span.price:after {
                     <br>Car models are for guidance only and similar car models may be supplied
                     <br>Minimum age required is 23 + D.L. valid for at least one year.
 
-                <h5 style="color:red;">No credit card fees
-                    <br>No amendment fees
-                    <br>24/7 phone support
+                <h5><img src="images/blue_star_20px.png" alt="Hire Mazda 3 in Israel starting 18$" />No credit card fees
+                    <br><img src="images/blue_star_20px.png" alt="Hire Mazda 3 in Israel starting 18$" />No amendment fees
+                    <br><img src="images/blue_star_20px.png" alt="Hire Mazda 3 in Israel starting 18$" />24/7 phone support
 
  </h5>
 
