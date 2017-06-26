@@ -6,7 +6,7 @@ if(isset($_POST['submit'])){
     $from = $_POST['email']; // this is the sender's Email address
     $first_name = $_POST['First_name'];
     $phone = $_POST['phone'];    
-    $car_select = "Category I";
+    $car_select = $_POST['car-select'];
     $message = $_POST['message'];
    
 
@@ -19,9 +19,9 @@ if(isset($_POST['submit'])){
     $subject = $_POST['First_name'] . " " . $_POST['car-select'] . " " . "rentcarisrael.online";    
             $message = '<html lang="en"><body>';
             $message .= '<hr />';
-            $message .= 'Rent car Israel http://www.rentcarisrael.online +972-58-7710101';
+            $message .= 'Rental cars Israel http://www.rentalcarsisrael.com +972-58-7710101';
             $message .= '<hr />';
-$message .= '<img src="http://www.rentcarisrael.online/images/Thrifty-Israel.jpg" alt="Бронирование автомобиля в Израиле +972-58-7710101" />';
+$message .= '<img src="http://www.rentalcarsisrael.com/images/Thrifty-Israel.jpg" alt="Rental cars Israel +972-58-7710101" />';
 $message .= '<table rules="all" style="border-color: #666;" cellpadding="10">';
 $message .= "<tr style='background: #eee;'><td><strong>First Name:</strong> </td><td>" . strip_tags($_POST['First_name']) . "</td></tr>";
 $message .= "<tr><td><strong>Email:</strong> </td><td>" . strip_tags($_POST['email']) . "</td></tr>";
@@ -34,7 +34,7 @@ $message .= "</body></html>";
 
      mail($to,$subject,$message,$headers);
     
-    $subject2 = "Rent car in Israel http://www.rentcarisrael.online +972-58-7710101";
+    $subject2 = "Rent car in Israel http://www.rentalcarsisrael.com +972-58-7710101";
     $headers2 = "From: " . strip_tags($reqemail) . "\r\n";
     $headers2 .= "Reply-To: ". strip_tags($reqemail) . "\r\n";
     $headers .= "CC: office@vastama.com\r\n";
@@ -42,7 +42,7 @@ $message .= "</body></html>";
     $headers2 .= "Content-Type: text/html; charset=utf-8\r\n";
     
    mail($from,$subject2,$message,$headers2); // sends a copy of the message to the sender  
-//header('Location: http://www.rentcarisrael.online/thankyou.php');
+//header('Location: http://www.rentalcarsisrael.com/thankyou.php');
     }
 ?>
 
@@ -247,7 +247,7 @@ span.price:after {
                 <form action="#" method="post" name="car-select-form" id="car-select-form">
                     
                     <input type="text" name="First_name" required class="form-control" placeholder="First and Last Name">  
-<!--                     <input type="text" name="Last_name" required class="form-control" placeholder="Last Name">  -->
+                    <input type="hidden" name="car-select" value="Category I">  
                     <input type="email" name="email" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,3}$" required id="email" class="form-control" placeholder="Email address">  
                       <input type="text" name="phone" required class="form-control" placeholder="Phone/WhatsApp/Viber" >  
                       <input type="text" name="message" class="form-control" placeholder="message">      
