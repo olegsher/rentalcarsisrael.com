@@ -230,8 +230,8 @@ span.price:after {
                     <br>Minimum age required is 23 + D.L. valid for at least one year.
 
                 <h5><img src="images/blue_star_20px.png" alt="Hire Mazda 3 in Israel starting 18$" />No credit card fees
-                    <br><img src="images/blue_star_20px.png" alt="Hire Mazda 3 in Israel starting 18$" />No amendment fees
-                    <br><img src="images/blue_star_20px.png" alt="Hire Mazda 3 in Israel starting 18$" />24/7 phone support
+                    <img src="images/blue_star_20px.png" alt="Hire Mazda 3 in Israel starting 18$" />No amendment fees
+                    <img src="images/blue_star_20px.png" alt="Hire Mazda 3 in Israel starting 18$" />24/7 phone support
 
  </h5>
 
@@ -251,7 +251,7 @@ span.price:after {
                     <div class="clearfix"></div>
                     <input type="submit" class="submit" name="submit" value="Send Form" id="checkoutModalLabel">
                   </form>           
-                <h5>or message us by Whatsapp/Viber +972-58-771-0101</h5>
+                <h5>or message us by <img src="images/viber_whatsapp_icon.png" alt="Hire Mazda 3 in Israel starting 18$" /> +972-58-771-0101</h5>
                 
                 
                 </div>
