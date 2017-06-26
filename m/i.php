@@ -229,11 +229,11 @@ span.price:after {
                     <br>Car models are for guidance only and similar car models may be supplied
                     <br>Minimum age required is 23 + D.L. valid for at least one year.
 
-                <h3>No credit card fees
+                <h5 style="color:red;">No credit card fees
                     <br>No amendment fees
                     <br>24/7 phone support
 
- </h3>
+ </h5>
 
                   <h4>Available for rent in following branches in Israel: </h4>
                   Ben Gurion Int'l Airport, Tel Aviv, Eilat, Jerusalem, Kfar Saba, Natanya, Ashdod, Bnei Brak, 
