@@ -222,7 +222,8 @@ span.price:after {
                 <div class="col-sm-6 ad-info">
                   <h2>Rental Car Category: I(SDAR) 
                       <br>Mazda 3 or Similar</h2>
-                    Air Conditioning Automatic Transmission<br>
+                    <img src="images/blue_star_20px.png" alt="Hire Mazda 3 in Israel starting 18$" />Air Conditioning 
+                    <img src="images/blue_star_20px.png" alt="Hire Mazda 3 in Israel starting 18$" />Automatic Transmission<br>
                     Hyundai i35, Subaru Impreza, Renault Megan, Skoda Roomster, 
                     Toyota Corolla, Ford Focus, Kia Forte, Mitsubishi Lancer, Hyundai i30, Kia Ceed, Citroen C-Elysee or similar
                     <br>Car models are for guidance only and similar car models may be supplied
