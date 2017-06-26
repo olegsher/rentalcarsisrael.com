@@ -11,9 +11,108 @@ and open the template in the editor.
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link rel="stylesheet" href="css/bootstrap.min.css">
         <link rel="stylesheet" href="css/bootstrap-select.css">
-        <link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
-        <link rel="stylesheet" href="css/flexslider.css" type="text/css" media="screen" />
+<!--        <link href="css/style.css" rel="stylesheet" type="text/css" media="all" />-->
+<!--        <link rel="stylesheet" href="css/flexslider.css" type="text/css" media="screen" />-->
         <link rel="stylesheet" href="css/font-awesome.min.css" />
+<style> 
+/*.container {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.container-fluid {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}*/
+        
+.ad-info h5 {
+    text-align: left;
+    font-size: 17px;
+    color: #000;
+    margin: 5px 5px 10px;
+    line-height: 20px;
+    transition:0.5s all;
+	-webkit-transition:0.5s all;
+	-moz-transition:0.5s all;
+	-o-transition:0.5s all;
+	-ms-transition:0.5s all;
+}
+.biseller-column:hover div.ad-info h5 {
+	color:#f3c500;
+    transition:0.5s all;
+	-webkit-transition:0.5s all;
+	-moz-transition:0.5s all;
+	-o-transition:0.5s all;
+	-ms-transition:0.5s all;
+}
+.ad-info span {
+    display: block;
+    text-align: left;
+    line-height: 16px;
+    color: #CECDCD;
+	margin-left:5px;
+}
+span.price {
+    background-color: rgba(89, 194, 175, 0.79);
+    color: #FFF;
+    display: block;
+    font-size: 16px;
+    padding: 7px 15px;
+    position: absolute;
+    right: 10px;
+    text-align: right;
+    top: 5px;
+    z-index: 2;
+    line-height: 1;
+	letter-spacing: 3px;
+    transition:0.5s all;
+	-webkit-transition:0.5s all;
+	-moz-transition:0.5s all;
+	-o-transition:0.5s all;
+	-ms-transition:0.5s all;
+}
+.biseller-column:hover span.price{
+	background:rgba(243, 197, 0, 0.79);
+    transition:0.5s all;
+	-webkit-transition:0.5s all;
+	-moz-transition:0.5s all;
+	-o-transition:0.5s all;
+	-ms-transition:0.5s all;
+}
+span.price:after {
+    position: absolute;
+    right: 0;
+    top: 50%;
+    content: " ";
+    margin-top: 14px;
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 5px 5px 0 0;
+    border-color: rgba(89, 194, 175, 0.79) transparent transparent transparent;
+    transition:0.5s all;
+	-webkit-transition:0.5s all;
+	-moz-transition:0.5s all;
+	-o-transition:0.5s all;
+	-ms-transition:0.5s all;
+}
+.biseller-column:hover span.price:after {
+    border-color: rgba(243, 197, 0, 0.79) transparent transparent transparent;	
+    transition:0.5s all;
+	-webkit-transition:0.5s all;
+	-moz-transition:0.5s all;
+	-o-transition:0.5s all;
+	-ms-transition:0.5s all;
+}
+/*.row {
+    margin-right: -15px;
+    margin-left: -15px;
+}*/
+</style>    
+        
         <!--fonts-->
 <link href='//fonts.googleapis.com/css?family=Ubuntu+Condensed' rel='stylesheet' type='text/css'>
 <link href='//fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic,800,800italic' rel='stylesheet' type='text/css'>
@@ -26,7 +125,7 @@ and open the template in the editor.
               <div class="row">
                 <div class="col-sm-6 biseller-column" >
                   <a href="single.html">	
-                    <img src="images/IW.png" alt="Ford Focus SW or Similar" class="img-responsive"/>
+                    <img src="images/iw.png" alt="Ford Focus SW or Similar" class="img-responsive"/>
                     <span class="price">Starting &#36;20</span>
                   </a>
                 </div>
