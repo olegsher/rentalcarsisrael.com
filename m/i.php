@@ -218,6 +218,7 @@ span.price:after {
                     <img src="images/i.png" alt="Hire Mazda 3 in Israel starting 18$" class="img-responsive"/>
                     <span class="price">WhatsApp/Viber +972-58-7710101</span>
 <!--                  </a>-->
+
                 </div>
                 <div class="col-sm-6 ad-info">
                   <h2>Rental Car Category: I(SDAR) 
@@ -229,11 +230,11 @@ span.price:after {
                     <br>Car models are for guidance only and similar car models may be supplied
                     <br>Minimum age required is 23 + D.L. valid for at least one year.
 
-                <h5><img src="images/blue_star_20px.png" alt="Hire Mazda 3 in Israel starting 18$" />No credit card fees
-                    <img src="images/blue_star_20px.png" alt="Hire Mazda 3 in Israel starting 18$" />No amendment fees
-                    <img src="images/blue_star_20px.png" alt="Hire Mazda 3 in Israel starting 18$" />24/7 phone support
+                <div class="alert alert-success">
+  <strong><img src="images/blue_star_20px.png" alt="Hire Mazda 3 in Israel starting 18$" />No credit card fees <img src="images/blue_star_20px.png" alt="Hire Mazda 3 in Israel starting 18$" />  No amendment fees <img src="images/blue_star_20px.png" alt="Hire Mazda 3 in Israel starting 18$" /> 24/7 phone support</strong> 
+</div>
 
- </h5>
+
 
                   <h4>Available for rent in following branches in Israel: </h4>
                   Ben Gurion Int'l Airport, Tel Aviv, Eilat, Jerusalem, Kfar Saba, Natanya, Ashdod, Bnei Brak, 
