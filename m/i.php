@@ -216,7 +216,7 @@ span.price:after {
                 <div class="col-sm-6 biseller-column" >
 <!--                  <a href="single.html">	-->
                     <img src="images/i.png" alt="Hire Mazda 3 in Israel starting 18$" class="img-responsive"/>
-                    <span class="price">Call +44 7978204454</span>
+                    <span class="price">WhatsApp/Viber +972-58-7710101</span>
 <!--                  </a>-->
                 </div>
                 <div class="col-sm-6 ad-info">
