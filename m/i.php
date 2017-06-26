@@ -80,11 +80,7 @@ and open the template in the editor.
         
         
         
-        <link rel="stylesheet" href="css/bootstrap.min.css">
-        <link rel="stylesheet" href="css/bootstrap-select.css">
-<!--        <link href="css/style.css" rel="stylesheet" type="text/css" media="all" />-->
-<!--        <link rel="stylesheet" href="css/flexslider.css" type="text/css" media="screen" />-->
-        <link rel="stylesheet" href="css/font-awesome.min.css" />
+        
 <style> 
 option {
     font-weight: normal;
@@ -191,10 +187,7 @@ span.price:after {
 }
 </style>    
         
-        <!--fonts-->
-<link href='//fonts.googleapis.com/css?family=Ubuntu+Condensed' rel='stylesheet' type='text/css'>
-<link href='//fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic,800,800italic' rel='stylesheet' type='text/css'>
-<!--//fonts-->
+ 
 <link rel="shortcut icon" href="favicon.ico">
     </head>
     <body>
@@ -308,5 +301,12 @@ span.price:after {
             
             
         </div>
+<link rel="stylesheet" href="css/bootstrap.min.css">
+<link rel="stylesheet" href="css/bootstrap-select.css">
+<link rel="stylesheet" href="css/font-awesome.min.css" />
+<!--fonts-->
+<link href='//fonts.googleapis.com/css?family=Ubuntu+Condensed' rel='stylesheet' type='text/css'>
+<link href='//fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic,800,800italic' rel='stylesheet' type='text/css'>
+<!--//fonts-->
     </body>
 </html>
