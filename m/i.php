@@ -16,7 +16,7 @@ if(isset($_POST['submit'])){
     $headers .= "Content-Type: text/html; charset=utf-8\r\n";
     
     
-    $subject = $_POST['First_name'] . " " . $_POST['car-select'] . " " . "rentcarisrael.online";    
+    $subject = $_POST['First_name'] . " " . $_POST['car-select'] . " " . "rentalcarsisrael.com";    
             $message = '<html lang="en"><body>';
             $message .= '<hr />';
             $message .= 'Rental cars Israel http://www.rentalcarsisrael.com +972-58-7710101';
@@ -222,8 +222,8 @@ span.price:after {
               <div class="row">
                 <div class="col-sm-6 biseller-column" >
 <!--                  <a href="single.html">	-->
-                    <img src="images/i.png" alt="Mazda 3" class="img-responsive"/>
-                    <span class="price">Starting &#36;18</span>
+                    <img src="images/i.png" alt="Hire Mazda 3 in Israel starting 18$/day" class="img-responsive"/>
+                    <span class="price">Call +44 7978204454</span>
 <!--                  </a>-->
                 </div>
                 <div class="col-sm-6 ad-info">
@@ -233,11 +233,7 @@ span.price:after {
                     Toyota Corolla, Ford Focus, Kia Forte, Mitsubishi Lancer, Hyundai i30, Kia Ceed, Citroen C-Elysee or similar
                     <br>Car models are for guidance only and similar car models may be supplied
                     <br>Minimum age required is 23 + D.L. valid for at least one year.
-<!--                    <h3>
-                    Rate:
-                    <br>20$/Day, 126$/Week, 820$/Month                                                                                        
-                    <br>Unlimited km (3-29 days)
-                    </h3>-->
+
                   <h4>Available for rent in following branches in Israel: </h4>
                   Ben Gurion Int'l Airport, Tel Aviv, Eilat, Jerusalem, Kfar Saba, Natanya, Ashdod, Bnei Brak, 
                             Rehovot, Herzliya, Petach Tikva, Holon, Rishon LeTsiyon
