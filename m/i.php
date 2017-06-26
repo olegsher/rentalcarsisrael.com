@@ -243,7 +243,7 @@ span.price:after {
                     <div class="clearfix"></div>
                     <input type="submit" class="submit" name="submit" value="Send Form" id="checkoutModalLabel">
                   </form>           
-                
+                <h5>or message us by Whatsapp/Viber +972-58-771-0101</h5>
                 
                 
                 </div>
