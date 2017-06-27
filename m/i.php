@@ -42,7 +42,7 @@ $message .= "</body></html>";
     $headers2 .= "Content-Type: text/html; charset=utf-8\r\n";
     
    mail($from,$subject2,$message,$headers2); // sends a copy of the message to the sender  
-//header('Location: http://www.rentalcarsisrael.com/thankyou.php');
+header('Location: http://www.rentalcarsisrael.com/m/i.php');
     }
 ?>
 
