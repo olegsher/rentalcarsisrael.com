@@ -218,6 +218,8 @@ span.price:after {
                     <img src="images/i.png" alt="Hire Mazda 3 in Israel starting 18$" class="img-responsive"/>
                     <span class="price"><img src="images/viber_whatsapp_icon.png" alt="Hire Mazda 3 in Israel starting 18$" /> +972-58-7710101</span>
 <!--                  </a>-->
+<mark class="text-success glyphicon glyphicon-ok">An unlimited mileage for rent 3-29 day</mark>
+<mark class="text-success glyphicon glyphicon-ok">No hideen fees</mark>
 
 
 
@@ -245,8 +247,8 @@ span.price:after {
                     <p class="text-danger glyphicon glyphicon-remove">No credit card fees </p>
                     <p class="text-danger glyphicon glyphicon-remove">No amendment fees</p>
                     <p class="text-danger glyphicon glyphicon-remove">No canceleration fees</p>
-                    <hr/>Additional cars in category I: 
-                    <br>Hyundai i35, Subaru Impreza, Renault Megan, Skoda Roomster, 
+                    <h4>Additional cars in category I: </h4>
+                    Hyundai i35, Subaru Impreza, Renault Megan, Skoda Roomster, 
                     Toyota Corolla, Ford Focus, Kia Forte, Mitsubishi Lancer, Hyundai i30, Kia Ceed, Citroen C-Elysee or similar
                     
 
@@ -254,11 +256,7 @@ span.price:after {
                     
 <!--                </div>-->
 
-                   <div class="alert alert-success">                    
-                      Time is running out!  We have a lot of Last-Minute Specials in the Israel<br>                                     
-                      Plan Ahead Specials let you rent in advance and still save money on rentals in the Israel  <br>     
-                      Special prices for long term rent                      
-                    </div> 
+                  
 
                   <h4>Available for rent in following branches in Israel: </h4>
                   Ben Gurion Int'l Airport, Tel Aviv, Eilat, Jerusalem, Kfar Saba, Natanya, Ashdod, Bnei Brak, 
@@ -273,6 +271,11 @@ span.price:after {
                 </div>
               </div>
         </div>
+            <div class="alert alert-success">                    
+                      Time is running out!  We have a lot of Last-Minute Specials in the Israel<br>                                     
+                      Plan Ahead Specials let you rent in advance and still save money on rentals in the Israel  <br>     
+                      Special prices for long term rent                      
+                    </div> 
 <h4>Rental Conditions</h4>
 <br>VAT: Israeli passport holders are subject to pay VAT by law including dual citizenship passport holders. 
 <br>Only tourists with B2 or B3 visa class permits are waived. 
