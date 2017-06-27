@@ -62,8 +62,8 @@ and open the template in the editor.
         
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="keywords" content="Hire Mazda3, 18$, car rental israel,car hire israel,cheap car rental israel,car rental israel cheap,hire car israel,car hire israel compare,luxury car rental israel" />
-        <meta  name="description"  content="Hire Mazda 3 in Israel starting 18$. Minivans and Luxury cars for rent in Israel, economy and compact car classes for book online" />
+        <meta name="keywords" content="Hire Ford Focus, 18$, car rental israel,car hire israel,cheap car rental israel,car rental israel cheap,hire car israel,car hire israel compare,luxury car rental israel" />
+        <meta  name="description"  content="Hire Ford Focus in Israel starting 18$. Minivans and Luxury cars for rent in Israel, economy and compact car classes for book online" />
         <meta property="fb:app_id" content="1322511981092474" />
         <meta property="og:type" content="website" />
         <meta property="og:locale" content="en" />
@@ -72,8 +72,8 @@ and open the template in the editor.
         <meta property="og:image:type" content="image/png" />
         <meta property="og:image:width" content="640" />
         <meta property="og:image:height" content="320" />
-        <meta property="og:title" content="Hire Mazda 3 in Israel starting 18$, Minivans and Luxury cars for rent in Israel, economy and compact classes for book online" />
-        <meta property="og:description" content="Hire Mazda 3 in Israel starting 18$/day,car rental israel,car hire israel,cheap car rental israel,car rental israel cheap,hire car israel,car hire israel compare,luxury car rental israel"/>
+        <meta property="og:title" content="Hire Ford Focus in Israel starting 18$, Minivans and Luxury cars for rent in Israel, economy and compact classes for book online" />
+        <meta property="og:description" content="Hire Ford Focus in Israel starting 18$/day,car rental israel,car hire israel,cheap car rental israel,car rental israel cheap,hire car israel,car hire israel compare,luxury car rental israel"/>
   <title>Hire Mazda 3 in Israel starting 18$</title>
         
         
@@ -196,12 +196,12 @@ span.price:after {
             
             
         <div class="container-fluid">
-              <h1>Hire Mazda 3 in Israel starting 18$</h1>
+              <h1>Hire Ford Focus in Israel starting 18$</h1>
               <div class="row">
                 <div class="col-sm-6 biseller-column" >
 <!--                  <a href="single.html">	-->
-                    <img src="images/mazda3.png" alt="Hire Mazda 3 in Israel starting 18$" class="img-responsive"/>
-                    <span class="price"><img src="images/viber_whatsapp_icon.png" alt="Hire Mazda 3 in Israel starting 18$" /> +972-58-7710101</span>
+                    <img src="images/ford-focus.png" alt="Hire Ford Focus in Israel starting 18$" class="img-responsive"/>
+                    <span class="price"><img src="images/viber_whatsapp_icon.png" alt="Hire Ford Focus in Israel starting 18$" /> +972-58-7710101</span>
 <!--                  </a>-->
 <mark class="text-success glyphicon glyphicon-ok">An unlimited mileage for rent 3-29 day</mark>
 <mark class="text-success glyphicon glyphicon-ok">No hideen fees</mark>
@@ -220,7 +220,7 @@ span.price:after {
                     <div class="clearfix"></div>
                     <input type="submit" class="btn .btn-success" name="submit" value="Send Form" id="checkoutModalLabel">
                   </form>           
-                <h5>or message us by <img src="images/viber_whatsapp_icon.png" alt="Hire Mazda 3 in Israel starting 18$" /> +972-58-771-0101</h5>
+                <h5>or message us by <img src="images/viber_whatsapp_icon.png" alt="Hire Ford Focus in Israel starting 18$" /> +972-58-771-0101</h5>
                 <div class="alert alert-success">                    
                       Time is running out!  We have a lot of Last-Minute Specials in the Israel<br>                                     
                       Plan Ahead Specials let you rent in advance and still save money on rentals in the Israel  <br>     
@@ -231,15 +231,15 @@ span.price:after {
                 </div>
                 <div class="col-sm-6 ad-info">
                   <h2>Rental Car Category: I(SDAR) 
-                      <br>Mazda 3 or Similar</h2>
+                      <br>Ford Focus or Similar</h2>
                     <p class="text-success glyphicon glyphicon-ok"> Air Conditioning</p> 
                     <p class="text-success glyphicon glyphicon-ok"> Automatic Transmission</p><br>
                     <p class="text-danger glyphicon glyphicon-remove">No credit card fees </p>
                     <p class="text-danger glyphicon glyphicon-remove">No amendment fees</p>
                     <p class="text-danger glyphicon glyphicon-remove">No canceleration fees</p>
                     <h4>Additional cars in category I: </h4>
-                    Hyundai i35, Subaru Impreza, Renault Megan, Skoda Roomster, 
-                    Toyota Corolla, Ford Focus, Kia Forte, Mitsubishi Lancer, Hyundai i30, Kia Ceed, Citroen C-Elysee or similar
+                    Mazda 3, Hyundai i35, Subaru Impreza, Renault Megan, Skoda Roomster, 
+                    Toyota Corolla, Kia Forte, Mitsubishi Lancer, Hyundai i30, Kia Ceed, Citroen C-Elysee or similar
                     
 
 <!--                <div class="alert alert-success">-->
