@@ -233,11 +233,14 @@ span.price:after {
                     Toyota Corolla, Ford Focus, Kia Forte, Mitsubishi Lancer, Hyundai i30, Kia Ceed, Citroen C-Elysee or similar
                     <br>Car models are for guidance only and similar car models may be supplied
                     <br>Minimum age required is 23 + D.L. valid for at least one year.
-<!--                    <h3>
-                    Rate:
-                    <br>20$/Day, 126$/Week, 820$/Month                                                                                        
-                    <br>Unlimited km (3-29 days)
-                    </h3>-->
+
+                    <div class="item">
+                    <h1 class="title">Featured Specials
+                      <span class="subtitle">Last Minute Car Rental Specials</span></h1>
+                      <br>Time is running out!  We have a lot of Last-Minute Specials in the Israel. 
+                      Just ask...
+                      
+                    </div>
                   <h4>Available for rent in following branches in Israel: </h4>
                   Ben Gurion Int'l Airport, Tel Aviv, Eilat, Jerusalem, Kfar Saba, Natanya, Ashdod, Bnei Brak, 
                             Rehovot, Herzliya, Petach Tikva, Holon, Rishon LeTsiyon

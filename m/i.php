@@ -216,25 +216,36 @@ span.price:after {
                 <div class="col-sm-6 biseller-column" >
 <!--                  <a href="single.html">	-->
                     <img src="images/i.png" alt="Hire Mazda 3 in Israel starting 18$" class="img-responsive"/>
-                    <span class="price">WhatsApp/Viber +972-58-7710101</span>
+                    <span class="price"><img src="images/viber_whatsapp_icon.png" alt="Hire Mazda 3 in Israel starting 18$" /> +972-58-7710101</span>
 <!--                  </a>-->
-<hr/>Car models are for guidance only and similar car models may be supplied
-                    <br>Minimum age required is 23 + D.L. valid for at least one year.<hr/>
+                    <div class="alert alert-success">                    
+                      Time is running out!  We have a lot of Last-Minute Specials in the Israel. 
+                    </div>
+                    <div class="alert alert-success">                    
+                      Plan Ahead Specials let you rent in advance and still save money on rentals in the Israel                      
+                    </div>
+                    <div class="alert alert-success">                    
+                      Special prices for long term rent                      
+                    </div>
+                    
                 </div>
                 <div class="col-sm-6 ad-info">
                   <h2>Rental Car Category: I(SDAR) 
                       <br>Mazda 3 or Similar</h2>
-                    <img src="images/blue_star_20px.png" alt="Hire Mazda 3 in Israel starting 18$" />Air Conditioning 
-                    <img src="images/blue_star_20px.png" alt="Hire Mazda 3 in Israel starting 18$" />Automatic Transmission<br>
+                    <p class="text-success glyphicon glyphicon-ok"> Air Conditioning</p> 
+                    <p class="text-success glyphicon glyphicon-ok"> Automatic Transmission</p><br>
+                    <p class="text-danger glyphicon glyphicon-remove">No credit card fees </p>
+                    <p class="text-danger glyphicon glyphicon-remove">No amendment fees</p>
+                    <p class="text-danger glyphicon glyphicon-remove">No canceleration fees</p>
                     <hr/>Hyundai i35, Subaru Impreza, Renault Megan, Skoda Roomster, 
                     Toyota Corolla, Ford Focus, Kia Forte, Mitsubishi Lancer, Hyundai i30, Kia Ceed, Citroen C-Elysee or similar
                     
 
-                <div class="alert alert-success">
-  <strong><img src="images/blue_star_20px.png" alt="Hire Mazda 3 in Israel starting 18$" />No credit card fees <img src="images/blue_star_20px.png" alt="Hire Mazda 3 in Israel starting 18$" />  No amendment fees <img src="images/blue_star_20px.png" alt="Hire Mazda 3 in Israel starting 18$" /> 24/7 phone support</strong> 
-</div>
+<!--                <div class="alert alert-success">-->
+                    
+<!--                </div>-->
 
-
+                    
 
                   <h4>Available for rent in following branches in Israel: </h4>
                   Ben Gurion Int'l Airport, Tel Aviv, Eilat, Jerusalem, Kfar Saba, Natanya, Ashdod, Bnei Brak, 
@@ -253,6 +264,8 @@ span.price:after {
                     <input type="submit" class="btn .btn-success" name="submit" value="Send Form" id="checkoutModalLabel">
                   </form>           
                 <h5>or message us by <img src="images/viber_whatsapp_icon.png" alt="Hire Mazda 3 in Israel starting 18$" /> +972-58-771-0101</h5>
+                <hr/>Car models are for guidance only and similar car models may be supplied
+                    <br>Minimum age required is 23 + D.L. valid for at least one year.<hr/>
                 
                 
                 </div>
