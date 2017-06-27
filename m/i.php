@@ -191,22 +191,7 @@ span.price:after {
 <link rel="shortcut icon" href="favicon.ico">
     </head>
     <body>
-    <script type="application/ld+json"> { 
-        "@context" : "http://schema.org",
-        "@type" : "TravelAgency", 
-        "name":"Vastama Ltd",
-        "url":"http://www.rentalcarsisrael.com",
-        "email":"admin@vastama.com",
-        "telephone":"972587710101",
-        "openingHours": [ 
-        "Su-Sa 09:00-18:00"], 
-        "aggregateRating":{
-        "@type":"AggregateRating",
-        "ratingValue":"5",
-        "reviewCount":"5"},
-        "priceRange":"2",
-        "paymentAccepted":"Visa, Master Card, Amex"
-    } </script>    
+    <?php include("../_info.html"); ?>    
         <div class="container">
             
             
@@ -264,62 +249,35 @@ span.price:after {
                   
 
                   <h4>Available for rent in following branches in Israel: </h4>
-                  Afula (UL1)71 Menachem Begin Street , Afula
-972 4 6523792
-<br>Ashdod (AS2)7 Haorgim Street , Ashdod
-972 8 6228815
-<br>Beer Sheva (BV1)18 Itzhak Nafha Street , Beer Sheva
-972 8 6288628
+                  Afula (UL1) 71 Menachem Begin Street , Afula
+<br>Ashdod (AS2) 7 Haorgim Street , Ashdod
+<br>Beer Sheva (BV1) 18 Itzhak Nafha Street , Beer Sheva
 <br>Beit Shemesh (BT1)1 Nahal Hayarden Street , Beit Shemesh
-972 2 9666544
 <br>Beitar Illit (BI1)6 Haran Street , Beitar Illit
-972 2 5700300
 <br>Bnei Brak - Kahanman 106 (BB2)106 Kahanman Street , Bnei Brak
-972 3 5785210
 <br>Bnei Brak - Mivtza Kadesh (BB1)64 Mivtza Kadesh Street , Bnei Brak
-972 3 6151405
 <br>Eilat (EL1)3 Sheshet Hayamim Street , Eilat
-972 8 6998877
 <br>Elad (ED1)12 Joseph Karo Street , El'ad
-972 3 9501500
 <br>Haifa (HF1)88 Hahistadrut Street , Haifa
-972 4 8409333
 <br>Herzliya (HZ1)8 Aba Even Street , Herzeliya
-972 9 7666800
 <br>Holon (HO1)73 Hamerkava Street , Holon
-972 3 6203000
 <br>Jerusalem - King David (JR1)19 King David Street , Jerusalem
-972 2 5001800
 <br>Jerusalem - Romema (JR2)21 Shamgar Street , Jerusalem
-972 2 6339672
 <br>Jerusalem - Talpiyot (JR3)26 Baram Street , Jerusalem
-972 2 6482896
 <br>Kfar Saba (KSB1)17 Ha'Taas Street , Kfar Saba
-972 9 7884888
 <br>Kiryat Shmone (KSM1)1 Hayarden Street , Kiryat Shmone
-972 4 6665959
 <br>Modi'in Illit (MD1)2 Yehezkel Street , Modi'in Maccabim Re'ut
-972 8 6220780
 <br>Nes Tziona (NZ1)10 Hapatish Street , Nes Tziona
-972 8 6991340
 <br>Netanya (NY1)1 Ussishkin Street , Natanya
-972 9 8612000
 <br>Netivot (NV2)5 Hamasger Street , Netivot
-972 8 9945600
 <br>Petah Tikva (PT4)82 Jabotinski Street , Petach Tikva
-972 3 6331441
 <br>Rehovot (RH2)96 Herzl Street , Rehovot
-972 8 9417980
 <br>Rishon LeZion (RL1)14 David Saharov Street , Rishon LeTsiyon
-972 3 5363600
 <br>Tel Aviv - Ben Gurion Airport Ben Gurion Int'l Airport , Lod
-972 3 6058000
 <br>Tel Aviv - Hamasger (TLV7)9 Hamasger Street , Tel Aviv
-972 3 7588599
 <br>Tel Aviv Hayarkon (TLV6)80 Hayarkon Street , Tel Aviv
-972 3 6335252
 <br>Tiberias (TB1)71 Hayarden Street , Tiberias
-972 4 6666123
+
                 
                 
 
