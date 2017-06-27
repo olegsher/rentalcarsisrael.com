@@ -66,15 +66,15 @@ and open the template in the editor.
         <meta  name="description"  content="Hire Ford Focus in Israel starting 18$. Minivans and Luxury cars for rent in Israel, economy and compact car classes for book online" />
         <meta property="fb:app_id" content="1322511981092474" />
         <meta property="og:type" content="website" />
-        <meta property="og:locale" content="en" />
-        <meta property="og:url" content="http://www.rentalcarsisrael.com" />
-        <meta property="og:image" content="http://www.rentalcarsisrael.com/images/thankyoucar.png"/>
+<!--        <meta property="og:locale" content="en" />-->
+        <meta property="og:url" content="http://www.rentalcarsisrael.com/m/catI_ford_focus.php" />
+        <meta property="og:image" content="http://www.rentalcarsisrael.com/m/images/ford-focus.png"/>
         <meta property="og:image:type" content="image/png" />
         <meta property="og:image:width" content="640" />
         <meta property="og:image:height" content="320" />
         <meta property="og:title" content="Hire Ford Focus in Israel starting 18$, Minivans and Luxury cars for rent in Israel, economy and compact classes for book online" />
         <meta property="og:description" content="Hire Ford Focus in Israel starting 18$/day,car rental israel,car hire israel,cheap car rental israel,car rental israel cheap,hire car israel,car hire israel compare,luxury car rental israel"/>
-  <title>Hire Mazda 3 in Israel starting 18$</title>
+  <title>Hire Ford Focus in Israel starting 18$</title>
         
         
         
