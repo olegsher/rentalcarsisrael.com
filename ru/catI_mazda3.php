@@ -212,6 +212,7 @@ span.price:after {
 
 
                 <h4>Заполните форму и мы свяжемся с вами:</h4>
+                <h5 style="color:red; font-weight: lighter;">*Консультация и расчет аренды бесплатно и без обязательств</h5>
                 <form action="#" method="post" name="car-select-form" id="car-select-form">
                     
                     <input type="text" name="First_name" required class="form-control" placeholder="Имя и Фамилия">  
