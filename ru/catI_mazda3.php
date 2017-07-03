@@ -205,8 +205,9 @@ span.price:after {
                     <img src="../m/images/mazda3.png" alt="прокат аренда Mazda 3 в Израиле начиная с 32$" class="img-responsive"/>
                     <span class="price"><img src="../m/images/viber_whatsapp_icon.png" alt="прокат аренда Mazda 3 в Израиле начиная с 32$" /> +972-58-7710101</span>
 <!--                  </a>-->
-<mark class="text-success glyphicon glyphicon-ok">Безлимитный километраж при аренде на 3-29 day</mark>
-<mark class="text-success glyphicon glyphicon-ok">Нет скрытых платежей</mark>
+<h4 style="color:green; font-weight: lighter;">Нет предоплаты, возможна оплата наличными</h4>
+<h4 style="color:green; font-weight: lighter;">Безлимитный километраж при аренде на 3-29 day</4>
+<h4 style="color:green; font-weight: lighter;">Нет штрафов за изменение или отмену заказа, нет скрытых платежей</h4>
 
 
 
@@ -307,9 +308,6 @@ B (EBMR), C (ECAR), D (CCAR), E (CDAR, F (IDAR), I (SDAR), H (FDAR), M (PDAR).
                       <br>Mazda 3 или подобная</h2>
                     <p class="text-success glyphicon glyphicon-ok"> Кондиционер</p> 
                     <p class="text-success glyphicon glyphicon-ok"> Автоматическая коробка передач</p><br>
-                    <p class="text-danger glyphicon glyphicon-remove">Нет надбавок за использование кредитной карты </p>
-                    <p class="text-danger glyphicon glyphicon-remove">Нет штрафов за изменение заказа</p>
-                    <p class="text-danger glyphicon glyphicon-remove">Нет штрафа за отмену заказа</p>
                     <h4>Дополнительные машины в категории I: </h4>
                     Hyundai i35, Subaru Impreza, Renault Megan, Skoda Roomster, 
                     Toyota Corolla, Ford Focus, Kia Forte, Mitsubishi Lancer, Hyundai i30, Kia Ceed, Citroen C-Elysee и другие
