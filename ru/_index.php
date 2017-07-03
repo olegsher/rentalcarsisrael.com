@@ -915,7 +915,8 @@
 <tr>
 <td>I SDAR</td>
 <td>
-<strong>Mazda 3, Hyundai i35, Subaru Impreza, Renault Megan, <br>Skoda Roomster, Toyota Corolla, Ford Focus</strong> или похожие в данной категории проката, 5 мест
+<strong><a href="catI_mazda3.php">Mazda 3</a>, Hyundai i35, Subaru Impreza, Renault Megan, <br>Skoda Roomster, Toyota Corolla, Ford Focus</strong> или похожие в данной категории проката, 5 мест
+
 <hr /><strong>Для аренды в городских отделениях проката автомобилей в Израиле:</strong> <br>
 <a href="benGurion.php">Аэропорт Бен Гурион</a>, Тель-Авив, 
 <a href="Eilat.php">Эйлат</a>, Иерусалим, <br>
