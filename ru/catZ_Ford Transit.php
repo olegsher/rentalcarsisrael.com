@@ -92,6 +92,7 @@ option {
 }    
     
 @media (max-width: 1200px)
+
 form .styled-select-car select {
     font-size: 21px;
 }
@@ -205,9 +206,8 @@ span.price:after {
                     <img src="../m/images/mazda3.png" alt="прокат аренда Mazda 3 в Израиле начиная с 32$" class="img-responsive"/>
                     <span class="price"><img src="../m/images/viber_whatsapp_icon.png" alt="прокат аренда Mazda 3 в Израиле начиная с 32$" /> +972-58-7710101</span>
 <!--                  </a>-->
-<h4 style="color:green; font-weight: lighter;">Нет предоплаты, возможна оплата наличными</h4>
-<h4 style="color:green; font-weight: lighter;">Безлимитный километраж при аренде на 3-29 day</4>
-<h4 style="color:green; font-weight: lighter;">Нет штрафов за изменение или отмену заказа, нет скрытых платежей</h4>
+<mark class="text-success glyphicon glyphicon-ok">Безлимитный километраж при аренде на 3-29 day</mark>
+<mark class="text-success glyphicon glyphicon-ok">Нет скрытых платежей</mark>
 
 
 
@@ -225,10 +225,6 @@ span.price:after {
                     <input type="submit" class="btn .btn-success" name="submit" value="Отправить форму" id="checkoutModalLabel">
                   </form>           
                 <h5>или свяжитесь с нами по <img src="../m/images/viber_whatsapp_icon.png" alt="прокат аренда Mazda 3 в Израиле начиная с 32$" /> +972-58-771-0101</h5>
-                
-                <script src="//yastatic.net/es5-shims/0.0.2/es5-shims.min.js"></script>
-<script src="//yastatic.net/share2/share.js"></script>
-<div class="ya-share2" data-services="collections,vkontakte,facebook,odnoklassniki,moimir,twitter,evernote,linkedin,lj,viber,whatsapp,skype,telegram" data-counter=""></div>
                 <div class="alert alert-success">                    
                       Нужна машина сейчас? У нас всегда есть горящие предложения<br>                                     
                       Планируете поездку в Израиль? Закажите машину заранее и сэкономьте до 40%<br>     
@@ -312,6 +308,9 @@ B (EBMR), C (ECAR), D (CCAR), E (CDAR, F (IDAR), I (SDAR), H (FDAR), M (PDAR).
                       <br>Mazda 3 или подобная</h2>
                     <p class="text-success glyphicon glyphicon-ok"> Кондиционер</p> 
                     <p class="text-success glyphicon glyphicon-ok"> Автоматическая коробка передач</p><br>
+                    <p class="text-danger glyphicon glyphicon-remove">Нет надбавок за использование кредитной карты </p>
+                    <p class="text-danger glyphicon glyphicon-remove">Нет штрафов за изменение заказа</p>
+                    <p class="text-danger glyphicon glyphicon-remove">Нет штрафа за отмену заказа</p>
                     <h4>Дополнительные машины в категории I: </h4>
                     Hyundai i35, Subaru Impreza, Renault Megan, Skoda Roomster, 
                     Toyota Corolla, Ford Focus, Kia Forte, Mitsubishi Lancer, Hyundai i30, Kia Ceed, Citroen C-Elysee и другие
