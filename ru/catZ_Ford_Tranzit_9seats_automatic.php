@@ -203,7 +203,8 @@ span.price:after {
               <div class="row">
                 <div class="col-sm-6 biseller-column" >
 <!--                  <a href="single.html">	-->
-                    <img src="../m/images/mazda3.png" alt="прокат аренда Ford Transit в Израиле начиная с 131$" class="img-responsive"/>
+
+                    <img src="../images/car_key.jpeg" alt="прокат аренда Ford Transit в Израиле начиная с 131$" class="img-responsive"/>
                     <span class="price"><img src="../m/images/viber_whatsapp_icon.png" alt="прокат аренда Ford Transit в Израиле начиная с 131$" /> +972-58-7710101</span>
 <!--                  </a>-->
 <h4 style="color:green; font-weight: lighter;">Нет предоплаты, возможна оплата наличными</h4>
