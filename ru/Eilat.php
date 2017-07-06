@@ -17,9 +17,9 @@
 <?php include("__header.html"); ?>
 </head>
 <body>
-<?php include("__mailru.html"); ?>
-<?php include("__yandex.html"); ?>
-<?php include("__shema.html"); ?>
+<?php include("../google"); ?>
+        <?php include("../shema.html"); ?> 
+        <?php include("../yandex.html"); ?>
 
 <?php include("__top.html"); ?>
 

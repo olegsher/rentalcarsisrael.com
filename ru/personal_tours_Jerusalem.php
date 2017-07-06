@@ -62,7 +62,7 @@ and open the template in the editor.
         
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>аренда прокат Mazda 3 в Израиле | rentalcarsisrael.com</title>
+        <title>аренда прокат Ford Transit в Израиле | rentalcarsisrael.com</title>
 <meta name="keywords" content="машина прокат, машина прокат Израиле, аренда машины Израиль, avto prokat, prokat mashin, auto arenda, прокат аренда машин, где можно взять машину напрокат, заказать машину, аренда иномарок, arenda avto, стоимость аренды машины, израиль прокат автомобилей, съем машины Израиле, аренда авто, прокат машины, сьем автомобиля,автомобиль,  машина Израиле, дешевый прокат автомобиля" />
         <meta  name="description"  content="аренда прокат автомобиля в Израиле, эконом класс и семейные машины, микроавтобусы и минивэны 7-8-9 мест" />
         <meta property="fb:app_id" content="1322511981092474" />
@@ -192,20 +192,20 @@ span.price:after {
 <link rel="shortcut icon" href="favicon.ico">
     </head>
     <body>
-   <?php include("../google"); ?>
-        <?php include("../shema.html"); ?> 
-        <?php include("../yandex.html"); ?>  
+    <?php include("__shema.html"); ?> 
+        <?php include("__yandex.html"); ?> 
         
         <div class="container">
             
             
         <div class="container-fluid">
-              <h1>Прокат аренда Mazda 3 в Израиле начиная с 32$</h1>
+              <h1>Прокат аренда Ford Transit в Израиле начиная с 131$</h1>
               <div class="row">
                 <div class="col-sm-6 biseller-column" >
 <!--                  <a href="single.html">	-->
-                    <img src="../m/images/mazda3.png" alt="прокат аренда Mazda 3 в Израиле начиная с 32$" class="img-responsive"/>
-                    <span class="price"><img src="../m/images/viber_whatsapp_icon.png" alt="прокат аренда Mazda 3 в Израиле начиная с 32$" /> +972-58-7710101</span>
+
+                    <img src="../images/car_key.jpeg" alt="прокат аренда Ford Transit в Израиле начиная с 131$" class="img-responsive"/>
+                    <span class="price"><img src="../m/images/viber_whatsapp_icon.png" alt="прокат аренда Ford Transit в Израиле начиная с 131$" /> +972-58-7710101</span>
 <!--                  </a>-->
 <h4 style="color:green; font-weight: lighter;">Нет предоплаты, возможна оплата наличными</h4>
 <h4 style="color:green; font-weight: lighter;">Безлимитный километраж при аренде на 3-29 day</4>
@@ -226,7 +226,7 @@ span.price:after {
                     <div class="clearfix"></div>
                     <input type="submit" class="btn .btn-success" name="submit" value="Отправить форму" id="checkoutModalLabel">
                   </form>           
-                <h5>или свяжитесь с нами по <img src="../m/images/viber_whatsapp_icon.png" alt="прокат аренда Mazda 3 в Израиле начиная с 32$" /> +972-58-771-0101</h5>
+                <h5>или свяжитесь с нами по <img src="../m/images/viber_whatsapp_icon.png" alt="прокат аренда Ford Transit в Израиле начиная с 131$" /> +972-58-771-0101</h5>
                 
                 <script src="//yastatic.net/es5-shims/0.0.2/es5-shims.min.js"></script>
 <script src="//yastatic.net/share2/share.js"></script>
@@ -304,19 +304,18 @@ B (EBMR), C (ECAR), D (CCAR), E (CDAR, F (IDAR), I (SDAR), H (FDAR), M (PDAR).
 <br>Мы принимаем кредитные карты: Visa, MasterCard, Amex, Diners
 
 <hr/>Модель указанная на странице только для информации и компания вправе предоставить любую машину в данной категории
-<br>Минимальный возраст водителя 23 года + водительские права минимум один год.<hr/>
+<br>Минимальный возраст водителя 25 года + водительские права минимум два года.<hr/>
 
                 
                     
                 </div>
                 <div class="col-sm-6 ad-info">
-                  <h2>Категория аренды проката: I(SDAR) 
-                      <br>Mazda 3 или подобная</h2>
+                  <h2>Категория аренды проката: Z 
+                      <br>Ford Transit или подобная</h2>
                     <p class="text-success glyphicon glyphicon-ok"> Кондиционер</p> 
                     <p class="text-success glyphicon glyphicon-ok"> Автоматическая коробка передач</p><br>
-                    <h4>Дополнительные машины в категории I: </h4>
-                    Hyundai i35, Subaru Impreza, Renault Megan, Skoda Roomster, 
-                    Toyota Corolla, Ford Focus, Kia Forte, Mitsubishi Lancer, Hyundai i30, Kia Ceed, Citroen C-Elysee и другие
+                    <h4>Дополнительные машины в категории Z: </h4>
+                     VW Transporter, Citroen Jumpy, Hyundai i800 и другие
                     
 
 <!--                <div class="alert alert-success">-->

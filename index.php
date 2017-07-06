@@ -163,22 +163,9 @@ $message .= "</body></html>";
 <!-- start-smoth-scrolling -->
 </head>
 <body>
-<script type="application/ld+json"> { 
-"@context" : "http://schema.org",
-"@type" : "TravelAgency", 
-"name":"Vastama Ltd",
-"url":"http://www.rentalcarsisrael.com",
-"email":"admin@vastama.com",
-"telephone":"972587710101",
-"openingHours": [ 
-"Su-Sa 09:00-18:00"], 
-"aggregateRating":{
-"@type":"AggregateRating",
-"ratingValue":"5",
-"reviewCount":"5"},
-"priceRange":"2",
-"paymentAccepted":"Visa, Master Card, Amex"
-} </script>   
+<?php include("google"); ?>
+        <?php include("shema.html"); ?> 
+        <?php include("yandex.html"); ?> 
       
     <?php include("index.html"); ?>
     <?php include("book.html"); ?>
