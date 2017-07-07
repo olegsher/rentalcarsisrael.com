@@ -12,7 +12,7 @@
 <?php include("__header.html"); ?>
 </head>
 <body>
-<?php include("__counters.html"); ?>
+<?php include("../seo_stat"); ?>
 <?php include("__top.html"); ?>
 <?php include("_catZ.html"); ?>
 <?php include("__footer.html"); ?>

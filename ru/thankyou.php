@@ -43,7 +43,7 @@ var google_remarketing_only = false;
     
     
     
-<?php include("__counters.html"); ?>
+<?php include("../seo_stat"); ?>
 <?php include("__top.html"); ?>
 <?php include("_thankyou4order.html"); ?>
 <?php include("__footer.html"); ?>

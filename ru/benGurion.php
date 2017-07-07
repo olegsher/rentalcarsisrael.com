@@ -18,9 +18,7 @@
 </head>
 <body>
 
-<?php include("../google"); ?>
-        <?php include("../shema.html"); ?> 
-        <?php include("../yandex.html"); ?>
+<?php include("../seo_stat"); ?>
 
 <?php include("__top.html"); ?>
 

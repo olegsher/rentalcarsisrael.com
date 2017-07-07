@@ -21,9 +21,7 @@
 <?php include("__header.html"); ?>
 </head>
 <body>
-<?php include("__mailru.html"); ?>
-<?php include("__yandex.html"); ?>
-<?php include("__shema.html"); ?>
+<?php include("../seo_stat"); ?>
 <?php include("__top.html"); ?>
 <?php include("_about.html"); ?>
 <?php include("__footer.html"); ?>

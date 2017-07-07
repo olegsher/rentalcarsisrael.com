@@ -163,9 +163,8 @@ $message .= "</body></html>";
 <!-- start-smoth-scrolling -->
 </head>
 <body>
-<?php include("google"); ?>
-        <?php include("shema.html"); ?> 
-        <?php include("yandex.html"); ?> 
+<?php include("seo_stat"); ?>
+        
       
     <?php include("index.html"); ?>
     <?php include("book.html"); ?>

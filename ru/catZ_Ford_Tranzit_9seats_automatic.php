@@ -192,9 +192,7 @@ span.price:after {
 <link rel="shortcut icon" href="favicon.ico">
     </head>
     <body>
-    <?php include("../google"); ?>
-        <?php include("../shema.html"); ?> 
-        <?php include("../yandex.html"); ?>
+    <?php include("../seo_stat"); ?>
         
         <div class="container">
             
