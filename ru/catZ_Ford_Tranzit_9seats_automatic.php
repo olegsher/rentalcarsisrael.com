@@ -206,7 +206,7 @@ span.price:after {
                     <span class="price"><img src="../m/images/viber_whatsapp_icon.png" alt="прокат аренда Ford Transit в Израиле начиная с 131$" /> +972-58-7710101</span>
 <!--                  </a>-->
 <h4 style="color:green; font-weight: lighter;">Нет предоплаты, возможна оплата наличными</h4>
-<h4 style="color:green; font-weight: lighter;">Безлимитный километраж при аренде на 3-29 day</4>
+<h4 style="color:green; font-weight: lighter;">Безлимитный километраж при аренде на 3-29 day</h4>
 <h4 style="color:green; font-weight: lighter;">Нет штрафов за изменение или отмену заказа, нет скрытых платежей</h4>
 
 
