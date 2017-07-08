@@ -73,7 +73,8 @@ and open the template in the editor.
         <meta property="og:image:type" content="image/png" />
         <meta property="og:image:width" content="640" />
         <meta property="og:image:height" content="320" />
-        <meta property="og:title" content="аренда прокат VW Transporter в Израилемашина прокат, машина прокат Израиле, аренда машины Израиль, avto prokat, prokat mashin, auto arenda, прокат аренда машин, где можно взять машину напрокат, заказать машину, аренда иномарок, arenda avto, стоимость аренды машины, израиль прокат автомобилей, съем машины Израиле, аренда авто, прокат машины, сьем автомобиля,автомобиль,  машина Израиле, дешевый прокат автомобиля" />
+        <meta property="og:title" content="Прокат автомобиля в Израиле, пассажирский микроавтобус и минивэн 9 мест, 
+              автоматическая коробка передач начиная с 131$"/>
         <meta property="og:description" content="аренда прокат автомобиля в Израиле, эконом класс и семейные машины, микроавтобусы и минивэны 7-8-9 мест"/>
   
         
