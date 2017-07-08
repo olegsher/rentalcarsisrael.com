@@ -647,7 +647,12 @@
 </tr>
 <tr>
 <td>Z PVAR</td>
-<td><strong><a href="catZ_Ford_Tranzit_9seats_automatic.php">Ford Transit</a>, VW Transporter, Citroen Jumpy, Hyundai i800</strong> или похожие в данной категории проката, 9 мест
+<td><strong><a href="catZ_Ford_Tranzit_9seats_automatic.php">Ford Transit</a>,         
+        <a href="catZ_VW_Transporter_9seats_automatic.php">VW Transporter,</a>         
+        <a href="catZ_Citroen_Jumpy_9seats_automatic.php">Citroen Jumpy,</a>        
+        <a href="catZ_Hyundai_i800_9seats_automatic.php">Hyundai i800</a>
+    </strong> 
+    или похожие в данной категории проката, 9 мест
     
 <hr /><strong>Для аренды в городских отделениях проката автомобилей в Израиле:</strong> <br>
 <a href="benGurion.php">Аэропорт Бен Гурион</a>, Тель-Авив, <a href="Eilat.php">Эйлат</a>, Иерусалим, <br>

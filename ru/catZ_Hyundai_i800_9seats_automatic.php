@@ -62,18 +62,19 @@ and open the template in the editor.
         
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>аренда прокат Ford Transit в Израиле | rentalcarsisrael.com</title>
+        <title>аренда прокат Hyundai i800 в Израиле | rentalcarsisrael.com</title>
 <meta name="keywords" content="машина прокат, машина прокат Израиле, аренда машины Израиль, avto prokat, prokat mashin, auto arenda, прокат аренда машин, где можно взять машину напрокат, заказать машину, аренда иномарок, arenda avto, стоимость аренды машины, израиль прокат автомобилей, съем машины Израиле, аренда авто, прокат машины, сьем автомобиля,автомобиль,  машина Израиле, дешевый прокат автомобиля" />
-        <meta  name="description"  content="аренда прокат Citroen Jumpy в Израиле, аренда прокат автомобиля в Израиле, эконом класс и семейные машины, микроавтобусы и минивэны 7-8-9 мест" />
+        <meta  name="description"  content="аренда прокат Hyundai i800 в Израиле, аренда прокат автомобиля в Израиле, эконом класс и семейные машины, микроавтобусы и минивэны 7-8-9 мест" />
         <meta property="fb:app_id" content="1322511981092474" />
         <meta property="og:type" content="website" />
         <meta property="og:locale" content="ru_RU" />       
-        <meta property="og:url" content="http://www.rentalcarsisrael.com/ru/catZ_Ford_Transit_9seats_automatic.php" />
-        <meta property="og:image" content="http://www.rentalcarsisrael.com/images/car_key.jpg"/><meta property="og:image:type" content="image/png" />
+        <meta property="og:url" content="http://www.rentalcarsisrael.com/ru/catZ_Hyundai_i800_9seats_automatic.php" />
+        <meta property="og:image" content="http://www.rentalcarsisrael.com/images/car_key.jpg"/>
+        <meta property="og:image:type" content="image/png" />
         <meta property="og:image:width" content="640" />
         <meta property="og:image:height" content="320" />
-        <meta property="og:title" content="аренда прокат Citroen Jumpy в Израиле, машина прокат, машина прокат Израиле, аренда машины Израиль, avto prokat, prokat mashin, auto arenda, прокат аренда машин, где можно взять машину напрокат, заказать машину, аренда иномарок, arenda avto, стоимость аренды машины, израиль прокат автомобилей, съем машины Израиле, аренда авто, прокат машины, сьем автомобиля,автомобиль,  машина Израиле, дешевый прокат автомобиля" />
-        <meta property="og:description" content="аренда прокат Citroen Jumpy в Израиле, аренда прокат автомобиля в Израиле, эконом класс и семейные машины, микроавтобусы и минивэны 7-8-9 мест"/>
+        <meta property="og:title" content="аренда прокат Hyundai i800 в Израиле, машина прокат, машина прокат Израиле, аренда машины Израиль, avto prokat, prokat mashin, auto arenda, прокат аренда машин, где можно взять машину напрокат, заказать машину, аренда иномарок, arenda avto, стоимость аренды машины, израиль прокат автомобилей, съем машины Израиле, аренда авто, прокат машины, сьем автомобиля,автомобиль,  машина Израиле, дешевый прокат автомобиля" />
+        <meta property="og:description" content="аренда прокат автомобиля в Израиле, эконом класс и семейные машины, микроавтобусы и минивэны 7-8-9 мест"/>
   
         
         
@@ -197,13 +198,13 @@ span.price:after {
             
             
         <div class="container-fluid">
-              <h1>Прокат аренда Ford Transit в Израиле начиная с 131$</h1>
+              <h1>Прокат аренда Hyundai i800 в Израиле начиная с 131$</h1>
               <div class="row">
                 <div class="col-sm-6 biseller-column" >
 <!--                  <a href="single.html">	-->
 
-                    <img src="../images/car_key.jpeg" alt="прокат аренда Ford Transit в Израиле начиная с 131$" class="img-responsive"/>
-                    <span class="price"><img src="../m/images/viber_whatsapp_icon.png" alt="прокат аренда Ford Transit в Израиле начиная с 131$" /> +972-58-7710101</span>
+                    <img src="../images/car_key.jpeg" alt="прокат аренда Hyundai i800 в Израиле начиная с 131$" class="img-responsive"/>
+                    <span class="price"><img src="../m/images/viber_whatsapp_icon.png" alt="прокат аренда Hyundai i800 в Израиле начиная с 131$" /> +972-58-7710101</span>
 <!--                  </a>-->
 <h4 style="color:green; font-weight: lighter;">Нет предоплаты, возможна оплата наличными</h4>
 <h4 style="color:green; font-weight: lighter;">Безлимитный километраж при аренде на 3-29 day</4>
@@ -224,7 +225,7 @@ span.price:after {
                     <div class="clearfix"></div>
                     <input type="submit" class="btn .btn-success" name="submit" value="Отправить форму" id="checkoutModalLabel">
                   </form>           
-                <h5>или свяжитесь с нами по <img src="../m/images/viber_whatsapp_icon.png" alt="прокат аренда Ford Transit в Израиле начиная с 131$" /> +972-58-771-0101</h5>
+                <h5>или свяжитесь с нами по <img src="../m/images/viber_whatsapp_icon.png" alt="прокат аренда Hyundai i800 в Израиле начиная с 131$" /> +972-58-771-0101</h5>
                 
                 <script src="//yastatic.net/es5-shims/0.0.2/es5-shims.min.js"></script>
 <script src="//yastatic.net/share2/share.js"></script>
@@ -309,11 +310,11 @@ B (EBMR), C (ECAR), D (CCAR), E (CDAR, F (IDAR), I (SDAR), H (FDAR), M (PDAR).
                 </div>
                 <div class="col-sm-6 ad-info">
                   <h2>Категория аренды проката: Z 
-                      <br>Ford Transit или подобная</h2>
+                      <br>Hyundai i800 или подобная</h2>
                     <p class="text-success glyphicon glyphicon-ok"> Кондиционер</p> 
                     <p class="text-success glyphicon glyphicon-ok"> Автоматическая коробка передач</p><br>
-                    <h4>Дополнительные машины в категории Z: </h4>
-                     VW Transporter, Citroen Jumpy, Hyundai i800 и другие
+                    <h4>Основные машины категории Z: </h4>
+                     Ford Transit, VW Transporter, Hyundai i80  и другие
                     
 
 <!--                <div class="alert alert-success">-->
