@@ -72,7 +72,7 @@ and open the template in the editor.
         <meta property="fb:app_id" content="1322511981092474" />
         <meta property="og:type" content="website" />
         <meta property="og:locale" content="ru_RU" />       
-        <meta property="og:url" content="http://www.rentalcarsisrael.com/ru/catZ_Ford_Transit_9seats_automatic.php" />
+        <meta property="og:url" content="http://www.rentalcarsisrael.com/ru/catC_Skoda_Citigo_4seats_automatic.php" />
         <meta property="og:image" content="http://www.rentalcarsisrael.com/images/car_key.jpg"/><meta property="og:image:type" content="image/png" />
         <meta property="og:image:width" content="640" />
         <meta property="og:image:height" content="320" />
