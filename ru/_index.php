@@ -39,7 +39,7 @@
 							<option value="Category D" >Hyundai i20(автомат) или похожая в категории D - от 26$ в сутки(франшиза - 475$)</option>
 							<option value="Category E" >Ford Fiesta(автомат) или похожая в категории E - от 27$ в сутки(франшиза - 475$)</option>
 							<option value="Category F" >Hyundai i25(автомат) или похожая в категории F - от 30$ в сутки(франшиза - 475$)</option>							
-							<option value="Category FX" >Renault Megane Coupe(автомат) или похожая в категории FX - от 30$ в сутки(франшиза - 475$)</option>
+							<option value="Category FX" >Renault Megane Coupe(автомат) или похожая в категории FX - от 31$ в сутки(франшиза - 475$)</option>
                                                         <option value="Category I" >Mazda 3(автомат) или похожая в категории I - от 32$ сутки(франшиза - 475$)</option>
                                                         <option value="Category IW" >Ford Focus SW(автомат) или похожая в категории IW - от 34$ сутки(франшиза - 475$)</option>
 							<option value="Category H" >Honda Civic(автомат) или похожая в категории H - от 41$ в сутки(франшиза - 715$)</option>
