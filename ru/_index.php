@@ -72,7 +72,7 @@
                                         <option value="Тель Авив, ул. ха-Яркон, 80">Тель Авив, ул. ха-Яркон, 80</option>
                                         <option value="Тель Авив, ул. ха-Масгер, 9">Тель Авив, ул. ха-Масгер, 9</option>
                                         <option value="Иерусалим, ул. Кинг Давид, 19">Иерусалим, ул. Кинг Давид, 19</option>
-                                        <option value="Хайфа, шдерот ха-Гистадрут, 88">Хайфа, шдерот ха-Гистадрут, 88</option>
+                                        <option value="Хайфа, 27 Haashlag Street">Хайфа, 27 Haashlag Street</option>
                                         <option value="Нетания, ул. Усишкин, 1">Нетания, ул. Усишкин, 1</option>
                                         <option value="Тверия, ул. ха-Ярден, 71">Тверия, ул. ха-Ярден, 71</option>
                                         <option value="Эйлат, ул. Шешет ха-Ямим, 3">Эйлат, ул. Шешет ха-Ямим, 3</option>								
@@ -158,7 +158,7 @@
                                         <option value="Тель Авив, ул. ха-Яркон, 80">Тель Авив, ул. ха-Яркон, 80</option>
                                         <option value="Тель Авив, ул. ха-Масгер, 9">Тель Авив, ул. ха-Масгер, 9</option>
                                         <option value="Иерусалим, ул. Кинг Давид, 19">Иерусалим, ул. Кинг Давид, 19</option>
-                                        <option value="Хайфа, шдерот ха-Гистадрут, 88">Хайфа, шдерот ха-Гистадрут, 88</option>
+                                        <option value="Хайфа, 27 Haashlag Street">Хайфа, 27 Haashlag Street</option>
                                         <option value="Нетания, ул. Усишкин, 1">Нетания, ул. Усишкин, 1</option>
                                         <option value="Тверия, ул. ха-Ярден, 71">Тверия, ул. ха-Ярден, 71</option>
                                         <option value="Эйлат, ул. Шешет ха-Ямим, 3">Эйлат, ул. Шешет ха-Ямим, 3</option>								
@@ -1151,7 +1151,7 @@
 <td>
 <p><strong>Бейт Шемеш</strong> - городское отделение аренды проката автомобилей в Израиле</p>
 </td>
-<td>10 Nahal Zohar Street , Beit Shemesh</td>
+<td>1 Nehar Hayarden Street , Beit Shemesh</td>
 
 </tr>
 <tr>
@@ -1168,7 +1168,7 @@
 </tr>
 <tr>
 <td>
-<p><strong>Ришон Лецио</strong>н - городское отделение аренды проката автомобилей в Израиле</p>
+<p><strong>Ришон Лецион</strong> - городское отделение аренды проката автомобилей в Израиле</p>
 </td>
 <td>14 David Saharov Street , Rishon LeTsiyon</td>
 </tr>
@@ -1211,7 +1211,7 @@
 <td>
 <p><strong>Хайфа</strong> - городское отделение аренды проката автомобилей в Израиле</p>
 </td>
-<td>88 Hahistadrut Street , Haifa</td>
+<td>27 Haashlag Street , Haifa</td>
 
 </tr>
 <tr>
