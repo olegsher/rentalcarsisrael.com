@@ -12,7 +12,15 @@
 <body>
 <?php include("../seo_stat"); ?>
 <?php include("__top.html"); ?>
-<?php include("_branches.html"); ?>
+<div class="container">
+<div class="col-md-7 bann-info wow fadeInRight animated" data-wow-delay=".5s">
+<img src="../images/catW.jpg" alt="машина прокат, машина прокат Израиле, аренда машины Израиль" class="img-responsive" />
+<br /><h1>ОТДЕЛЕНИЯ ПО АРЕНДЕ ПРОКАТУ АВТОМОБИЛЕЙ В ИЗРАИЛЕ:</h1>
+</div>
+<div class="clearfix"></div>
+
+<?php include("__branches.html"); ?>
+</div>
 <?php include("__footer.html"); ?>
 </body>
 </html>
