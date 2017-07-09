@@ -820,7 +820,11 @@
 <td>
 <p>C ECAR</p>
 </td>
-<td><strong>Kia Picanto, Toyota Aygo, Skoda Citigo, Hyundai i10, Peugeot 107</strong> или похожие в данной категории проката, 4 мест
+<td><strong><a href="catC_Hyundai_i10_4seats_automatic.php">Hyundai_i10</a>,
+                    <a href="catC_Kia_Picanto_4seats_automatic.php">Kia_Picanto</a>,
+                    <a href="catC_Peugeot_107_4seats_automatic.php">Peugeot_107</a>,
+                    <a href="catC_Skoda_Citigo_4seats_automatic.php">Skoda_Citigo</a>,
+                    <a href="catC_Toyota_Aygo_4seats_automatic.php">Toyota_Aygo</a></strong> или похожие в данной категории проката, 4 мест
 <hr /><strong>Для аренды в городских отделениях проката автомобилей в Израиле:</strong> <br>
 <a href="benGurion.php">Аэропорт Бен Гурион</a>, Тель-Авив, 
 <a href="Eilat.php">Эйлат</a>, Иерусалим, <br>
