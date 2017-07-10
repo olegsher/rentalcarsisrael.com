@@ -77,7 +77,7 @@ and open the template in the editor.
         <meta property="og:image:width" content="640" />
         <meta property="og:image:height" content="320" />
         <meta property="og:title" content="Аренда прокат в Израиле Hyundai_i10, Kia_Picanto, Peugeot_107, Skoda_Citigo, Toyota_Aygo и другие 
-              автоматическая коробка передач начиная с 25$. Бронируйте +972-58-7710101"/>
+              автомат, начиная с 25$. Бронируйте +972-58-7710101"/>
         <meta property="og:description" content="аренда прокат Hyundai i10 в Израиле, аренда прокат автомобиля в Израиле, эконом класс и семейные машины, микроавтобусы и минивэны 7-8-9 мест, машины Люкс класса"/>
   
         
