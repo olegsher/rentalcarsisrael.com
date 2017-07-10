@@ -205,7 +205,7 @@ span.price:after {
                     <img src="../m/images/mazda3.png" alt="прокат аренда Mazda 3 в Израиле начиная с 32$" class="img-responsive"/>
                     <span class="price"><img src="../m/images/viber_whatsapp_icon.png" alt="прокат аренда Mazda 3 в Израиле начиная с 32$" /> +972-58-7710101</span>
 <!--                  </a>-->
-<h4 style="color:green; font-weight: lighter;">Нет предоплаты, возможна оплата наличными</h4>
+<h4 style="color:green; font-weight: lighter;">Нет скрытых платежей, страховки уже включены</h4><h4 style="color:green; font-weight: lighter;">Нет предоплаты, возможна оплата наличными</h4>
 <h4 style="color:green; font-weight: lighter;">Безлимитный километраж при аренде на 3-29 day</4>
 <h4 style="color:green; font-weight: lighter;">Нет штрафов за изменение или отмену заказа, нет скрытых платежей</h4>
 
