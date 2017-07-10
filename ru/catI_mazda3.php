@@ -69,7 +69,7 @@ and open the template in the editor.
         <meta property="og:type" content="website" />
         <meta property="og:locale" content="ru_RU" />       
         <meta property="og:url" content="http://www.rentalcarsisrael.com/ru/catI_mazda3.php" />
-        <meta property="og:image" content="http://www.rentalcarsisrael.com/m/images/mazda3.png"/>
+        <meta property="og:image" content="http://www.rentalcarsisrael.com/images/car_key_vastama.jpeg"/>
         <meta property="og:image:type" content="image/png" />
         <meta property="og:image:width" content="640" />
         <meta property="og:image:height" content="320" />

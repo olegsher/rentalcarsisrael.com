@@ -73,7 +73,7 @@ and open the template in the editor.
         <meta property="og:type" content="website" />
         <meta property="og:locale" content="ru_RU" />       
         <meta property="og:url" content="http://www.rentalcarsisrael.com/ru/catC_Hyundai_i10_4seats_automatic.php" />
-        <meta property="og:image" content="http://www.rentalcarsisrael.com/images/car_key.jpg"/><meta property="og:image:type" content="image/png" />
+        <meta property="og:image" content="http://www.rentalcarsisrael.com/images/car_key_vastama.jpeg"/><meta property="og:image:type" content="image/png" />
         <meta property="og:image:width" content="640" />
         <meta property="og:image:height" content="320" />
         <meta property="og:title" content="Аренда прокат в Израиле Hyundai_i10, Kia_Picanto, Peugeot_107, Skoda_Citigo, Toyota_Aygo и другие 
@@ -207,7 +207,7 @@ span.price:after {
                 <div class="col-sm-6 biseller-column" >
 <!--                  <a href="single.html">	-->
 
-                    <img src="../images/car_key.jpeg" alt="прокат аренда Hyundai i10 в Израиле начиная с 25$" class="img-responsive"/>
+                    <img src="../images/car_key_vastama.jpeg" alt="прокат аренда Hyundai i10 в Израиле начиная с 25$" class="img-responsive"/>
                     <span class="price"><img src="../m/images/viber_whatsapp_icon.png" alt="прокат аренда Hyundai i10 в Израиле начиная с 25$" /> +972-58-7710101</span>
 <!--                  </a>-->
 <h4 style="color:green; font-weight: lighter;">Нет предоплаты, возможна оплата наличными</h4>
