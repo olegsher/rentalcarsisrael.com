@@ -210,11 +210,8 @@ span.price:after {
                     <img src="../images/car_key_vastama.jpeg" alt="прокат аренда Hyundai i10 в Израиле начиная с 25$" class="img-responsive"/>
                     <span class="price"><img src="../m/images/viber_whatsapp_icon.png" alt="прокат аренда Hyundai i10 в Израиле начиная с 25$" /> +972-58-7710101</span>
 <!--                  </a>-->
-<h4 style="color:green; font-weight: lighter;">Нет скрытых платежей, страховки уже включены</h4><h4 style="color:green; font-weight: lighter;">Нет предоплаты, возможна оплата наличными</h4>
-<h4 style="color:green; font-weight: lighter;">Безлимитный километраж при аренде на 3-29 day</h4>
-<h4 style="color:green; font-weight: lighter;">Нет штрафов за изменение или отмену заказа, нет скрытых платежей</h4>
-
-
+<br>
+<?php include("__block.html"); ?>
 
 
                 <h4>Заполните форму и мы свяжемся с вами:</h4>
