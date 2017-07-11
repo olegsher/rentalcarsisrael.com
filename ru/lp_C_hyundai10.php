@@ -214,32 +214,12 @@ span.price:after {
 <?php include("__block.html"); ?>
 
 
-                <h4>Заполните форму и мы поможем вам арендовать машину:</h4>
-                <h5 style="color:red; font-weight: lighter;">*Консультация и расчет аренды бесплатно и без обязательств</h5>
-                <form action="#" method="post" name="car-select-form" id="car-select-form">
-                    
-                    <input type="text" name="First_name" required class="form-control" placeholder="Имя и Фамилия">  
-                    <input type="hidden" name="car-select" value="Category C">  
-                    <input type="email" name="email" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,3}$" required id="email" class="form-control" placeholder="Почта">  
-                      <input type="text" name="phone" required class="form-control" placeholder="Тел/WhatsApp/Viber" >  
-                      <input type="text" name="message" class="form-control" placeholder="Сообщение">      
-                    <div class="clearfix"></div>
-                    <input type="submit" class="btn .btn-success" name="submit" value="Отправить форму" id="checkoutModalLabel">
-                  </form>           
-                <h5>или свяжитесь с нами по <img src="../m/images/viber_whatsapp_icon.png" alt="прокат аренда Hyundai i10 в Израиле начиная с 25$" /> +972-58-771-0101</h5>
-                
-                <script src="//yastatic.net/es5-shims/0.0.2/es5-shims.min.js"></script>
-<script src="//yastatic.net/share2/share.js"></script>
-<div class="ya-share2" data-services="collections,vkontakte,facebook,odnoklassniki,moimir,twitter,evernote,linkedin,lj,viber,whatsapp,skype,telegram" data-counter=""></div>
-                
+                                
                 
                
 
               
-                
-    
-<h4 style="color: #000000; font-weight: bold;">Условия аренды</h4>               
-<?php include("__rentalconditions.html"); ?>  
+
                 
                     
                 </div>
@@ -260,29 +240,39 @@ span.price:after {
                     
 <!--                </div>-->
                
-<hr />
-<h4 style="color: #000000; font-weight: bold;">Отделения по прокату аренде автомобилей в Израиле:</h4>
-<?php include("__branches.html"); ?>
 
-<h4 style="color: #000000; font-weight: bold;">Страховки:</h4>
-<?php include("__insurance.html"); ?>
+                <h4>Заполните форму и мы поможем вам арендовать машину:</h4>
+                <h5 style="color:red; font-weight: lighter;">*Консультация и расчет аренды бесплатно и без обязательств</h5>
+                <form action="#" method="post" name="car-select-form" id="car-select-form">
+                    
+                    <input type="text" name="First_name" required class="form-control" placeholder="Имя и Фамилия">  
+                    <input type="hidden" name="car-select" value="Category C">  
+                    <input type="email" name="email" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,3}$" required id="email" class="form-control" placeholder="Почта">  
+                      <input type="text" name="phone" required class="form-control" placeholder="Тел/WhatsApp/Viber" >  
+                      <input type="text" name="message" class="form-control" placeholder="Сообщение">      
+                    <div class="clearfix"></div>
+                    <input type="submit" class="btn .btn-success" name="submit" value="Отправить форму" id="checkoutModalLabel">
+                  </form>           
+                <h5>или свяжитесь с нами по <img src="../m/images/viber_whatsapp_icon.png" alt="прокат аренда Hyundai i10 в Израиле начиная с 25$" /> +972-58-771-0101</h5>
                 
+                
+
+
                 
 
                 
                 
                 
                 </div>
+                  
+                  
+                  
               </div>
+              
         </div>
             
             
-<br />Наши поисковые запросы: 
-<p style="color:tear; font-weight: lighter;" >прокат автомобиля в израиле, аренда прокат авто аэропорт, аренда прокат авто бен гурион, аренда прокат авто нетания, прокат авто тель авив, прокат авто тель авив, аренда авто израиль, аренда авто в иерусалиме, прокат авто в эйлате, 
-аренда автомобиля в Тель Авиве, аренда автомобиля в Эйлате, аренда автомобиля в Израиле, машина прокат, машина прокат Израиле, аренда машины Израиль, 
-avto prokat, prokat mashin, auto arenda, прокат аренда машин, где можно взять машину напрокат, заказать машину, аренда иномарок, arenda avto, 
-стоимость аренды машины, израиль прокат автомобилей, съем машины Израиле, аренда авто, прокат машины, сьем автомобиля,автомобиль,  машина Израиле, дешевый прокат автомобиля  
-<hr />   
+  
             
             
             
@@ -312,3 +302,4 @@ var ZCallbackWidgetDomain  = 'my.zadarma.com';
 
     </body>
 </html>
+
