@@ -82,6 +82,10 @@ and open the template in the editor.
         
         
 <style> 
+    body  {
+    background-image: url("../images/Sand.png");
+    background-color: #cccccc;
+}
 option {
     font-weight: normal;
     display: block;
