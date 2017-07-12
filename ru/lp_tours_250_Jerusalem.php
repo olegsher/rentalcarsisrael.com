@@ -72,7 +72,7 @@ and open the template in the editor.
         <meta property="og:image" content="http://www.rentalcarsisrael.com/images/tours_jerusalem_250.png"/>
         <meta property="og:image:type" content="image/png" />
         <meta property="og:image:width" content="640" />
-        <meta property="og:image:height" content="480" />
+        <meta property="og:image:height" content="400" />
         <meta property="og:title" content="Индивидуальные экскурсии по Иерусалиму за 250$. Бронируйте +972-58-7710101"/>
         <meta property="og:description" content="Нет посредников, оплата напрямую гиду. Заказывайте сейчас +972-58-7710101"/>
 
