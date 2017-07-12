@@ -21,7 +21,7 @@ if(isset($_POST['submit'])){
             $message .= '<hr />';
             $message .= 'Tours to Jerusalem http://www.rentalcarsisrael.com +972-58-7710101';
             $message .= '<hr />';
-$message .= '<img src="http://www.rentalcarsisrael.com/images/tours_jerusalem_250.png" alt="Rental cars Israel +972-58-7710101" />';
+$message .= '<img src="http://www.rentalcarsisrael.com/images/tour_jerusalem_250.png" alt="Rental cars Israel +972-58-7710101" />';
 $message .= '<table rules="all" style="border-color: #666;" cellpadding="10">';
 $message .= "<tr style='background: #eee;'><td><strong>First Name:</strong> </td><td>" . strip_tags($_POST['First_name']) . "</td></tr>";
 //$message .= "<tr><td><strong>Email:</strong> </td><td>" . strip_tags($_POST['email']) . "</td></tr>";
@@ -69,7 +69,7 @@ and open the template in the editor.
         <meta property="og:type" content="website" />
         <meta property="og:locale" content="ru_RU" />       
         <meta property="og:url" content="http://www.rentalcarsisrael.com/ru/lp2_tours_250_Jerusalem.php" />
-        <meta property="og:image" content="http://www.rentalcarsisrael.com/images/tours_jerusalem_250.png"/>
+        <meta property="og:image" content="http://www.rentalcarsisrael.com/images/tour_jerusalem_250.png"/>
         <meta property="og:image:type" content="image/png" />
         <meta property="og:image:width" content="640" />
         <meta property="og:image:height" content="400" />
@@ -202,7 +202,7 @@ span.price:after {
                 <div class="col-sm-6 biseller-column" >
 <!--                  <a href="single.html">	-->
 
-                    <img src="../images/tours_jerusalem_250.png" alt="прокат аренда Hyundai i10 в Израиле начиная с 25$" class="img-responsive"/>
+                    <img src="../images/tour_jerusalem_250.png" alt="прокат аренда Hyundai i10 в Израиле начиная с 25$" class="img-responsive"/>
                     <span class="price"><img src="../m/images/viber_whatsapp_icon.png" alt="прокат аренда Hyundai i10 в Израиле начиная с 25$" /> +972-58-7710101</span>
 <!--                  </a>-->
 <br>
