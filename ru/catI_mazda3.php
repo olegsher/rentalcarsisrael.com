@@ -236,9 +236,9 @@ span.price:after {
                     </div>
                 
  <div class="alert alert-warning">               
- <h4>Почему стоит заказать у нас а не напрямую в отделении компании по аренде</h4>
+ <h4>Почему стоит бронировать автомобиль на сайте а не в отделении по аренде</h4>
 <br>Первое это конечно обслуживание на родном языке, у нас вы можете выяснить все интересующие вас вопросы по телефону-viber-whatsapp +972-58-7710101. 
-<br>Второе, но не менее важное, это цена — наши цены значительно ниже чем при прямом заказе в отделении проката. 
+<br>Второе, но не менее важное, это цена — интернет цены значительно ниже чем при прямом заказе в отделении проката. 
 <br>И у нас как правило есть какие то мероприятия — то скидка 25$ при аренде 7+ дней, то дополнительный водитель бесплатно…
 </div>
                 
@@ -313,8 +313,7 @@ B (EBMR), C (ECAR), D (CCAR), E (CDAR, F (IDAR), I (SDAR), H (FDAR), M (PDAR).
                     <p class="text-success glyphicon glyphicon-ok"> Кондиционер</p> 
                     <p class="text-success glyphicon glyphicon-ok"> Автоматическая коробка передач</p><br>
                     <h4>Дополнительные машины в категории I: </h4>
-                    Hyundai i35, Subaru Impreza, Renault Megan, Skoda Roomster, 
-                    Toyota Corolla, Ford Focus, Kia Forte, Mitsubishi Lancer, Hyundai i30, Kia Ceed, Citroen C-Elysee и другие
+                     Hyundai Elantra, Subaru Impreza, Fiat Tipo, Toyota Corolla, Ford Focus, Kia Forte и другие
                     
 
 <!--                <div class="alert alert-success">-->
