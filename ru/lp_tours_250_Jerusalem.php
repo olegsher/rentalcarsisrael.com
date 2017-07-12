@@ -68,7 +68,7 @@ and open the template in the editor.
         <meta property="fb:app_id" content="1322511981092474" />
         <meta property="og:type" content="website" />
         <meta property="og:locale" content="ru_RU" />       
-        <meta property="og:url" content="http://www.rentalcarsisrael.com/ru/lp2_tours_250_Jerusalem.php" />
+        <meta property="og:url" content="http://www.rentalcarsisrael.com/ru/lp_tours_250_Jerusalem.php" />
         <meta property="og:image" content="http://www.rentalcarsisrael.com/images/tour_jerusalem_250.png"/>
         <meta property="og:image:type" content="image/png" />
         <meta property="og:image:width" content="640" />
