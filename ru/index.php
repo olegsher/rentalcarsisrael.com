@@ -102,7 +102,8 @@ header('Location: http://www.rentalcarsisrael.com/ru/thankyou.php');
 <meta property="og:image:height" content="320" />
 <meta property="og:title" content="Аренда прокат автомобиля в Израиле, эконом класс и семейные машины, микроавтобусы и минивэны" />
 <meta property="og:description" content="Лучшие цены, нет предоплаты, заказ онлайн, Whatsapp/Viber +972-58-7710101"/>
-<?php include("__header.html"); ?>
+<meta name="wot-verification" content="3e0d04601064490e9042"/>
+    <?php include("__header.html"); ?>
 </head>
 <body>
 <?php include("x__facebook.html"); ?>

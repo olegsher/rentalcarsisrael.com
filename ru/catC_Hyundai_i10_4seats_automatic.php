@@ -63,9 +63,8 @@ and open the template in the editor.
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Аренда прокат Hyundai i10 в Израиле | rentalcarsisrael.com</title>
-<meta name="keywords" content="машина прокат, машина прокат Израиле, аренда машины Израиль, avto prokat, prokat mashin, auto arenda, прокат аренда машин, где можно взять машину напрокат, заказать машину, аренда иномарок, 
-      arenda avto, стоимость аренды машины, 
-      израиль прокат автомобилей, съем машины Израиле, аренда авто, прокат машины, 
+        <meta name="keywords" content="машина прокат, машина прокат Израиле, аренда машины Израиль, avto prokat, prokat mashin, auto arenda, прокат аренда машин, где можно взять машину напрокат, заказать машину, аренда иномарок, 
+      arenda avto, стоимость аренды машины, израиль прокат автомобилей, съем машины Израиле, аренда авто, прокат машины, 
       сьем автомобиля,автомобиль,  машина Израиле, дешевый прокат автомобиля" />
         <meta  name="description"  content="Аренда прокат в Израиле Hyundai_i10, Kia_Picanto, Peugeot_107, Skoda_Citigo, Toyota_Aygo и другие 
               автоматическая коробка передач начиная с 25$" />

@@ -161,6 +161,7 @@ $message .= "</body></html>";
 	});
 </script>
 <!-- start-smoth-scrolling -->
+<meta name="wot-verification" content="3e0d04601064490e9042"/>
 </head>
 <body>
 <?php include("seo_stat"); ?>
