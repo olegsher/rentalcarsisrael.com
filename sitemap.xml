@@ -7,36 +7,113 @@
 <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
 <url>
+  <loc>http://www.rentalcarsisrael.com/</loc>
+  <changefreq>weekly</changefreq>
+  <priority>1.00</priority>
+</url>
+<url>
   <loc>http://www.rentalcarsisrael.com/ru/</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>http://www.rentalcarsisrael.com/ru/index.php</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>http://www.rentalcarsisrael.com/ru/minivan.php</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>http://www.rentalcarsisrael.com/ru/branches.php</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>http://www.rentalcarsisrael.com/ru/insurance.php</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>http://www.rentalcarsisrael.com/ru/terms.php</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>http://www.rentalcarsisrael.com/ru/faq.php</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>http://www.rentalcarsisrael.com/ru/about.php</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>http://www.rentalcarsisrael.com/ru/benGurion.php</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.rentalcarsisrael.com/ru/catZ_Ford_Tranzit_9seats_automatic.php</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.rentalcarsisrael.com/ru/catZ_VW_Transporter_9seats_automatic.php</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.rentalcarsisrael.com/ru/catZ_Citroen_Jumpy_9seats_automatic.php</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.rentalcarsisrael.com/ru/catZ_Hyundai_i800_9seats_automatic.php</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>http://www.rentalcarsisrael.com/ru/Eilat.php</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>http://www.rentalcarsisrael.com/ru/Netanya.php</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.rentalcarsisrael.com/ru/catC_Hyundai_i10_4seats_automatic.php</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.rentalcarsisrael.com/ru/catC_Kia_Picanto_4seats_automatic.php</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.rentalcarsisrael.com/ru/catC_Peugeot_107_4seats_automatic.php</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.rentalcarsisrael.com/ru/catC_Skoda_Citigo_4seats_automatic.php</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.rentalcarsisrael.com/ru/catC_Toyota_Aygo_4seats_automatic.php</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.rentalcarsisrael.com/ru/catI_mazda3.php</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
 </url>
 </urlset>

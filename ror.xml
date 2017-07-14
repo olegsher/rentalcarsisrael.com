@@ -5,91 +5,187 @@
   <link>http://www.rentalcarsisrael.com/</link>
 
 <item>
+     <link>http://www.rentalcarsisrael.com/</link>
+     <title>Rental Cars Israel by Vastama Ltd</title>
+     <description>Minivans and Luxury cars for rent in Israel, economy and compact car classes for book online</description>
+     <ror:updatePeriod>weekly</ror:updatePeriod>
+     <ror:sortOrder>0</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
      <link>http://www.rentalcarsisrael.com/ru/</link>
      <title>Недорогая аренда прокат автомобиля в Израиле | rentalcarsisrael.com</title>
      <description>аренда прокат автомобиля в Израиле, эконом класс и семейные машины, микроавтобусы и минивэны 7-8-9 мест</description>
-     <ror:updatePeriod></ror:updatePeriod>
-     <ror:sortOrder>0</ror:sortOrder>
+     <ror:updatePeriod>weekly</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
      <link>http://www.rentalcarsisrael.com/ru/index.php</link>
      <title>Недорогая аренда прокат автомобиля в Израиле | rentalcarsisrael.com</title>
      <description>аренда прокат автомобиля в Израиле, эконом класс и семейные машины, микроавтобусы и минивэны 7-8-9 мест</description>
-     <ror:updatePeriod></ror:updatePeriod>
-     <ror:sortOrder>1</ror:sortOrder>
+     <ror:updatePeriod>weekly</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
      <link>http://www.rentalcarsisrael.com/ru/minivan.php</link>
      <title>Микроавтобусы и минивэны аренда прокат автомобиля в Израиле</title>
      <description>Микроавтобусы и минивэны 7-8-9 мест аренда прокат автомобиля в Израиле</description>
-     <ror:updatePeriod></ror:updatePeriod>
-     <ror:sortOrder>1</ror:sortOrder>
+     <ror:updatePeriod>weekly</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
      <link>http://www.rentalcarsisrael.com/ru/branches.php</link>
-     <title>Отделения - Недорогая аренда прокат автомобиля в Израиле</title>
+     <title>Отделения аренда прокат автомобиля в Израиле rentalcarsisrael.com</title>
      <description>Аренда прокат автомобиля в Израиле. Бюджетные авто, Миниваны, </description>
-     <ror:updatePeriod></ror:updatePeriod>
-     <ror:sortOrder>1</ror:sortOrder>
+     <ror:updatePeriod>weekly</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
      <link>http://www.rentalcarsisrael.com/ru/insurance.php</link>
-     <title>Страховки - Недорогая аренда прокат автомобиля в Израиле</title>
+     <title>Страховки аренда прокат автомобиля в Израиле rentalcarsisrael.com</title>
      <description>Аренда прокат автомобиля в Израиле. Бюджетные авто, Миниваны, </description>
-     <ror:updatePeriod></ror:updatePeriod>
-     <ror:sortOrder>1</ror:sortOrder>
+     <ror:updatePeriod>weekly</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
      <link>http://www.rentalcarsisrael.com/ru/terms.php</link>
      <title>Условия аренды - Недорогая аренда прокат автомобиля в Израиле</title>
      <description>Аренда прокат автомобиля в Израиле. Бюджетные авто, Миниваны, </description>
-     <ror:updatePeriod></ror:updatePeriod>
-     <ror:sortOrder>1</ror:sortOrder>
+     <ror:updatePeriod>weekly</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
      <link>http://www.rentalcarsisrael.com/ru/faq.php</link>
      <title>Часто задаваемые вопросы аренда прокат автомобиля в Израиле</title>
      <description>Часто задаваемые вопросы аренда прокат автомобиля в Израиле, эконом класс и семейные машины, микроавтобусы и минивэны 7-8-9 мест  - аренда прокат автомобиля в Израиле</description>
-     <ror:updatePeriod></ror:updatePeriod>
-     <ror:sortOrder>1</ror:sortOrder>
+     <ror:updatePeriod>weekly</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
      <link>http://www.rentalcarsisrael.com/ru/about.php</link>
-     <title>Vastama Lts - Недорогая аренда прокат автомобиля в Израиле</title>
+     <title>Vastama аренда прокат автомобиля в Израиле rentalcarsisrael.com</title>
      <description>Аренда прокат автомобиля в Израиле. Бюджетные авто, Миниваны, </description>
-     <ror:updatePeriod></ror:updatePeriod>
-     <ror:sortOrder>1</ror:sortOrder>
+     <ror:updatePeriod>weekly</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
      <link>http://www.rentalcarsisrael.com/ru/benGurion.php</link>
-     <title>Недорогая аренда прокат автомобиля в Израиле | rentalcarsisrael.com</title>
+     <title>аренда прокат машины в аэропорту Бен Гурион rentalcarsisrael.com</title>
      <description>аренда прокат автомобиля в Израиле, эконом класс и семейные машины, микроавтобусы и минивэны 7-8-9 мест</description>
-     <ror:updatePeriod></ror:updatePeriod>
-     <ror:sortOrder>1</ror:sortOrder>
+     <ror:updatePeriod>weekly</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.rentalcarsisrael.com/ru/catZ_Ford_Tranzit_9seats_automatic.php</link>
+     <title>аренда прокат Ford Transit в Израиле | rentalcarsisrael.com</title>
+     <description>Прокат автомобиля в Израиле, пассажирский микроавтобус и минивэн 9 мест, 
+              автоматическая коробка передач начиная с 131$</description>
+     <ror:updatePeriod>weekly</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.rentalcarsisrael.com/ru/catZ_VW_Transporter_9seats_automatic.php</link>
+     <title>аренда прокат VW Transporter в Израиле | rentalcarsisrael.com</title>
+     <description>Прокат автомобиля в Израиле, пассажирский микроавтобус и минивэн 9 мест, 
+              автоматическая коробка передач начиная с 131$</description>
+     <ror:updatePeriod>weekly</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.rentalcarsisrael.com/ru/catZ_Citroen_Jumpy_9seats_automatic.php</link>
+     <title>аренда прокат Citroen Jumpy в Израиле | rentalcarsisrael.com</title>
+     <description>Прокат автомобиля в Израиле, пассажирский микроавтобус и минивэн 9 мест, 
+              автоматическая коробка передач начиная с 131$</description>
+     <ror:updatePeriod>weekly</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.rentalcarsisrael.com/ru/catZ_Hyundai_i800_9seats_automatic.php</link>
+     <title>аренда прокат Hyundai i800 в Израиле | rentalcarsisrael.com</title>
+     <description>аренда прокат Hyundai i800 в Израиле, аренда прокат автомобиля в Израиле, эконом класс и семейные машины, микроавтобусы и минивэны 7-8-9 мест</description>
+     <ror:updatePeriod>weekly</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
      <link>http://www.rentalcarsisrael.com/ru/Eilat.php</link>
-     <title>Недорогая аренда прокат автомобиля в Израиле | rentalcarsisrael.com</title>
+     <title>Недорогая аренда прокат автомобиля в Эйлате | rentalcarsisrael.com</title>
      <description>аренда прокат автомобиля в Израиле, эконом класс и семейные машины, микроавтобусы и минивэны 7-8-9 мест</description>
-     <ror:updatePeriod></ror:updatePeriod>
-     <ror:sortOrder>1</ror:sortOrder>
+     <ror:updatePeriod>weekly</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
      <link>http://www.rentalcarsisrael.com/ru/Netanya.php</link>
-     <title>Недорогая аренда прокат автомобиля в Израиле | rentalcarsisrael.com</title>
+     <title>Недорогая аренда прокат автомобиля в Нетании | rentalcarsisrael.com</title>
      <description>аренда прокат автомобиля в Израиле, эконом класс и семейные машины, микроавтобусы и минивэны 7-8-9 мест</description>
-     <ror:updatePeriod></ror:updatePeriod>
-     <ror:sortOrder>1</ror:sortOrder>
+     <ror:updatePeriod>weekly</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.rentalcarsisrael.com/ru/catC_Hyundai_i10_4seats_automatic.php</link>
+     <title>Аренда прокат Hyundai i10 в Израиле | rentalcarsisrael.com</title>
+     <description>Аренда прокат в Израиле Hyundai_i10, Kia_Picanto, Peugeot_107, Skoda_Citigo, Toyota_Aygo и другие 
+              автоматическая коробка передач начиная с 25$</description>
+     <ror:updatePeriod>weekly</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.rentalcarsisrael.com/ru/catC_Kia_Picanto_4seats_automatic.php</link>
+     <title>аренда прокат Kia Picanto в Израиле | rentalcarsisrael.com</title>
+     <description>Прокат автомобиля в Израиле, пассажирский микроавтобус и минивэн 9 мест, 
+              автоматическая коробка передач начиная с 25$</description>
+     <ror:updatePeriod>weekly</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.rentalcarsisrael.com/ru/catC_Peugeot_107_4seats_automatic.php</link>
+     <title>аренда прокат Peugeot 107 в Израиле | rentalcarsisrael.com</title>
+     <description>Прокат автомобиля в Израиле, пассажирский микроавтобус и минивэн 9 мест, 
+              автоматическая коробка передач начиная с 25$</description>
+     <ror:updatePeriod>weekly</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.rentalcarsisrael.com/ru/catC_Skoda_Citigo_4seats_automatic.php</link>
+     <title>аренда прокат Skoda Citigo в Израиле | rentalcarsisrael.com</title>
+     <description>Прокат автомобиля в Израиле, пассажирский микроавтобус и минивэн 9 мест, 
+              автоматическая коробка передач начиная с 25$</description>
+     <ror:updatePeriod>weekly</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.rentalcarsisrael.com/ru/catC_Toyota_Aygo_4seats_automatic.php</link>
+     <title>Аренда прокат Toyota Aygo в Израиле | rentalcarsisrael.com</title>
+     <description>Аренда прокат Toyota Aygo в Израиле, пассажирский микроавтобус и минивэн 9 мест, 
+              автоматическая коробка передач начиная с 25$</description>
+     <ror:updatePeriod>weekly</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.rentalcarsisrael.com/ru/catI_mazda3.php</link>
+     <title>аренда прокат Mazda 3 в Израиле | rentalcarsisrael.com</title>
+     <description>аренда прокат автомобиля в Израиле, эконом класс и семейные машины, микроавтобусы и минивэны 7-8-9 мест</description>
+     <ror:updatePeriod>weekly</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 </channel>
