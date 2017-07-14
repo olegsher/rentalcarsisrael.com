@@ -10,7 +10,8 @@
 </script>
 <script type="application/ld+json"> { 
 "@context" : "http://schema.org",
-"@type" : "TravelAgency", 
+"@type" : "TravelAgency",
+"image": "http://www.rentalcarsisrael.com/images/car_key_vastama.jpeg", 
 "name":"Vastama Ltd",
 "url":"http://www.rentalcarsisrael.com",
 "email":"admin@vastama.com",
