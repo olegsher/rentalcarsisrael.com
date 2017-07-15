@@ -6,7 +6,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta content="width=device-width, initial-scale=1.0" name="viewport">
-	<title>Vastama Fullsize Slider</title>
+	<title>Vastama</title>
 	<meta content="" name="keywords">
 	<meta content="" name="description">
 
@@ -39,7 +39,7 @@
 <header class='main-wrapper header'>
 	<div class="container apex">
 		<span class="contact-header pull-left small_font">
-			Contact: +972 58 771 0101 - Monday to Friday
+			Contact: +972 58 771 0101 - Sunday to Friday
 		</span>
 
 		<ul class='social-transform unstyled pull-right'>
@@ -229,9 +229,11 @@
 			</div>
 		</div>
 	</div>
+<div class="clearfix"></div>
+		<div class="spacer5"></div>
+		<div class="div-shadow offsetY-7"></div>
 
-
-<!--	<div class="container non-come">
+	<div class="container non-come">
 		<h4 class='division-h pull-left sem-h'>Next seminar</h4>
 		<ul class='offset3 unstyled seminars'>
 			<li>
@@ -259,7 +261,7 @@
 		<div class="clearfix"></div>
 		<div class="spacer1"></div>
 		<div class="div-shadow offsetY-1"></div>
-	</div>-->
+	</div>
 
 <!--	<div class="container non-come" data-anchor="information">
 		<div class="row intensified-row">
