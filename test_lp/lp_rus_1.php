@@ -522,10 +522,10 @@ header('Location: http://www.rentalcarsisrael.com/ru/');
 		<div class='auto-x'>
 			<div class="span3 noR-border">
 				<table class='table package-services not-favorable'>
-					<caption class='noR-border'>Аренда KIA PICANTO на 30 дней</caption>
+					<caption class='noR-border'>Аренда Suzuki Alto на 30 дней</caption>
 					 <thead>
 						<tr>
-							<td><b>$790</b>.00</td>
+							<td><b>$610</b>.00</td>
 						</tr>
 					 </thead>
 					<tbody>
@@ -538,9 +538,9 @@ header('Location: http://www.rentalcarsisrael.com/ru/');
 						<tr>
 							<td>Оплата по возвращению машины</td>
 						</tr>
-						<tr class='lastTr'>
+<!--						<tr class='lastTr'>
 							<td><a class='btn buy-now' href='#'>Заполнить форму</a></td>
-						</tr>
+						</tr>-->
 					</tbody>
 				</table>
 			</div>
@@ -563,9 +563,9 @@ header('Location: http://www.rentalcarsisrael.com/ru/');
 						<tr>
 							<td>Оплата по возвращению машины</td>
 						</tr>
-						<tr class='lastTr'>
+<!--						<tr class='lastTr'>
 							<td><a class='btn buy-now offsetY-5' href='#'>Заполнить форму</a></td>
-						</tr>
+						</tr>-->
 					</tbody>
 				</table>
 			</div>
@@ -589,9 +589,9 @@ header('Location: http://www.rentalcarsisrael.com/ru/');
 						<tr>
 							<td>Оплата по возвращению машины</td>
 						</tr>
-						<tr class='lastTr'>
+<!--						<tr class='lastTr'>
 							<td><a class='btn buy-now offsetY-6' href='#'>Заполнить форму</a></td>
-						</tr>
+						</tr>-->
 					</tbody>
 				</table>
 			</div>
