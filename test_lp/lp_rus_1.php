@@ -225,7 +225,7 @@ header('Location: http://www.rentalcarsisrael.com/ru/');
 						<div class="list-forstart fin_1">
 							<h2 class='h-Bold'>Минивены 7+ мест</h2>
 							<ul class='ul-list-slider Open-sansR'>
-								<li>Аренда начиная от 60USD в день</li>								
+								<li>Аренда начиная от 35USD в день</li>								
 								<li>Безлимитный километраж(3-29 дней)</li>
 								<li>Нет предоплаты, нет штрафов за перенос, отмену заказа</li>
 							</ul>
@@ -238,7 +238,7 @@ header('Location: http://www.rentalcarsisrael.com/ru/');
 						<div class="list-forstart fin_1">
 							<h2 class='h-Bold'>Люкс класс</h2>
 							<ul class='gray-list-slider Open-sansR'>
-								<li>Аренда начиная от 84USD в день</li>								
+								<li>Аренда начиная от 65USD в день</li>								
 								<li>Безлимитный километраж(3-29 дней)</li>
 								<li>Нет предоплаты, нет штрафов за перенос, отмену заказа</li>
 							</ul>
@@ -803,7 +803,6 @@ header('Location: http://www.rentalcarsisrael.com/ru/');
 			</div>-->
 </div>
 <div class="container">
-<p class="wow zoomIn animated animated" data-wow-delay=".5s" style="visibility: visible; animation-delay: 0.5s; animation-name: zoomIn;">&copy; 2014-<?php echo date("Y") ?> Vastama Ltd . All Rights Reserved | Design by  <a href="http://www.vastama.com/" target="_blank">Vastama Ltd</a> </p>
 	
 Техническая информация о работе сайта: 
 <br />Количество посетителей на сайте: 
@@ -817,6 +816,7 @@ echo rand(5, 25);
 avto prokat, prokat mashin, auto arenda, прокат аренда машин, где можно взять машину напрокат, заказать машину, аренда иномарок, arenda avto, 
 стоимость аренды машины, израиль прокат автомобилей, съем машины Израиле, аренда авто, прокат машины, сьем автомобиля,автомобиль,  машина Израиле, дешевый прокат автомобиля  
 <hr />
+<p>&copy; 2014-<?php echo date("Y") ?> Vastama Ltd . All Rights Reserved | Design by  <a href="http://www.vastama.com/" target="_blank">Vastama Ltd</a> </p>
 
 </div>
 </body>
