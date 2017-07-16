@@ -91,9 +91,9 @@ header('Location: http://www.rentalcarsisrael.com/ru/');
 	<script src="jquery.colorbox-min.js" defer></script>
 	<script src="jquery.BlackAndWhite.js" defer></script>
 	<script src="jquery.nivo.slider.pack.js" defer></script>
-	<script src="custom.js"></script>
+	<script src="custom.js" defer></script>
 	<!-- file loader -->
-	<script src="loader.js"></script>
+	<script src="loader.js" defer></script>
 
 
 
