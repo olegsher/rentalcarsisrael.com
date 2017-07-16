@@ -144,7 +144,7 @@ header('Location: http://www.rentalcarsisrael.com/ru/');
 				<img src="logo.png" alt="Vastama" title="Vastama">
 			</a>
 			<h1 class="description-logo">
-				Аренда прокат автомомобилей в Израиле
+				Аренда прокат автомобилей в Израиле
 			</h1>
 		</div>
 
