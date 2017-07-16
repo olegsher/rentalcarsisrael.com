@@ -312,14 +312,19 @@ header('Location: http://www.rentalcarsisrael.com/ru/');
 					</form>
 									</div>
 			</div>
-		</div>
+                    <h4 class='division-h pull-left sem-h'>Индивидуальные экскурсии по Иерусалиму за 250$</h4>
+                    <h4 class='division-h pull-left sem-h'>Закажи Suzuki Alto(кат. В) и получи Kia_Picanto или подобную(кат.С)</h4>
+<!--		
+                </div>
+            
 	</div>
+    
 <div class="clearfix"></div>
 		<div class="spacer5"></div>
 		<div class="div-shadow offsetY-7"></div>
 
 	<div class="container non-come">
-		<h4 class='division-h pull-left sem-h'>Индивидуальные экскурсии по Иерусалиму за 250$</h4>
+<!--		<h4 class='division-h pull-left sem-h'>Индивидуальные экскурсии по Иерусалиму за 250$</h4>-->
                 
 <!--		<ul class='offset3 unstyled seminars'>
 			<li>
@@ -345,7 +350,7 @@ header('Location: http://www.rentalcarsisrael.com/ru/');
 			</li>
 		</ul>-->
             <div class="clearfix"></div>
-                <h4 class='division-h pull-left sem-h'>Закажи Suzuki Alto(кат. В) и получи Kia_Picanto или подобную(кат.С)</h4>
+<!--                <h4 class='division-h pull-left sem-h'>Закажи Suzuki Alto(кат. В) и получи Kia_Picanto или подобную(кат.С)</h4>-->
 <!--		<ul class='offset3 unstyled seminars'>
 			<li>
 				<i class="ico1"></i>
