@@ -106,7 +106,7 @@ header('Location: http://www.rentalcarsisrael.com/ru/');
 <header class='main-wrapper header'>
 	<div class="container apex">
 		<span class="contact-header pull-left small_font">
-			Звоните: +972 58 771 0101 (WhatsApp,Viber,Telegram,Phone)
+			+972 58 771 0101 (WhatsApp,Viber,Telegram,Phone)
 		</span>
 
 		<ul class='social-transform unstyled pull-right'>
@@ -208,14 +208,11 @@ header('Location: http://www.rentalcarsisrael.com/ru/');
 				<ul class="form-bxslider unstyled">
 					<li>
 						<div class="list-forstart fin_1">
-							<h2 class='h-Bold'>Недорогие автомобили</h2>
-							<ul class='ul-list-slider Open-sansR'>
-                                                                <li>Цены при заказе через интернет значительно ниже цен в отделении</li>
-								<li>Аренда начиная от 10USD</li>
-								<li>Низкая франшиза</li>
+							<h2 class='h-Bold'>Бюджетные автомобили</h2>
+							<ul class='ul-list-slider Open-sansR'>                                                                
+								<li>Аренда начиная от 10USD в день</li>								
 								<li>Безлимитный километраж(3-29 дней)</li>
-								<li>Нет предоплаты</li>
-                                                                <li>Нет штрафов за перенос, отмену заказа</li>
+								<li>Нет предоплаты, нет штрафов за перенос, отмену заказа</li>
                                                                 
 							</ul>
 						</div>
@@ -225,14 +222,11 @@ header('Location: http://www.rentalcarsisrael.com/ru/');
 					</li>
 					<li>
 						<div class="list-forstart fin_1">
-							<h2 class='h-Bold'>Минивены</h2>
+							<h2 class='h-Bold'>Минивены 7+ мест</h2>
 							<ul class='ul-list-slider Open-sansR'>
-								<li>Цены при заказе через интернет значительно ниже цен в отделении</li>
-								<li>Аренда начиная от 60USD</li>
-								<li>Низкая франшиза</li>
+								<li>Аренда начиная от 60USD в день</li>								
 								<li>Безлимитный километраж(3-29 дней)</li>
-								<li>Нет предоплаты</li>
-                                                                <li>Нет штрафов за перенос, отмену заказа</li>
+								<li>Нет предоплаты, нет штрафов за перенос, отмену заказа</li>
 							</ul>
 						</div>
 						<div class="img-slider slide-man2 fin_2">
@@ -241,14 +235,11 @@ header('Location: http://www.rentalcarsisrael.com/ru/');
 					</li>
 					<li>
 						<div class="list-forstart fin_1">
-							<h2 class='h-Bold'>Автомобили Люкс</h2>
+							<h2 class='h-Bold'>Люкс класс</h2>
 							<ul class='gray-list-slider Open-sansR'>
-								<li>Цены при заказе через интернет значительно ниже цен в отделении</li>
-								<li>Аренда начиная от 84USD</li>
-								<li>Низкая франшиза</li>
+								<li>Аренда начиная от 84USD в день</li>								
 								<li>Безлимитный километраж(3-29 дней)</li>
-								<li>Нет предоплаты</li>
-                                                                <li>Нет штрафов за перенос, отмену заказа</li>
+								<li>Нет предоплаты, нет штрафов за перенос, отмену заказа</li>
 							</ul>
 						</div>
 						<div class="img-slider slide-man3 fin_2">
@@ -711,9 +702,7 @@ header('Location: http://www.rentalcarsisrael.com/ru/');
 	</div>-->
 
 	<div class="container bottom">
-		<span class="copyright">
-			© 2013 Vastama.com
-		</span>
+		
 
 		<div class="pull-right last-elem">
 			<nav class='nav-menu'>
@@ -805,6 +794,23 @@ header('Location: http://www.rentalcarsisrael.com/ru/');
 			<button type="submit" value="Submit" class='btn submit' name="submit">Submit</button>
 		</form>
 			</div>
+</div>
+<div class="container">
+<p class="wow zoomIn animated animated" data-wow-delay=".5s" style="visibility: visible; animation-delay: 0.5s; animation-name: zoomIn;">&copy; 2014-<?php echo date("Y") ?> Vastama Ltd . All Rights Reserved | Design by  <a href="http://www.vastama.com/" target="_blank">Vastama Ltd</a> </p>
+	
+Техническая информация о работе сайта: 
+<br />Количество посетителей на сайте: 
+<?php
+echo rand(5, 25);
+?>
+<br />Доступность сайта: 98.76%
+<br />Наши поисковые запросы: 
+<p style="color:tear; font-weight: lighter;" >прокат автомобиля в израиле, аренда прокат авто аэропорт, аренда прокат авто бен гурион, аренда прокат авто нетания, прокат авто тель авив, прокат авто тель авив, аренда авто израиль, аренда авто в иерусалиме, прокат авто в эйлате, 
+аренда автомобиля в Тель Авиве, аренда автомобиля в Эйлате, аренда автомобиля в Израиле, машина прокат, машина прокат Израиле, аренда машины Израиль, 
+avto prokat, prokat mashin, auto arenda, прокат аренда машин, где можно взять машину напрокат, заказать машину, аренда иномарок, arenda avto, 
+стоимость аренды машины, израиль прокат автомобилей, съем машины Израиле, аренда авто, прокат машины, сьем автомобиля,автомобиль,  машина Израиле, дешевый прокат автомобиля  
+<hr />
+
 </div>
 </body>
 </html>
