@@ -218,7 +218,7 @@ header('Location: http://www.rentalcarsisrael.com/ru/');
 							</ul>
 						</div>
 						<div class="img-slider slide-man1 fin_2">
-							<img src="slider_man1.png" alt="alt text...">
+							<img src="slider_man1.png" alt="Бюджетные автомобили начиная от 10USD в день">
 						</div>
 					</li>
 					<li>
@@ -231,7 +231,7 @@ header('Location: http://www.rentalcarsisrael.com/ru/');
 							</ul>
 						</div>
 						<div class="img-slider slide-man2 fin_2">
-							<img src="slider_man2.png" alt="alt text...">
+							<img src="slider_man2.png" alt="Минивены 7+ мест начиная от 35USD в день">
 						</div>
 					</li>
 					<li>
@@ -244,7 +244,7 @@ header('Location: http://www.rentalcarsisrael.com/ru/');
 							</ul>
 						</div>
 						<div class="img-slider slide-man3 fin_2">
-							<img src="slider_man3.png" alt="alt text...">
+							<img src="slider_man3.png" alt="Люкс класс начиная от 65USD в день">
 						</div>
 					</li>
 				</ul>
