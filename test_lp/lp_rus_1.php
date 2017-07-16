@@ -307,12 +307,16 @@ header('Location: http://www.rentalcarsisrael.com/ru/');
 							<option value="Category O" >O - Ford Edge(автомат) или похожая - от 174$</option>
                                                         </select>
 						</div>-->
+
 						 <button type="submit" value="Register Now" class='btn submit' name="submit"><i class="icon-success"></i>Запросить бронирование</button>
 					</form>
 									</div>
 			</div>
-                    <h4>Индивидуальные экскурсии по Иерусалиму за 250$</h4>
-                    <h4>Закажи Suzuki Alto(кат. В) и получи Kia_Picanto или подобную(кат.С)</h4>
+                    <h4 class="text-center">Арендуете машину? Хотите путешествовать по  Израилю с профессиональным гидом? тогда наша акция для Вас </h4>
+                        <h2 style="color:red; font-weight: bolder ;" class="text-center">Индивидуальные экскурсии по Израилю от лучших гидов за 250$</h2>
+                    
+                    
+                    
 <!--		
                 </div>
             
