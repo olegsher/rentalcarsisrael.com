@@ -210,9 +210,9 @@ header('Location: http://www.rentalcarsisrael.com/ru/');
 						<div class="list-forstart fin_1">
 							<h2 class='h-Bold'>Недорогие автомобили</h2>
 							<ul class='ul-list-slider Open-sansR'>
-                                                                <li>Цены при заказе через интернет значительно ниже цен заказа в отделении</li>
+                                                                <li>Цены при заказе через интернет значительно ниже цен в отделении</li>
 								<li>Аренда начиная от 10USD</li>
-								<li>Низкая франиза</li>
+								<li>Низкая франшиза</li>
 								<li>Безлимитный километраж(3-29 дней)</li>
 								<li>Нет предоплаты</li>
                                                                 <li>Нет штрафов за перенос, отмену заказа</li>
@@ -227,9 +227,9 @@ header('Location: http://www.rentalcarsisrael.com/ru/');
 						<div class="list-forstart fin_1">
 							<h2 class='h-Bold'>Минивены</h2>
 							<ul class='ul-list-slider Open-sansR'>
-								<li>Цены при заказе через интернет значительно ниже цен заказа в отделении</li>
+								<li>Цены при заказе через интернет значительно ниже цен в отделении</li>
 								<li>Аренда начиная от 60USD</li>
-								<li>Низкая франиза</li>
+								<li>Низкая франшиза</li>
 								<li>Безлимитный километраж(3-29 дней)</li>
 								<li>Нет предоплаты</li>
                                                                 <li>Нет штрафов за перенос, отмену заказа</li>
@@ -243,9 +243,9 @@ header('Location: http://www.rentalcarsisrael.com/ru/');
 						<div class="list-forstart fin_1">
 							<h2 class='h-Bold'>Автомобили Люкс</h2>
 							<ul class='gray-list-slider Open-sansR'>
-								<li>Цены при заказе через интернет значительно ниже цен заказа в отделении</li>
+								<li>Цены при заказе через интернет значительно ниже цен в отделении</li>
 								<li>Аренда начиная от 84USD</li>
-								<li>Низкая франиза</li>
+								<li>Низкая франшиза</li>
 								<li>Безлимитный километраж(3-29 дней)</li>
 								<li>Нет предоплаты</li>
                                                                 <li>Нет штрафов за перенос, отмену заказа</li>
@@ -277,19 +277,19 @@ header('Location: http://www.rentalcarsisrael.com/ru/');
 			<div class="container relative fin_3 non-come" id='elem-portable'>
 				<div class="reg-now">
 					<h2 class='medium-h text-center'>Бронирование автомобиля</h2>
-					<h3 class='xsmall-h text-center'>Заполните форму и получите ваучер на почту </h3>
+					<h3 class='xsmall-h text-center'>Заполните форму и наш сотрудник с вами свяжется </h3>
 										<form class='reg-now-visible' id='formIndex' method=post >
-						<div class='control-group'>
-							<input type="text" name="input_name[0]" placeholder='Enter your name' value="" data-required>
+						<div class="form-control">
+							<input type="text" class="form-control" name="input_name[0]" placeholder='Enter your name' value="" data-required>
 						</div>
+<!--						<div class='control-group'>
+							<input type="text" class="form-control" name="input_name[1]" placeholder='Enter your mail' value="" data-required data-pattern="^[-a-z0-9!#$%&'*+/=?^_`{|}~]+(\.[-a-z0-9!#$%&'*+/=?^_`{|}~]+)*@([a-z0-9]([-a-z0-9]{0,61}[a-z0-9])?\.)*(aero|arpa|asia|biz|cat|com|coop|edu|gov|info|int|jobs|mil|mobi|museum|name|net|org|pro|tel|travel|[a-z][a-z])$">
+						</div>-->
 						<div class='control-group'>
-							<input type="text" name="input_name[1]" placeholder='Enter your mail' value="" data-required data-pattern="^[-a-z0-9!#$%&'*+/=?^_`{|}~]+(\.[-a-z0-9!#$%&'*+/=?^_`{|}~]+)*@([a-z0-9]([-a-z0-9]{0,61}[a-z0-9])?\.)*(aero|arpa|asia|biz|cat|com|coop|edu|gov|info|int|jobs|mil|mobi|museum|name|net|org|pro|tel|travel|[a-z][a-z])$">
-						</div>
-						<div class='control-group'>
-							<input type="text" name="input_name[2]" placeholder='Enter your telephone' value="" data-required data-pattern="^[0-9]+$">
+							<input type="text" class="form-control" name="input_name[2]" placeholder='Enter your telephone' value="" data-required data-pattern="^[0-9]+$">
 						</div>
 
-						<div class="filter">
+<!--						<div class="form-control">
 							<select name="input_name[3]">
 							<option value="" >Категории автомобилей</option>							
 							<option value="Category Q" >Q - Fiat 500(два места) или похожая - от 24$</option>
@@ -316,7 +316,7 @@ header('Location: http://www.rentalcarsisrael.com/ru/');
 							<option value="Category W" >W - Audi A6(автомат) или похожая - от 155$</option>
 							<option value="Category O" >O - Ford Edge(автомат) или похожая - от 174$</option>
                                                         </select>
-						</div>
+						</div>-->
 						 <button type="submit" value="Register Now" class='btn submit' name="submit"><i class="icon-success"></i>Запросить бронирование</button>
 					</form>
 									</div>
