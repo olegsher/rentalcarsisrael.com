@@ -58,8 +58,8 @@ header('Location: http://www.rentalcarsisrael.com/ru/');
 <head>
 	<meta charset="utf-8">
 	<meta content="width=device-width, initial-scale=1.0" name="viewport">
-	<title>Vastama</title>
-	<title>Аренда прокат Hyundai i10 в Израиле | rentalcarsisrael.com</title>
+	
+	<title>Аренда прокат автомобилей в Израиле | rentalcarsisrael.com</title>
         <meta name="keywords" content="машина прокат, машина прокат Израиле, аренда машины Израиль, avto prokat, prokat mashin, auto arenda, прокат аренда машин, где можно взять машину напрокат, заказать машину, аренда иномарок, 
       arenda avto, стоимость аренды машины, израиль прокат автомобилей, съем машины Израиле, аренда авто, прокат машины, 
       сьем автомобиля,автомобиль,  машина Израиле, дешевый прокат автомобиля" />
@@ -325,7 +325,7 @@ header('Location: http://www.rentalcarsisrael.com/ru/');
 		<div class="div-shadow offsetY-7"></div>
 
 	<div class="container non-come">
-<!--		<h4 class='division-h pull-left sem-h'>Индивидуальные экскурсии по Иерусалиму за 250$</h4>-->
+		<h4 class='division-h pull-left sem-h'>Индивидуальные экскурсии по Иерусалиму за 250$</h4>-->
                 
 <!--		<ul class='offset3 unstyled seminars'>
 			<li>
@@ -350,8 +350,8 @@ header('Location: http://www.rentalcarsisrael.com/ru/');
 				</div>
 			</li>
 		</ul>-->
-            <div class="clearfix"></div>
-<!--                <h4 class='division-h pull-left sem-h'>Закажи Suzuki Alto(кат. В) и получи Kia_Picanto или подобную(кат.С)</h4>-->
+<!--            <div class="clearfix"></div>-->
+<!--                <h4 class='division-h pull-left sem-h'>Закажи Suzuki Alto(кат. В) и получи Kia_Picanto или подобную(кат.С)</h4> -->
 <!--		<ul class='offset3 unstyled seminars'>
 			<li>
 				<i class="ico1"></i>
@@ -678,6 +678,7 @@ header('Location: http://www.rentalcarsisrael.com/ru/');
 <!--	<div class="container">
 		<a href="#" data-scroll="form_slider" class='btn submit a-trig'><i class="icon-success"></i>Register Now</a>
 	</div>-->
+</div>
 </section>
 
 <!--===========================-->
@@ -707,12 +708,12 @@ header('Location: http://www.rentalcarsisrael.com/ru/');
 		</div>
 	</div>-->
 
-	<div class="container bottom">
+<!--	<div class="container bottom">
 		
 
 		<div class="pull-right last-elem">
 			<nav class='nav-menu'>
-<!--				<ul class='unstyled'>
+				<ul class='unstyled'>
 					<li>
 						<a href="#">
 							<div class="inside">
@@ -737,10 +738,10 @@ header('Location: http://www.rentalcarsisrael.com/ru/');
 						</div>
 						</a>
 					</li>
-				</ul>-->
+				</ul>
 			</nav>
 
-<!--			<ul class='social-transform unstyled'>
+			<ul class='social-transform unstyled'>
 				<li>
 					<div class='social-link'>
 						<a href='#' target='blank' class='front facebook'></a>
@@ -765,21 +766,21 @@ header('Location: http://www.rentalcarsisrael.com/ru/');
 						<a href='#' target='blank' class='back vk'></a>
 					</div>
 				</li>
-			</ul>-->
+			</ul>
 		</div>
-	</div>
+	</div>-->
 
-	<div id="back-top-wrapper" class="visible-desktop">
+<!--	<div id="back-top-wrapper" class="visible-desktop">
 		<p id="back-top">
 			<a href="#top">
 				<span></span>
 			</a>
 		</p>
-	</div>
+	</div>-->
 </footer>
 	<!-- Modal -->
 
-	<div id="myModal" class="modal hide fade " tabindex="-1" role="dialog" aria-hidden="true">
+<!--	<div id="myModal" class="modal hide fade " tabindex="-1" role="dialog" aria-hidden="true">
 		<button type="button" class="close" data-dismiss="modal" aria-hidden="true"></button>
 				<form method=post>
 			<div class='control-group'>
@@ -799,7 +800,7 @@ header('Location: http://www.rentalcarsisrael.com/ru/');
 			</div>
 			<button type="submit" value="Submit" class='btn submit' name="submit">Submit</button>
 		</form>
-			</div>
+			</div>-->
 </div>
 <div class="container">
 <p class="wow zoomIn animated animated" data-wow-delay=".5s" style="visibility: visible; animation-delay: 0.5s; animation-name: zoomIn;">&copy; 2014-<?php echo date("Y") ?> Vastama Ltd . All Rights Reserved | Design by  <a href="http://www.vastama.com/" target="_blank">Vastama Ltd</a> </p>
