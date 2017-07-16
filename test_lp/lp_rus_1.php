@@ -82,15 +82,15 @@ header('Location: http://www.rentalcarsisrael.com/ru/');
 	<link rel="stylesheet" href="main.css" media="all">
 	<link rel="stylesheet" href="responsive.css" media="all">
 
-	<script src="jquery-1.10.1.min.js"></script>
-	<script src="bootstrap.min.js"></script>
-	<script src="modernizr.js"></script>
-	<script src="jquery.bxslider.min.js"></script>
-	<script src="jquery.selectbox.js"></script>
-	<script src="jquery.validate.min.js"></script>
-	<script src="jquery.colorbox-min.js"></script>
-	<script src="jquery.BlackAndWhite.js"></script>
-	<script src="jquery.nivo.slider.pack.js"></script>
+	<script src="jquery-1.10.1.min.js" ></script>
+	<script src="bootstrap.min.js" ></script>
+	<script src="modernizr.js" defer></script>
+	<script src="jquery.bxslider.min.js" defer></script>
+	<script src="jquery.selectbox.js" defer></script>
+	<script src="jquery.validate.min.js" defer></script>
+	<script src="jquery.colorbox-min.js" defer></script>
+	<script src="jquery.BlackAndWhite.js" defer></script>
+	<script src="jquery.nivo.slider.pack.js" defer></script>
 	<script src="custom.js"></script>
 	<!-- file loader -->
 	<script src="loader.js"></script>
