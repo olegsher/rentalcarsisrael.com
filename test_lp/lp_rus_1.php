@@ -508,7 +508,7 @@ header('Location: http://www.rentalcarsisrael.com/ru/');
 	</div>-->
 
 	<div class="container">
-		<h2 class='text-center xxh-Bold'>Специальные акции для вас</h2>
+		<h2 class='text-center xxh-Bold'>Специальные акции</h2>
 		<h3 class='text-center xmedium-h'>до 30 августа 2017</h3>
 
 		<div class='auto-x'>
