@@ -63,18 +63,16 @@ header('Location: http://www.rentalcarsisrael.com/ru/');
         <meta name="keywords" content="машина прокат, машина прокат Израиле, аренда машины Израиль, avto prokat, prokat mashin, auto arenda, прокат аренда машин, где можно взять машину напрокат, заказать машину, аренда иномарок, 
       arenda avto, стоимость аренды машины, израиль прокат автомобилей, съем машины Израиле, аренда авто, прокат машины, 
       сьем автомобиля,автомобиль,  машина Израиле, дешевый прокат автомобиля" />
-        <meta  name="description"  content="Аренда прокат в Израиле Hyundai_i10, Kia_Picanto, Peugeot_107, Skoda_Citigo, Toyota_Aygo и другие 
-              автоматическая коробка передач начиная с 25$" />
+        <meta  name="description"  content="Аренда прокат автомобиля в Израиле начиная с 10$" />
         <meta property="fb:app_id" content="1322511981092474" />
         <meta property="og:type" content="website" />
         <meta property="og:locale" content="ru_RU" />       
-        <meta property="og:url" content="http://www.rentalcarsisrael.com/ru/catC_Hyundai_i10_4seats_automatic.php" />
+        <meta property="og:url" content="http://www.rentalcarsisrael.com/test_lp/lp_rus_1.php" />
         <meta property="og:image" content="http://www.rentalcarsisrael.com/images/car_key_vastama.jpeg"/><meta property="og:image:type" content="image/png" />
         <meta property="og:image:width" content="640" />
         <meta property="og:image:height" content="320" />
-        <meta property="og:title" content="Аренда прокат в Израиле Hyundai_i10, Kia_Picanto, Peugeot_107, Skoda_Citigo, Toyota_Aygo и другие 
-              автомат, начиная с 25$. Бронируйте +972-58-7710101"/>
-        <meta property="og:description" content="аренда прокат Hyundai i10 в Израиле, аренда прокат автомобиля в Израиле, эконом класс и семейные машины, микроавтобусы и минивэны 7-8-9 мест, машины Люкс класса"/>
+        <meta property="og:title" content="Аренда прокат автомобиля в Израиле начиная с 10$. Бронируйте +972-58-7710101"/>
+        <meta property="og:description" content="аренда прокат от Hyundai i10 и до BMW ן535 в Израиле, аренда прокат автомобиля в Израиле, эконом класс и семейные машины, микроавтобусы и минивэны 7-8-9 мест, машины Люкс класса"/>
   
 
 	<link type="image/x-icon" href="img/favicon.ico" rel="shortcut icon">
