@@ -17,7 +17,7 @@ if(isset($_POST['submit'])){
     
     
     $subject = $_POST['First_name'] . " " . $_POST['car-select'] . " " . "rentalcarsisrael.com";    
-            $message = '<html lang="en"><body>';
+            $message = '<html lang="ru"><body>';
             $message .= '<hr />';
             $message .= 'Rental cars Israel http://www.rentalcarsisrael.com +972-58-7710101';
             $message .= '<hr />';
@@ -54,7 +54,7 @@ header('Location: http://www.rentalcarsisrael.com/ru/');
 <!--[if IE 7 ]><body class="ie ie7"><![endif]-->
 <!--[if IE 8 ]><body class="ie ie8"><![endif]-->
 <!--[if IE 9 ]><body class="ie ie9"><![endif]-->
-<html class='no-js' lang="en">
+<html class='no-js' lang="ru">
 <head>
 	<meta charset="utf-8">
 	<meta content="width=device-width, initial-scale=1.0" name="viewport">
