@@ -209,7 +209,7 @@ header('Location: http://www.rentalcarsisrael.com/ru/');
 						<div class="list-forstart fin_1">
 							<h2 class='h-Bold'>Бюджетные автомобили</h2>
 							<ul class='ul-list-slider Open-sansR'>                                                                
-								<li>Аренда начиная от 10USD в день</li>								
+								<li>Аренда начиная от 9USD в день</li>								
 								<li>Безлимитный километраж(3-29 дней)</li>
 								<li>Нет предоплаты, нет штрафов за перенос, отмену заказа</li>
                                                                 
@@ -599,6 +599,11 @@ header('Location: http://www.rentalcarsisrael.com/ru/');
 
 		<div class="clearfix"></div>
 		<div class="spacer3"></div>
+                Все указанные на сайте и в ваучере цены не включают НДС. <br>
+Все указанные на сайте расценки на краткосрочную аренду не включают обязательные и дополнительные страховки(если не указано другое)  
+<br>Модели автомобилей представлены исключительно для примера и при выдаче компания имеет право предоставить автомобиль того же класса, но другой марки. 
+<br>Компания поставщик может изменить цены и конечной считается цена в ваучере.
+<hr/>
 	</div>
 
 <!--	<div id="aboutUs_slider" data-anchor="testimonials">
@@ -685,6 +690,7 @@ header('Location: http://www.rentalcarsisrael.com/ru/');
 <!--	<div class="container">
 		<a href="#" data-scroll="form_slider" class='btn submit a-trig'><i class="icon-success"></i>Register Now</a>
 	</div>-->
+
 </div>
 </section>
 
@@ -808,6 +814,7 @@ header('Location: http://www.rentalcarsisrael.com/ru/');
 			<button type="submit" value="Submit" class='btn submit' name="submit">Submit</button>
 		</form>
 			</div>-->
+
 </div>
 <div class="container">
 	
