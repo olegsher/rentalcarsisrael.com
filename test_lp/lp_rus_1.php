@@ -312,8 +312,8 @@ header('Location: http://www.rentalcarsisrael.com/ru/');
 					</form>
 									</div>
 			</div>
-                    <h4 class='division-h pull-left sem-h'>Индивидуальные экскурсии по Иерусалиму за 250$</h4>
-                    <h4 class='division-h pull-left sem-h'>Закажи Suzuki Alto(кат. В) и получи Kia_Picanto или подобную(кат.С)</h4>
+                    <h4>Индивидуальные экскурсии по Иерусалиму за 250$</h4>
+                    <h4>Закажи Suzuki Alto(кат. В) и получи Kia_Picanto или подобную(кат.С)</h4>
 <!--		
                 </div>
             
@@ -509,7 +509,7 @@ header('Location: http://www.rentalcarsisrael.com/ru/');
 
 	<div class="container">
 		<h2 class='text-center xxh-Bold'>Специальные акции для вас</h2>
-		<h3 class='text-center xmedium-h'>Интересные предложения</h3>
+		<h3 class='text-center xmedium-h'>до 30 августа 2017</h3>
 
 		<div class='auto-x'>
 			<div class="span3 noR-border">
