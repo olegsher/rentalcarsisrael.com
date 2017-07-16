@@ -310,10 +310,15 @@ header('Location: http://www.rentalcarsisrael.com/ru/');
 
 						 <button type="submit" value="Register Now" class='btn submit' name="submit"><i class="icon-success"></i>Запросить бронирование</button>
 					</form>
+                                        
 									</div>
 			</div>
                     <h4 class="text-center">Арендуете машину? Хотите путешествовать по  Израилю с профессиональным гидом? тогда наша акция для Вас </h4>
                         <h2 style="color:red; font-weight: bolder ;" class="text-center">Индивидуальные экскурсии по Израилю от лучших гидов за 250$</h2>
+                        <p style="color: grey; font-weight: lighter ;" class="text-center">Без посредников, согласование экскурсии и оплата напрямую гиду. 
+                            Только лицензионные гиды с огромным опытом и рекомендациями - не упустите ваш шанс</p>
+                        <p style="color:red; font-weight: bolder ;" class="text-center">Тел\WhatsApp\Viber\Telegram +972-58-771-0101</p>
+                        
                     
                     
                     
