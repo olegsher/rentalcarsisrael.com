@@ -268,7 +268,7 @@ header('Location: http://www.rentalcarsisrael.com/ru/');
 			<div class="container relative fin_3 non-come" id='elem-portable'>
 				<div class="reg-now">
 					<h2 class='medium-h text-center'>Бронирование автомобиля</h2>
-					<h3 class='xsmall-h text-center'>Заполните форму и наш сотрудник с вами свяжется </h3>
+					<h3 class='xsmall-h text-center'>Форма обратной связи</h3>
 										<form class='reg-now-visible' id='formIndex' method=post >
 						<div class="form-control">
 							<input type="text" class="form-control" name="input_name[0]" placeholder='Enter your name' value="" data-required>
@@ -526,7 +526,7 @@ header('Location: http://www.rentalcarsisrael.com/ru/');
 							<td>Оплата по возвращению машины</td>
 						</tr>
 						<tr class='lastTr'>
-							<td><a class='btn buy-now' href='#'>Buy Now</a></td>
+							<td><a class='btn buy-now' href='#'>Заполнить форму</a></td>
 						</tr>
 					</tbody>
 				</table>
@@ -551,7 +551,7 @@ header('Location: http://www.rentalcarsisrael.com/ru/');
 							<td>Оплата по возвращению машины</td>
 						</tr>
 						<tr class='lastTr'>
-							<td><a class='btn buy-now offsetY-5' href='#'>Buy Now</a></td>
+							<td><a class='btn buy-now offsetY-5' href='#'>Заполнить форму</a></td>
 						</tr>
 					</tbody>
 				</table>
@@ -577,7 +577,7 @@ header('Location: http://www.rentalcarsisrael.com/ru/');
 							<td>Оплата по возвращению машины</td>
 						</tr>
 						<tr class='lastTr'>
-							<td><a class='btn buy-now offsetY-6' href='#'>Buy Now</a></td>
+							<td><a class='btn buy-now offsetY-6' href='#'>Заполнить форму</a></td>
 						</tr>
 					</tbody>
 				</table>
