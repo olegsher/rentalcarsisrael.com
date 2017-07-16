@@ -97,9 +97,10 @@ header('Location: http://www.rentalcarsisrael.com/ru/');
 
 
 
-
+<link rel="shortcut icon" href="../favicon.ico">
 </head>
 <body>
+    <?php include("../seo_stat"); ?>
 <!--===========================-->
 <!--==========Header===========-->
 <div class="main-holder">
