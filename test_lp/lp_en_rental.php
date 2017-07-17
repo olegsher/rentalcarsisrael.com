@@ -262,11 +262,11 @@ header('Location: http://www.rentalcarsisrael.com');
 
 		<div class='auto-x'>
 			<div class="span3 noR-border">
-				<table class='table package-services not-favorable'>
+				<table class='table package-services not-favorable table-responsive'>
 					<caption class='noR-border'>Suzuki Alto(30 days)</caption>
 					 <thead>
-						<tr>
-							<td><b>$610</b>.00</td>
+						<tr class="bg-primary">
+							<td style="background-color: #427121 !important;"><b>$610</b>.00</td>
 						</tr>
 					 </thead>
 					<tbody>
@@ -291,11 +291,11 @@ header('Location: http://www.rentalcarsisrael.com');
 			</div>
 
 			<div class="span3 profitable">
-				<table class='table package-services'>
+				<table class='table package-services table-responsive'>
 					<caption>SUV cars(one day)</caption>
 					 <thead>
 						<tr>
-							<td><b>$42</b>.00</td>
+							<td style="background-color: #fd6103 !important;"><b>$42</b>.00</td>
 						</tr>
 					 </thead>
 					<tbody>
@@ -320,11 +320,11 @@ header('Location: http://www.rentalcarsisrael.com');
 			</div>
 
 			<div class='span3 noL-border'>
-				<table class='table package-services not-favorable'>
+				<table class='table package-services not-favorable table-responsive'>
 					<caption class='noL-border'>MiniVan 9 seats, aut(one day)</caption>
 					 <thead>
 						<tr>
-							<td><b>$95</b>.00</td>
+							<td style="background-color: #c0272d !important;"><b>$95</b>.00</td>
 						</tr>
 					 </thead>
 					<tbody>
