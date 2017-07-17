@@ -17,7 +17,7 @@ if(isset($_POST['submit'])){
     
     
     $subject = $_POST['First_name'] . " " . $_POST['car-select'] . " " . "rentalcarsisrael.com";    
-            $message = '<html lang="ru"><body>';
+            $message = '<html lang="en"><body>';
             $message .= '<hr />';
             $message .= 'Rental cars Israel http://www.rentalcarsisrael.com +972-58-7710101';
             $message .= '<hr />';
@@ -42,7 +42,7 @@ $message .= "</body></html>";
     $headers2 .= "Content-Type: text/html; charset=utf-8\r\n";
     
    mail($from,$subject2,$message,$headers2); // sends a copy of the message to the sender  
-header('Location: http://www.rentalcarsisrael.com/ru/');
+header('Location: http://www.rentalcarsisrael.com');
     }
 ?>
 
@@ -170,7 +170,7 @@ header('Location: http://www.rentalcarsisrael.com/ru/');
 							</ul>
 						</div>
 						<div class="img-slider slide-man1 fin_2">
-							<img src="slider_man1.png" alt="Бюджетные автомобили начиная от 10USD в день">
+							<img src="slider_man1.png" class="img-responsive" alt="Бюджетные автомобили начиная от 10USD в день">
 						</div>
 					</li>
 					<li>
@@ -183,7 +183,7 @@ header('Location: http://www.rentalcarsisrael.com/ru/');
 							</ul>
 						</div>
 						<div class="img-slider slide-man2 fin_2">
-							<img src="slider_man2.png" alt="Минивены 7+ мест начиная от 35USD в день">
+							<img src="slider_man2.png" class="img-responsive" alt="Минивены 7+ мест начиная от 35USD в день">
 						</div>
 					</li>
 					<li>
@@ -196,7 +196,7 @@ header('Location: http://www.rentalcarsisrael.com/ru/');
 							</ul>
 						</div>
 						<div class="img-slider slide-man3 fin_2">
-							<img src="slider_man3.png" alt="Люкс класс начиная от 65USD в день">
+							<img src="slider_man3.png" class="img-responsive" alt="Люкс класс начиная от 65USD в день">
 						</div>
 					</li>
 				</ul>
@@ -281,7 +281,7 @@ header('Location: http://www.rentalcarsisrael.com/ru/');
 							<td>Оплата по возвращению машины</td>
 						</tr>-->
                                                 <tr>
-							<td><img src="24.png" alt=""/></td>
+							<td><img src="24.png" class="img-responsive" alt=""/></td>
                                         
 						</tr>
 <!--						<tr class='lastTr'>
@@ -310,7 +310,7 @@ header('Location: http://www.rentalcarsisrael.com/ru/');
 							<td>Оплата по возвращению машины</td>
 						</tr>-->
                                                 <tr>
-							<td><img src="37.png" alt=""/></td>
+							<td><img src="37.png" class="img-responsive" alt=""/></td>
                                         
 						</tr>
 <!--						<tr class='lastTr'>
@@ -340,7 +340,7 @@ header('Location: http://www.rentalcarsisrael.com/ru/');
 							<td>Оплата по возвращению машины</td>
 						</tr>-->
                                                 <tr>
-							<td><img src="40.png" alt=""/></td>
+							<td><img src="40.png" class="img-responsive" alt=""/></td>
                                         
 						</tr>
 <!--						<tr class='lastTr'>
