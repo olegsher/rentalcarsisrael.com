@@ -137,7 +137,7 @@ header('Location: http://www.rentalcarsisrael.com');
 
 	<div class="container end-header">
 		<div class="logo pull-left">
-			<a href="http://www.rentalcarsisrael.com/ru/" class='pull-left'>
+			<a href="http://www.rentalcarsisrael.com" class='pull-left'>
 				<img src="logo.png" alt="Vastama" title="Vastama">
 			</a>
 			<h1 class="description-logo">
