@@ -165,7 +165,7 @@ header('Location: http://www.rentalcarsisrael.com/ru/');
 							<ul class='ul-list-slider Open-sansR'>                                                                
 								<li>Rent from 9USD/day</li>								
 								<li>Unlimited miles(3-29 days)</li>
-								<li>Нет предоплаты, нет штрафов за перенос, отмену заказа</li>
+								<li>No credit card fees, No amendment fees</li>
                                                                 
 							</ul>
 						</div>
@@ -192,7 +192,7 @@ header('Location: http://www.rentalcarsisrael.com/ru/');
 							<ul class='gray-list-slider Open-sansR'>
 								<li>Rent from 65USD/day</li>								
 								<li>Unlimited miles(3-29 days)</li>
-								<li>Нет предоплаты, нет штрафов за перенос, отмену заказа</li>
+								<li>No credit card fees, No amendment fees</li>
 							</ul>
 						</div>
 						<div class="img-slider slide-man3 fin_2">
@@ -220,22 +220,22 @@ header('Location: http://www.rentalcarsisrael.com/ru/');
 		<div class="container">
 			<div class="container relative fin_3 non-come" id='elem-portable'>
 				<div class="reg-now">
-					<h2 class='medium-h text-center'>Бронирование автомобиля</h2>
-					<h3 class='xsmall-h text-center'>Форма обратной связи</h3>
+					<h2 class='medium-h text-center'>Contact Us</h2>
+<!--					<h3 class='xsmall-h text-center'>Форма обратной связи</h3>-->
 										<form class='reg-now-visible' id='formIndex' method=post >
 						<div class="form-control">
-							<input type="text" class="form-control" name="First_name" placeholder='Ваше имя' value="" data-required>
+							<input type="text" class="form-control" name="First_name" placeholder='Name' value="" data-required>
 						</div>
 <!--						<div class='control-group'>
 							<input type="text" class="form-control" name="input_name[1]" placeholder='Enter your mail' value="" data-required data-pattern="^[-a-z0-9!#$%&'*+/=?^_`{|}~]+(\.[-a-z0-9!#$%&'*+/=?^_`{|}~]+)*@([a-z0-9]([-a-z0-9]{0,61}[a-z0-9])?\.)*(aero|arpa|asia|biz|cat|com|coop|edu|gov|info|int|jobs|mil|mobi|museum|name|net|org|pro|tel|travel|[a-z][a-z])$">
 						</div>-->
 						<div class='control-group'>
-							<input type="text" class="form-control" name="phone" placeholder='Тел\WhatsApp\Viber\Telegram' value="" data-required data-pattern="^[0-9]+$">
+							<input type="text" class="form-control" name="phone" placeholder='Phone\WhatsApp\Viber' value="" data-required data-pattern="^[0-9]+$">
 						</div>
 
 
 
-						 <button type="submit" value="Register Now" class='btn submit' name="submit"><i class="icon-success"></i>Запросить бронирование</button>
+						 <button type="submit" value="Register Now" class='btn submit' name="submit"><i class="icon-success"></i>Send</button>
 					</form>
                                         
 									</div>
