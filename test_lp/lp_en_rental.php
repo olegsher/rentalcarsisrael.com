@@ -219,7 +219,7 @@ header('Location: http://www.rentalcarsisrael.com');
 		<div class="container">
 			<div class="container relative fin_3 non-come" id='elem-portable'>
 				<div class="reg-now">
-					<h2 class='medium-h text-center'>Contact Us</h2>
+					<h2 class='medium-h text-center'>Ask for our best prices</h2>
 <!--					<h3 class='xsmall-h text-center'>Форма обратной связи</h3>-->
 										<form class='reg-now-visible' id='formIndex' method=post >
 						<div class="form-control">
