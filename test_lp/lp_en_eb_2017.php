@@ -160,7 +160,7 @@ header('Location: http://www.rentalcarsisrael.com');
 				<ul class="form-bxslider unstyled">
 					<li>
 						<div class="list-forstart fin_1">
-							<h2 style="color:red; font-weight: bolder ;" class="text-center"><abbr title="Suzuki Alto 10$">Suzuki Alto $10/day</abbr></h2>
+							<h2 style="color:red; font-weight: bolder ;" class="text-center"><abbr title="Suzuki Alto 10$">Suzuki Alto - Early birds promo - <br>more than 30% off</abbr></h2>
 							<ul class='ul-list-slider Open-sansR'>                                                                
 								<li>Booking Period: July 18th 2017 – Jul 26th 2017</li>								
 								<li>Pickup Period: July 18th – Aug 26th 2017</li>
@@ -176,7 +176,7 @@ header('Location: http://www.rentalcarsisrael.com');
 					</li>
 					<li>
 						<div class="list-forstart fin_1">
-							<h2 style="color:red; font-weight: bolder ;" class="text-center"><abbr title="Mazda 3 18$">Mazda 3 $18/day</abbr></h2>
+							<h2 style="color:red; font-weight: bolder ;" class="text-center"><abbr title="Mazda 3 18$">Mazda 3  - Early birds promo - <br>more than 30% off</abbr></h2>
 							<ul class='ul-list-slider Open-sansR'>                                                                
 								<li>Booking Period: July 18th 2017 – Jul 26th 2017</li>								
 								<li>Pickup Period: July 18th – Aug 26th 2017</li>
@@ -191,7 +191,7 @@ header('Location: http://www.rentalcarsisrael.com');
 					</li>
 					<li>
 						<div class="list-forstart fin_1">
-							<h2 style="color:red; font-weight: bolder ;" class="text-center"><abbr title="Mazda 6 31$">Mazda 6 $31/day</abbr></h2>
+							<h2 style="color:red; font-weight: bolder ;" class="text-center"><abbr title="Mazda 6 31$">Mazda 6  - Early birds promo - <br>more than 30% off</abbr></h2>
 							<ul class='ul-list-slider Open-sansR'>                                                                
 								<li>Booking Period: July 18th 2017 – Jul 26th 2017</li>								
 								<li>Pickup Period: July 18th – Aug 26th 2017</li>
