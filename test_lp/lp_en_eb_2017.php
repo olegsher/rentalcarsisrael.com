@@ -160,7 +160,7 @@ header('Location: http://www.rentalcarsisrael.com');
 				<ul class="form-bxslider unstyled">
 					<li>
 						<div class="list-forstart fin_1">
-							<h2 ><abbr title="Suzuki Alto 10$">8 days only - Suzuki Alto $10/day</abbr>(regular price $25.4/day)</h2>
+							<h2 style="color:red; font-weight: bolder ;" class="text-center"><abbr title="Suzuki Alto 10$">8 days only - Suzuki Alto $10/day</abbr>(regular price $25.4/day)</h2>
 							<ul class='ul-list-slider Open-sansR'>                                                                
 								<li>Booking Period: July 18th 2017 – Jul 26th 2017</li>								
 								<li>Pickup Period: July 18th – Aug 26th 2017</li>
@@ -174,7 +174,7 @@ header('Location: http://www.rentalcarsisrael.com');
 					</li>
 					<li>
 						<div class="list-forstart fin_1">
-							<h2 ><abbr title="Mazda 3 18$">8 days only - Mazda 3 $18/day</abbr>(regular price $36.95/day)</h2>
+							<h2 style="color:red; font-weight: bolder ;" class="text-center"><abbr title="Mazda 3 18$">8 days only - Mazda 3 $18/day</abbr>(regular price $36.95/day)</h2>
 							<ul class='ul-list-slider Open-sansR'>                                                                
 								<li>Booking Period: July 18th 2017 – Jul 26th 2017</li>								
 								<li>Pickup Period: July 18th – Aug 26th 2017</li>
@@ -188,7 +188,7 @@ header('Location: http://www.rentalcarsisrael.com');
 					</li>
 					<li>
 						<div class="list-forstart fin_1">
-							<h2 ><abbr title="Mazda 6 31$">8 days only - Mazda 6 $31/day</abbr>(regular price $53.6/day)</h2>
+							<h2 style="color:red; font-weight: bolder ;" class="text-center"><abbr title="Mazda 6 31$">8 days only - Mazda 6 $31/day</abbr>(regular price $53.6/day)</h2>
 							<ul class='ul-list-slider Open-sansR'>                                                                
 								<li>Booking Period: July 18th 2017 – Jul 26th 2017</li>								
 								<li>Pickup Period: July 18th – Aug 26th 2017</li>
