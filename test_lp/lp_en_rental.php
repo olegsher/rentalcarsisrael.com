@@ -280,7 +280,7 @@ header('Location: http://www.rentalcarsisrael.com');
 							<td>Оплата по возвращению машины</td>
 						</tr>-->
                                                 <tr>
-							<td><img src="24.png" class="img-responsive" alt=""/></td>
+<!--							<td><img src="24.png" class="img-responsive" alt=""/></td>-->
                                         
 						</tr>
 <!--						<tr class='lastTr'>
@@ -309,7 +309,7 @@ header('Location: http://www.rentalcarsisrael.com');
 							<td>Оплата по возвращению машины</td>
 						</tr>-->
                                                 <tr>
-							<td><img src="37.png" class="img-responsive" alt=""/></td>
+<!--							<td><img src="37.png" class="img-responsive" alt=""/></td>-->
                                         
 						</tr>
 <!--						<tr class='lastTr'>
@@ -339,7 +339,7 @@ header('Location: http://www.rentalcarsisrael.com');
 							<td>Оплата по возвращению машины</td>
 						</tr>-->
                                                 <tr>
-							<td><img src="40.png" class="img-responsive" alt=""/></td>
+<!--							<td><img src="40.png" class="img-responsive" alt=""/></td>-->
                                         
 						</tr>
 <!--						<tr class='lastTr'>
