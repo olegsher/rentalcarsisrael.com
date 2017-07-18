@@ -165,6 +165,8 @@ header('Location: http://www.rentalcarsisrael.com');
 								<li>Booking Period: July 18th 2017 – Jul 26th 2017</li>								
 								<li>Pickup Period: July 18th – Aug 26th 2017</li>
 								<li>Minimum rental days required: 3 days with a maximum of 29 days per rental</li>
+                                                                <li>Unlimited miles(3-29 days)</li>
+								<li>No credit card fees, No amendment fees</li>
                                                                 
 							</ul>
 						</div>
@@ -179,7 +181,8 @@ header('Location: http://www.rentalcarsisrael.com');
 								<li>Booking Period: July 18th 2017 – Jul 26th 2017</li>								
 								<li>Pickup Period: July 18th – Aug 26th 2017</li>
 								<li>Minimum rental days required: 3 days with a maximum of 29 days per rental</li>
-                                                                
+                                                                <li>Unlimited miles(3-29 days)</li>
+								<li>No credit card fees, No amendment fees</li>
 							</ul>
 						</div>
 						<div class="img-slider slide-man2 fin_2">
@@ -193,7 +196,8 @@ header('Location: http://www.rentalcarsisrael.com');
 								<li>Booking Period: July 18th 2017 – Jul 26th 2017</li>								
 								<li>Pickup Period: July 18th – Aug 26th 2017</li>
 								<li>Minimum rental days required: 3 days with a maximum of 29 days per rental</li>
-                                                                
+                                                                <li>Unlimited miles(3-29 days)</li>
+								<li>No credit card fees, No amendment fees</li>
 							</ul>
 						</div>
 						<div class="img-slider slide-man3 fin_2">
