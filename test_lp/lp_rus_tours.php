@@ -241,12 +241,12 @@ header('Location: http://www.rentalcarsisrael.com/ru/');
 									</div>
 			</div>
                     
-                        <h2 style="color:red; font-weight: bolder ;" class="text-center">Индивидуальные экскурсии по Израилю от лучших гидов за 250$</h2>
+                        <h2 style="color:red; font-weight: lighter ;" class="text-center">Индивидуальные экскурсии по Израилю от лучших гидов за 250$</h2>
                         <p style="color: grey; font-weight: lighter ;" class="text-center">Без посредников, согласование экскурсии и оплата напрямую гиду. 
                             Только лицензионные гиды с огромным опытом и рекомендациями - не упустите ваш шанс</p>
                         
                         
-                    <h2 style="color:red; font-weight: bolder ;" class="text-center">В чем преимущество индивидуальной экскурсии перед обычной экскурсией в большом автобусе?</h2>
+                    <h2 style="color:red; font-weight: lighter ;" class="text-center">В чем преимущество индивидуальной экскурсии перед обычной экскурсией в большом автобусе?</h2>
                         
                         <p style="color: grey; font-weight: lighter ;" class="text-center">
                             Вы путешествуете в кругу своих близких людей                            
@@ -255,7 +255,7 @@ header('Location: http://www.rentalcarsisrael.com/ru/');
                         <br>Количество посещаемых достопримечательностей как правило в 2-2.5 раз больше чем в обычной экскурсии</p>
                     
                         
-                        <h2 style="color:red; font-weight: bolder ;" class="text-center">Почему стоит заказать экскурсию по Израилю у нас?</h2>
+                        <h2 style="color:red; font-weight: lighter ;" class="text-center">Почему стоит заказать экскурсию по Израилю у нас?</h2>
                         
                         <p style="color: grey; font-weight: lighter ;" class="text-center">
                             Во первых  цена - вы получаете полноценную экскурсию по Израилю от лучших лицензионных гидов значительно дешевле
@@ -273,7 +273,7 @@ header('Location: http://www.rentalcarsisrael.com/ru/');
                         
                         
                         
-                    <p style="color:red; font-weight: bolder ;" class="text-center">Тел\WhatsApp\Viber\Telegram +972-58-771-0101</p>
+                    <p style="color:red; font-weight: lighter ;" class="text-center">Тел\WhatsApp\Viber\Telegram +972-58-771-0101</p>
                     
 
 		<div class="clearfix"></div>
@@ -395,7 +395,7 @@ header('Location: http://www.rentalcarsisrael.com/ru/');
 <p style="color: grey; font-weight: lighter ;" class="text-center">У нас в прокате есть машины на любой вкус от мини начиная с 25$ и до минивенов и машин класса люкс.
 <br>Компания Vastama ltd основана в 2014 году и уже более 3 лет является официальным агентом ведущей в Израиле компании Albar(Thrifty, с 1 сентября - Eurocar), наши онлайн цены значительно
 дешевле цен в отделениях компании</p>
-<p style="color:red; font-weight: bolder ;" class="text-center">Тел\WhatsApp\Viber\Telegram +972-58-771-0101</p>
+<p style="color:red; font-weight: lighter;" class="text-center">Тел\WhatsApp\Viber\Telegram +972-58-771-0101</p>
 
 
 		<div class="clearfix"></div>
