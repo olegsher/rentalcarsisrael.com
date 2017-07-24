@@ -65,7 +65,7 @@ header('Location: http://www.rentalcarsisrael.com');
         <meta property="fb:app_id" content="1322511981092474" />
         <meta property="og:type" content="website" />
         <meta property="og:locale" content="en" />       
-        <meta property="og:url" content="http://www.rentalcarsisrael.com/test_lp/lp_en_rental.php" />
+        <meta property="og:url" content="http://www.rentalcarsisrael.com/en/index.php" />
         <meta property="og:image" content="http://www.rentalcarsisrael.com/images/car_key_vastama.jpeg"/>
         <meta property="og:image:type" content="image/png" />
         <meta property="og:image:width" content="640" />
@@ -146,7 +146,7 @@ header('Location: http://www.rentalcarsisrael.com');
 		</div>
 		<div class="logo pull-right">
 			<a href="http://www.rentalcarsisrael.com/ru" class='pull-right'>
-				<img src="../images/ru.png" width="20" height="20" alt="">
+				<img src="../images/ru.png" width="20" height="20" alt="Tel Aviv Israel airport rental car">
 			Сайт на русском</a>
 			<h1 class="description-logo">
 				
@@ -171,14 +171,19 @@ header('Location: http://www.rentalcarsisrael.com');
 						<div class="list-forstart fin_1">
 							<h2 class='h-Bold'>Budget cars</h2>
 							<ul class='ul-list-slider Open-sansR'>                                                                
-								<li>Rent from 9USD/day</li>								
+								<li>Rent from 9USD/day</li>
+                                                                <li>Rent from 610USD/month</li>
 								<li>Unlimited miles(3-29 days)</li>
 								<li>No credit card fees, No amendment fees</li>
+                                                                <li>24h Roadside Assistance</li>
+                                                                
+                                                                
+                                                                
                                                                 
 							</ul>
 						</div>
 						<div class="img-slider slide-man1 fin_2">
-							<img src="slider_man1.png" class="img-responsive" alt="Бюджетные автомобили начиная от 10USD в день">
+							<img src="slider_man1.png" class="img-responsive" alt="Tel Aviv Israel airport rental car">
 						</div>
 					</li>
 					<li>
@@ -188,10 +193,11 @@ header('Location: http://www.rentalcarsisrael.com');
 								<li>Rent from 35USD/day</li>								
 								<li>Unlimited miles(3-29 days)</li>
 								<li>No credit card fees, No amendment fees</li>
+                                                                <li>24h Roadside Assistance</li>
 							</ul>
 						</div>
 						<div class="img-slider slide-man2 fin_2">
-							<img src="slider_man2.png" class="img-responsive" alt="Минивены 7+ мест начиная от 35USD в день">
+							<img src="slider_man2.png" class="img-responsive" alt="Tel Aviv Israel airport rental car">
 						</div>
 					</li>
 					<li>
@@ -201,10 +207,11 @@ header('Location: http://www.rentalcarsisrael.com');
 								<li>Rent from 65USD/day</li>								
 								<li>Unlimited miles(3-29 days)</li>
 								<li>No credit card fees, No amendment fees</li>
+                                                                <li>24h Roadside Assistance</li>
 							</ul>
 						</div>
 						<div class="img-slider slide-man3 fin_2">
-							<img src="slider_man3.png" class="img-responsive" alt="Люкс класс начиная от 65USD в день">
+							<img src="slider_man3.png" class="img-responsive" alt="Tel Aviv Israel airport rental car">
 						</div>
 					</li>
 				</ul>
