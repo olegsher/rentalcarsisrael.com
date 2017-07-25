@@ -1,7 +1,7 @@
 <?php 
 if(isset($_POST['submit'])){
-    $to = "rentcargroup@privateisrael.com"; // this is your Email address
-    $reqemail = "rentcargroup@privateisrael.com";
+    $to = "admin@privateisrael.com"; // this is your Email address
+    $reqemail = "admin@privateisrael.com";
 
     $from = $_POST['email']; // this is the sender's Email address
     $first_name = $_POST['First_name'];
