@@ -201,7 +201,7 @@ header('Location: http://www.rentalcarsisrael.com/ru/');
 								<li>Сотни довольных клиентов</li>
 							</ul>
 						</div>
-						<div class="img-slider slide-man2 fin_2">
+						<div>
 						<a target="blank" href="https://atlantistravel.co.il/ekskursii/gruppovye-ekskursii-po-izrailju?filter_cities=24&viewtype=list&filter_types[0]=5&filter_types[1]=4&filter_types[2]=25&filter_types[3]=26&refer=5977556e2f026" class='pull-left'>
 							<img src="5_atlantis.png" alt="Минивены 7+ мест начиная от 35USD в день">
 							</a>
@@ -210,7 +210,7 @@ header('Location: http://www.rentalcarsisrael.com/ru/');
 					<li>
 						<div class="list-forstart fin_1">
 							<h1>Регулярные групповые экскурсии</h1>
-							<ul class='gray-list-slider Open-sansR'>
+							<ul class='ul-list-slider Open-sansR'>
 								<li>Aвторские экскурсии от 175 шек </li>								
 								<li>Регулярные экскурсии от 100 шек</li>
 								<li>Только лицензированные гиды</li>
@@ -218,7 +218,7 @@ header('Location: http://www.rentalcarsisrael.com/ru/');
 								<li>От ведущего туроператора в Израиле</li>
 							</ul>
 						</div>
-						<<div class="img-slider slide-man2 fin_2">
+						<<div>
 							<a target="blank" href="https://atlantistravel.co.il/ekskursii/gruppovye-ekskursii-po-izrailju?filter_cities=24&viewtype=list&filter_types[0]=5&filter_types[1]=4&filter_types[2]=25&filter_types[3]=26&refer=5977556e2f026" class='pull-left'>
 							<img src="5_atlantis.png" alt="Минивены 7+ мест начиная от 35USD в день">
 							</a>
@@ -245,8 +245,8 @@ header('Location: http://www.rentalcarsisrael.com/ru/');
 		<div class="container">
 			<div class="container relative fin_3 non-come" id='elem-portable'>
 				<div class="reg-now">
-					<h2 class='medium-h text-center'>Бронирование экскурсии</h2>
-					<h3 class='xsmall-h text-center'>Форма обратной связи</h3>
+					<h2 class='medium-h text-center'>Хотите узнать больше</h2>
+					<h3 class='xsmall-h text-center'>Оставьте ваши данные для связи</h3>
 										<form class='reg-now-visible' id='formIndex' method=post >
 						<div class="form-control">
 							<input type="text" class="form-control" name="First_name" placeholder='Ваше имя' value="" data-required>
