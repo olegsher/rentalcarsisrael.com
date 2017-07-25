@@ -83,7 +83,33 @@ header('Location: http://www.rentalcarsisrael.com/ru/');
 <link rel="shortcut icon" href="../favicon.ico">
 </head>
 <body>
-    
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-52856386-10', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<script type="application/ld+json"> { 
+"@context" : "http://schema.org",
+"@type" : "TravelAgency",
+"image": "http://www.rentalcarsisrael.com/images/car_key_vastama.jpeg", 
+"name":"Vastama Ltd",
+"url":"http://www.rentalcarsisrael.com",
+"email":"admin@vastama.com",
+"telephone":"972587710101",
+"openingHours": [ 
+"Su-Sa 09:00-18:00"], 
+"aggregateRating":{
+"@type":"AggregateRating",
+"ratingValue":"5",
+"reviewCount":"5"},
+"priceRange":"2",
+"paymentAccepted":"Visa, Master Card, Amex"
+} </script>    
 <!--===========================-->
 <!--==========Header===========-->
 <div class="main-holder">
@@ -156,9 +182,9 @@ header('Location: http://www.rentalcarsisrael.com/ru/');
                                                                 
 							</ul>
 						</div>
-						<div class="img-slider slide-man1 fin_2">
+						<!--<div class="img-slider slide-man1 fin_2">
 							<img src="xslider_tours1.png" alt="Бюджетные автомобили начиная от 10USD в день">
-						</div>
+						</div>-->
 					</li>
 					<li>
 						<div class="list-forstart fin_1">
@@ -169,9 +195,9 @@ header('Location: http://www.rentalcarsisrael.com/ru/');
 								<li>Сотни довольных клиентов</li>
 							</ul>
 						</div>
-						<div class="img-slider slide-man2 fin_2">
+						<!--<div class="img-slider slide-man2 fin_2">
 							<img src="xslider_tours2.png" alt="Минивены 7+ мест начиная от 35USD в день">
-						</div>
+						</div>-->
 					</li>
 					<li>
 						<div class="list-forstart fin_1">
@@ -184,9 +210,9 @@ header('Location: http://www.rentalcarsisrael.com/ru/');
 								<li>От ведущего туроператора в Израиле</li>
 							</ul>
 						</div>
-						<div class="img-slider slide-man3 fin_2">
+						<!--<div class="img-slider slide-man3 fin_2">
 							<img src="xslider_tours3.png" alt="Люкс класс начиная от 65USD в день">
-						</div>
+						</div>-->
 					</li>
 				</ul>
 				<div class="bx-controls bx-has-pager bx-has-controls-direction" id='dafault_pager'>
@@ -445,7 +471,7 @@ avto prokat, prokat mashin, auto arenda, прокат аренда машин, �
 	<script src="custom.js" defer></script>
 	<!-- file loader -->
 	<script src="loader.js" defer></script>
-<?php include("../seo_stat"); ?>
+<!--<?php include("../seo_stat"); ?>-->
 
 </body>
 </html>
