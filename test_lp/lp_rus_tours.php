@@ -76,22 +76,7 @@ header('Location: http://www.rentalcarsisrael.com/ru/');
   
 
 	<link type="image/x-icon" href="img/favicon.ico" rel="shortcut icon">
-	<link rel="stylesheet" href="bootstrap.min-ver.css" media="all">
-	<link rel="stylesheet" href="main.css" media="all">
-	<link rel="stylesheet" href="responsive.css" media="all">
-
-	<script src="jquery-1.10.1.min.js" ></script>
-	<script src="bootstrap.min.js" ></script>
-	<script src="modernizr.js" defer></script>
-	<script src="jquery.bxslider.min.js" defer></script>
-	<script src="jquery.selectbox.js" defer></script>
-	<script src="jquery.validate.min.js" defer></script>
-	<script src="jquery.colorbox-min.js" defer></script>
-	<script src="jquery.BlackAndWhite.js" defer></script>
-	<script src="jquery.nivo.slider.pack.js" defer></script>
-	<script src="custom.js" defer></script>
-	<!-- file loader -->
-	<script src="loader.js" defer></script>
+	
 
 
 
@@ -161,48 +146,52 @@ header('Location: http://www.rentalcarsisrael.com/ru/');
 				<ul class="form-bxslider unstyled">
 					<li>
 						<div class="list-forstart fin_1">
-							<h2 class='h-Bold'>Экскурсии по Израилю</h2>
+							<h1>Индивидуальные экскурсии по Израилю</h1>
 							<ul class='ul-list-slider Open-sansR'>                                                                
-								<li>Незабываемые экскурсии от 250USD</li>								
-								<li>Туры по стране</li>
-								<li>Тайные знания</li>
+								<li>Незабываемые авторские экскурсии от 250USD</li>								
+								<li>Самые известные частные гиды с огромным опытом и рекомендациями</li>
+								<li>Акция: Экскурсия + аренда автомобиля по наилучшей цене</li>
+								<li>Самая выгодная опция для компаний 7+ человек</li>
+								<li>Оплата напрямую гиду, нет посредников</li>
                                                                 
 							</ul>
 						</div>
 						<div class="img-slider slide-man1 fin_2">
-							<img src="slider_tours1.png" alt="Бюджетные автомобили начиная от 10USD в день">
+							<img src="xslider_tours1.png" alt="Бюджетные автомобили начиная от 10USD в день">
 						</div>
 					</li>
 					<li>
 						<div class="list-forstart fin_1">
-							<h2 class='h-Bold'>Частные Гиды</h2>
+							<h1>Дни отдыха в Израиле</h1>
 							<ul class='ul-list-slider Open-sansR'>
-								<li>День работы гида от 250USD</li>								
-								<li>Только лицензированные гиды</li>
-								<li>Лучшие рекомендации</li>
+								<li>Мёртвое море от 100шек</li>								
+								<li>От ведущего туроператора в Израиле</li>
+								<li>Сотни довольных клиентов</li>
 							</ul>
 						</div>
 						<div class="img-slider slide-man2 fin_2">
-							<img src="slider_tours2.png" alt="Минивены 7+ мест начиная от 35USD в день">
+							<img src="xslider_tours2.png" alt="Минивены 7+ мест начиная от 35USD в день">
 						</div>
 					</li>
 					<li>
 						<div class="list-forstart fin_1">
-							<h2 class='h-Bold'>Лучшие Программы</h2>
+							<h1>Регулярные групповые экскурсии</h1>
 							<ul class='gray-list-slider Open-sansR'>
-								<li>Эксклюзивные программы по Иерусалиму</li>								
-								<li>Христианские и Иудейские программы</li>
-								<li>История,Культура,Религия</li>
+								<li>Aвторские экскурсии от 175 шек </li>								
+								<li>Регулярные экскурсии от 100 шек</li>
+								<li>Только лицензированные гиды</li>
+								<li>Большие комфортабельные автобусы</li>
+								<li>От ведущего туроператора в Израиле</li>
 							</ul>
 						</div>
 						<div class="img-slider slide-man3 fin_2">
-							<img src="slider_tours3.png" alt="Люкс класс начиная от 65USD в день">
+							<img src="xslider_tours3.png" alt="Люкс класс начиная от 65USD в день">
 						</div>
 					</li>
 				</ul>
 				<div class="bx-controls bx-has-pager bx-has-controls-direction" id='dafault_pager'>
 					<div class="bx-pager bx-default-pager">
-						<div class="bx-pager-item">
+						<!--<div class="bx-pager-item">
 							<a class="bx-pager-link pager-Ico1" data-slide-index="0" href=""><span></span></a>
 						</div>
 
@@ -212,7 +201,7 @@ header('Location: http://www.rentalcarsisrael.com/ru/');
 
 						<div class="bx-pager-item lastItem">
 							<a class="bx-pager-link pager-Ico3" data-slide-index="2" href=""><span></span></a>
-						</div>
+						</div>-->
 					</div>
 				</div>
 		</div>
@@ -241,9 +230,6 @@ header('Location: http://www.rentalcarsisrael.com/ru/');
 									</div>
 			</div>
                     
-                        <h2 style="color:red; font-weight: lighter ;" class="text-center">Индивидуальные экскурсии по Израилю от лучших гидов за 250$</h2>
-                        <p style="color: grey; font-weight: lighter ;" class="text-center">Без посредников, согласование экскурсии и оплата напрямую гиду. 
-                            Только лицензионные гиды с огромным опытом и рекомендациями - не упустите ваш шанс</p>
                         
                         
                     <h2 style="color:red; font-weight: lighter ;" class="text-center">В чем преимущество индивидуальной экскурсии перед обычной экскурсией в большом автобусе?</h2>
@@ -428,7 +414,7 @@ header('Location: http://www.rentalcarsisrael.com/ru/');
 </div>
 <div class="container">
 	
-Техническая информация о работе сайта: 
+<!--Техническая информация о работе сайта: 
 <br />Количество посетителей на сайте: 
 <?php
 echo rand(5, 25);
@@ -439,9 +425,27 @@ echo rand(5, 25);
 аренда автомобиля в Тель Авиве, аренда автомобиля в Эйлате, аренда автомобиля в Израиле, машина прокат, машина прокат Израиле, аренда машины Израиль, 
 avto prokat, prokat mashin, auto arenda, прокат аренда машин, где можно взять машину напрокат, заказать машину, аренда иномарок, arenda avto, 
 стоимость аренды машины, израиль прокат автомобилей, съем машины Израиле, аренда авто, прокат машины, сьем автомобиля,автомобиль,  машина Израиле, дешевый прокат автомобиля  
-<hr />
+--><hr />
 <p>&copy; 2014-<?php echo date("Y") ?> Vastama Ltd . All Rights Reserved | Design by  <a href="http://www.vastama.com/" target="_blank">Vastama Ltd</a> </p>
 
 </div>
+<link rel="stylesheet" href="bootstrap.min-ver.css" media="all">
+	<link rel="stylesheet" href="main.css" media="all">
+	<link rel="stylesheet" href="responsive.css" media="all">
+
+	<script src="jquery-1.10.1.min.js" ></script>
+	<script src="bootstrap.min.js" ></script>
+	<script src="modernizr.js" defer></script>
+	<script src="jquery.bxslider.min.js" defer></script>
+	<script src="jquery.selectbox.js" defer></script>
+	<script src="jquery.validate.min.js" defer></script>
+	<script src="jquery.colorbox-min.js" defer></script>
+	<script src="jquery.BlackAndWhite.js" defer></script>
+	<script src="jquery.nivo.slider.pack.js" defer></script>
+	<script src="custom.js" defer></script>
+	<!-- file loader -->
+	<script src="loader.js" defer></script>
+
+
 </body>
 </html>
