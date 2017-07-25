@@ -83,7 +83,7 @@ header('Location: http://www.rentalcarsisrael.com/ru/');
 <link rel="shortcut icon" href="../favicon.ico">
 </head>
 <body>
-    <?php include("../seo_stat"); ?>
+    
 <!--===========================-->
 <!--==========Header===========-->
 <div class="main-holder">
@@ -445,7 +445,7 @@ avto prokat, prokat mashin, auto arenda, прокат аренда машин, �
 	<script src="custom.js" defer></script>
 	<!-- file loader -->
 	<script src="loader.js" defer></script>
-
+<?php include("../seo_stat"); ?>
 
 </body>
 </html>
