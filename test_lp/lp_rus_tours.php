@@ -81,6 +81,12 @@ header('Location: http://www.rentalcarsisrael.com/ru/');
 
 
 <link rel="shortcut icon" href="../favicon.ico">
+<link rel="stylesheet" href="bootstrap.min-ver.css" media="all">
+	<link rel="stylesheet" href="main.css" media="all">
+	<link rel="stylesheet" href="responsive.css" media="all">
+
+	<script src="jquery-1.10.1.min.js" ></script>
+	<script src="bootstrap.min.js" ></script>
 </head>
 <body>
 <script>
@@ -195,9 +201,11 @@ header('Location: http://www.rentalcarsisrael.com/ru/');
 								<li>Сотни довольных клиентов</li>
 							</ul>
 						</div>
-						<!--<div class="img-slider slide-man2 fin_2">
-							<img src="xslider_tours2.png" alt="Минивены 7+ мест начиная от 35USD в день">
-						</div>-->
+						<div class="img-slider slide-man2 fin_2">
+						<a target="blank" href="https://atlantistravel.co.il/ekskursii/gruppovye-ekskursii-po-izrailju?filter_cities=24&viewtype=list&filter_types[0]=5&filter_types[1]=4&filter_types[2]=25&filter_types[3]=26&refer=5977556e2f026" class='pull-left'>
+							<img src="5_atlantis.png" alt="Минивены 7+ мест начиная от 35USD в день">
+							</a>
+						</div>
 					</li>
 					<li>
 						<div class="list-forstart fin_1">
@@ -210,9 +218,11 @@ header('Location: http://www.rentalcarsisrael.com/ru/');
 								<li>От ведущего туроператора в Израиле</li>
 							</ul>
 						</div>
-						<!--<div class="img-slider slide-man3 fin_2">
-							<img src="xslider_tours3.png" alt="Люкс класс начиная от 65USD в день">
-						</div>-->
+						<<div class="img-slider slide-man2 fin_2">
+							<a target="blank" href="https://atlantistravel.co.il/ekskursii/gruppovye-ekskursii-po-izrailju?filter_cities=24&viewtype=list&filter_types[0]=5&filter_types[1]=4&filter_types[2]=25&filter_types[3]=26&refer=5977556e2f026" class='pull-left'>
+							<img src="5_atlantis.png" alt="Минивены 7+ мест начиная от 35USD в день">
+							</a>
+						</div>
 					</li>
 				</ul>
 				<div class="bx-controls bx-has-pager bx-has-controls-direction" id='dafault_pager'>
@@ -258,7 +268,7 @@ header('Location: http://www.rentalcarsisrael.com/ru/');
                     
                         
                         
-                    <h2 style="color:red; font-weight: lighter ;" class="text-center">В чем преимущество индивидуальной экскурсии перед обычной экскурсией в большом автобусе?</h2>
+                    <!--<h2 style="color:red; font-weight: lighter ;" class="text-center">В чем преимущество индивидуальной экскурсии перед обычной экскурсией в большом автобусе?</h2>
                         
                         <p style="color: grey; font-weight: lighter ;" class="text-center">
                             Вы путешествуете в кругу своих близких людей                            
@@ -282,7 +292,7 @@ header('Location: http://www.rentalcarsisrael.com/ru/');
                             до 9-местного минивэна за 100$ в день... 250км уже включены в стоимость также как и обязательные страховки.
                             Вам остается только доплатить за бензин... 
                             <br>Если Вы не хотите сами управлять машиной можно договориться с гидом
-                        </p>
+                        </p>-->
                        
                         
                         
@@ -298,11 +308,11 @@ header('Location: http://www.rentalcarsisrael.com/ru/');
 
 
 	<div class="container">
-		<h2 class='text-center xxh-Bold'>Добавьте однодневную аренду автомобиля для экскурсии по лучшим в Израиле ценам</h2>
+		<!--<h2 class='text-center xxh-Bold'>Добавьте однодневную аренду автомобиля для экскурсии по лучшим в Израиле ценам</h2>
 		<h3 class='text-center xmedium-h'></h3>
-
+-->
 		<div class='auto-x'>
-			<div class="span3 noR-border">
+			<!--<div class="span3 noR-border">
 				<table class='table package-services not-favorable'>
 					<caption class='noR-border'>Renault Traffic(Мех. 9 мест)</caption>
 					 <thead>
@@ -330,14 +340,14 @@ header('Location: http://www.rentalcarsisrael.com/ru/');
                                                         Для сравнения экскурсия на большом автобусе из расчета 60$ с человека обойдется в 480$</td>
 						</tr>
                                                 
-<!--						<tr class='lastTr'>
+						<tr class='lastTr'>
 							<td><a class='btn buy-now' href='#'>Заполнить форму</a></td>
-						</tr>-->
+						</tr>
 					</tbody>
 				</table>
-			</div>
+			</div>-->
 
-			<div class="span3 profitable">
+			<!--<div class="span3 profitable">
 				<table class='table package-services'>
 					<caption>Лидер в прокате Hyundai Tucson</caption>
 					 <thead>
@@ -364,14 +374,14 @@ header('Location: http://www.rentalcarsisrael.com/ru/');
                                                     <td>    
                                                         Для сравнения экскурсия на большом автобусе из расчета 60$ с человека обойдется в 240$</td>
 						</tr>
-<!--						<tr class='lastTr'>
+						<tr class='lastTr'>
 							<td><a class='btn buy-now offsetY-5' href='#'>Заполнить форму</a></td>
-						</tr>-->
+						</tr>
 					</tbody>
 				</table>
-			</div>
+			</div>-->
 
-			<div class='span3 noL-border'>
+			<!--<div class='span3 noL-border'>
 				<table class='table package-services not-favorable'>
 					<caption class='noL-border'>Mazda 6</caption>
 					 <thead>
@@ -398,15 +408,15 @@ header('Location: http://www.rentalcarsisrael.com/ru/');
                                                     <td>    
                                                         Для сравнения экскурсия на большом автобусе из расчета 60$ с человека обойдется в 240$</td>
 						</tr>
-<!--						<tr class='lastTr'>
+						<tr class='lastTr'>
 							<td><a class='btn buy-now offsetY-6' href='#'>Заполнить форму</a></td>
-						</tr>-->
+						</tr>
 					</tbody>
 				</table>
-			</div>
+			</div>-->
 		</div>
                 <hr/>
-<p style="color: grey; font-weight: lighter ;" class="text-center">У нас в прокате есть машины на любой вкус от мини начиная с 25$ и до минивенов и машин класса люкс.
+<!--<p style="color: grey; font-weight: lighter ;" class="text-center">У нас в прокате есть машины на любой вкус от мини начиная с 25$ и до минивенов и машин класса люкс.
 <br>Компания Vastama ltd основана в 2014 году и уже более 3 лет является официальным агентом ведущей в Израиле компании Albar(Thrifty, с 1 сентября - Eurocar), наши онлайн цены значительно
 дешевле цен в отделениях компании</p>
 <p style="color:red; font-weight: lighter;" class="text-center">Тел\WhatsApp\Viber\Telegram +972-58-771-0101</p>
@@ -418,7 +428,7 @@ header('Location: http://www.rentalcarsisrael.com/ru/');
 Все указанные на сайте расценки на краткосрочную аренду не включают обязательные и дополнительные страховки(если не указано другое)  
 <br>Модели автомобилей представлены исключительно для примера и при выдаче компания имеет право предоставить автомобиль того же класса, но другой марки. 
 <br>Компания поставщик может изменить цены но конечной считается цена в ваучере.
-<hr/>
+<hr/>-->
 	</div>
 
 
@@ -455,12 +465,7 @@ avto prokat, prokat mashin, auto arenda, прокат аренда машин, �
 <p>&copy; 2014-<?php echo date("Y") ?> Vastama Ltd . All Rights Reserved | Design by  <a href="http://www.vastama.com/" target="_blank">Vastama Ltd</a> </p>
 
 </div>
-<link rel="stylesheet" href="bootstrap.min-ver.css" media="all">
-	<link rel="stylesheet" href="main.css" media="all">
-	<link rel="stylesheet" href="responsive.css" media="all">
 
-	<script src="jquery-1.10.1.min.js" ></script>
-	<script src="bootstrap.min.js" ></script>
 	<script src="modernizr.js" defer></script>
 	<script src="jquery.bxslider.min.js" defer></script>
 	<script src="jquery.selectbox.js" defer></script>
