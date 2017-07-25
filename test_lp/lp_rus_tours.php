@@ -122,7 +122,8 @@ header('Location: http://www.rentalcarsisrael.com/ru/');
 <header class='main-wrapper header'>
 	<div class="container apex">
 		<span class="contact-header pull-left small_font">
-			+972 58 771 0101 (WhatsApp,Viber,Telegram,Phone)
+			<img src="../images/sprite_phone_viber_whatsapp.png" width="112" height="32" alt="">
+			<img src="phone.png" width="150" height="32" alt="">
 		</span>
 
 		<ul class='social-transform unstyled pull-right'>
@@ -180,12 +181,16 @@ header('Location: http://www.rentalcarsisrael.com/ru/');
 						<div class="list-forstart fin_1">
 							<h1>Индивидуальные экскурсии по Израилю</h1>
 							<ul class='ul-list-slider Open-sansR'>                                                                
-								<li>Незабываемые авторские экскурсии от 250USD</li>								
+								<li>Незабываемые авторские экскурсии от 250USD - оставьте данные и гид свяжется с вами</li>								
 								<li>Самые известные частные гиды с огромным опытом и рекомендациями</li>
-								<li>Акция: Экскурсия + аренда автомобиля по наилучшей цене</li>
+								<li> 
+								<a target="blank" href="http://www.rentalcarsisrael.com/ru" class='pull-left'>							
+							Акция: Экскурсия + аренда автомобиля по наилучшей цене</a>
+								
+								</li>
 								<li>Самая выгодная опция для компаний 7+ человек</li>
 								<li>Оплата напрямую гиду, нет посредников</li>
-                                                                
+								                                     
 							</ul>
 						</div>
 						<!--<div class="img-slider slide-man1 fin_2">
@@ -196,7 +201,12 @@ header('Location: http://www.rentalcarsisrael.com/ru/');
 						<div class="list-forstart fin_1">
 							<h1>Дни отдыха в Израиле</h1>
 							<ul class='ul-list-slider Open-sansR'>
-								<li>Мёртвое море от 100шек</li>								
+								<li>
+							<a target="blank" href="https://atlantistravel.co.il/ekskursii/gruppovye-ekskursii-po-izrailju?filter_cities=24&viewtype=list&filter_types[0]=5&filter_types[1]=4&filter_types[2]=25&filter_types[3]=26&refer=5977556e2f026" class='pull-left'>
+							Мёртвое море от 100шек - для получения скидки введите промокод vastama5
+							</a>								
+								
+								</li>								
 								<li>От ведущего туроператора в Израиле</li>
 								<li>Сотни довольных клиентов</li>
 							</ul>
@@ -211,8 +221,16 @@ header('Location: http://www.rentalcarsisrael.com/ru/');
 						<div class="list-forstart fin_1">
 							<h1>Регулярные групповые экскурсии</h1>
 							<ul class='ul-list-slider Open-sansR'>
-								<li>Aвторские экскурсии от 175 шек </li>								
-								<li>Регулярные экскурсии от 100 шек</li>
+								<li> 
+								<a target="blank" href="https://atlantistravel.co.il/ekskursii/gruppovye-ekskursii-po-izrailju?filter_cities=24&viewtype=list&filter_types[0]=5&filter_types[1]=4&filter_types[2]=25&filter_types[3]=26&refer=5977556e2f026" class='pull-left'>
+							Aвторские экскурсии от 175 шек - для получения скидки введите промокод vastama5
+							</a>
+								</li>								
+								<li>
+								<a target="blank" href="https://atlantistravel.co.il/ekskursii/gruppovye-ekskursii-po-izrailju?filter_cities=24&viewtype=list&filter_types[0]=5&filter_types[1]=4&filter_types[2]=25&filter_types[3]=26&refer=5977556e2f026" class='pull-left'>
+							Регулярные экскурсии от 100 шек - для получения скидки введите промокод vastama5
+							</a>
+								</li>
 								<li>Только лицензированные гиды</li>
 								<li>Большие комфортабельные автобусы</li>
 								<li>От ведущего туроператора в Израиле</li>
@@ -245,7 +263,7 @@ header('Location: http://www.rentalcarsisrael.com/ru/');
 		<div class="container">
 			<div class="container relative fin_3 non-come" id='elem-portable'>
 				<div class="reg-now">
-					<h2 class='medium-h text-center'>Хотите узнать больше</h2>
+					<h2 class='medium-h text-center'>Хотите узнать больше?</h2>
 					<h3 class='xsmall-h text-center'>Оставьте ваши данные для связи</h3>
 										<form class='reg-now-visible' id='formIndex' method=post >
 						<div class="form-control">
@@ -260,7 +278,10 @@ header('Location: http://www.rentalcarsisrael.com/ru/');
 
 
 
-						 <button type="submit" value="Register Now" class='btn submit' name="submit"><i class="icon-success"></i>Запросить бронирование</button>
+						 <button type="submit" value="Register Now" class='btn submit' name="submit"><i class="icon-success"></i>Запросить информацию</button>
+<hr/>
+<img src="../images/sprite_phone_viber_whatsapp.png" width="112" height="32" alt="">
+			<img src="phone.png" width="150" height="32" alt="">					
 					</form>
                                         
 									</div>
@@ -297,7 +318,7 @@ header('Location: http://www.rentalcarsisrael.com/ru/');
                         
                         
                         
-                    <p style="color:red; font-weight: lighter ;" class="text-center">Тел\WhatsApp\Viber\Telegram +972-58-771-0101</p>
+                    
                     
 
 		<div class="clearfix"></div>
@@ -415,7 +436,7 @@ header('Location: http://www.rentalcarsisrael.com/ru/');
 				</table>
 			</div>-->
 		</div>
-                <hr/>
+               <!-- <hr/>-->
 <!--<p style="color: grey; font-weight: lighter ;" class="text-center">У нас в прокате есть машины на любой вкус от мини начиная с 25$ и до минивенов и машин класса люкс.
 <br>Компания Vastama ltd основана в 2014 году и уже более 3 лет является официальным агентом ведущей в Израиле компании Albar(Thrifty, с 1 сентября - Eurocar), наши онлайн цены значительно
 дешевле цен в отделениях компании</p>
