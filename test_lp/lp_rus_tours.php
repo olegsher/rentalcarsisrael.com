@@ -179,10 +179,21 @@ header('Location: http://www.rentalcarsisrael.com/ru/');
 				<ul class="form-bxslider unstyled">
 					<li>
 						<div class="list-forstart fin_1">
-							<h1>Индивидуальные экскурсии по Израилю</h1>
-							<ul class='ul-list-slider Open-sansR'>                                                                
-								<li>Незабываемые авторские экскурсии от 250USD - оставьте данные и гид свяжется с вами</li>								
-								<li>Самые известные частные гиды с огромным опытом и рекомендациями</li>
+							<h1>Экскурсии по Израилю на любой бюджет от 100шек</h1>
+							<ul class='ul-list-slider Open-sansR'> 
+							                                                               
+								<li>Незабываемые индивидуальные авторские экскурсии от 250USD<br/> - оставьте данные и гид свяжется с вами</li>								
+								<li> 
+								<a target="blank" href="https://atlantistravel.co.il/ekskursii/gruppovye-ekskursii-po-izrailju?filter_cities=24&viewtype=list&filter_types[0]=5&filter_types[1]=4&filter_types[2]=25&filter_types[3]=26&refer=5977556e2f026" class='pull-left'>
+							Aвторские групповые экскурсии от 175 шек - заказ онлайн
+							</a>
+								</li>								
+								<li>
+							<a target="blank" href="https://atlantistravel.co.il/ekskursii/gruppovye-ekskursii-po-izrailju?filter_cities=24&viewtype=list&filter_types[0]=5&filter_types[1]=4&filter_types[2]=25&filter_types[3]=26&refer=5977556e2f026" class='pull-left'>
+							Дни отдыха от 100шек - заказ онлайн
+							</a>								
+								
+								</li>
 								<li> 
 								<a target="blank" href="http://www.rentalcarsisrael.com/ru" class='pull-left'>							
 							Акция: Экскурсия + аренда автомобиля по наилучшей цене</a>
