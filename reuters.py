@@ -13,6 +13,7 @@ c.close()
 s = buffer.getvalue()
 f = open('reuters.html', 'w')
 
+f.write("<h2>TOP NEWS</h2>")
 for item in s.split("</div>"):
    if "<h2 class=\"story-title\">" in item:
        header = item [ item.find("<a href=\"/article") : ]
@@ -24,11 +25,11 @@ for item in s.split("</div>"):
        
        #print htmlspaced       
        f.write(htmlspaced)
+
+
+
 f.write("<hr/>")
-
-
-
-
+f.write("<h3>MORE TOP NEWS</h3>")
 for item in s.split("</div>"):
    if "<h3 class=\"story-title\">" in item:
        header = item [ item.find("<a href=\"/article") : ]
