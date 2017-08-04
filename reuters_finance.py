@@ -20,8 +20,8 @@ c.close()
 s = buffer.getvalue()
 f = open('reuters_finance.html', 'w')
 
-
-f.write("<h2>MARKETS & FINANCE NEWS</h2>")
+f.write("<hr/>")
+f.write("<h2>MARKETS & FINANCE NEWS</h2><hr/>")
 
 for item in s.split("</div>"):
    if "<h2 class=\"story-title\">" in item:
@@ -38,7 +38,7 @@ for item in s.split("</div>"):
 
 
 f.write("<hr/>")
-f.write("<h3>MORE MARKETS & FINANCE NEWS</h3>")
+f.write("<h3>MORE MARKETS & FINANCE NEWS</h3><hr/>")
 for item in s.split("</div>"):
    if "<h3 class=\"story-title\">" in item:
        header = item [ item.find("<a href=\"/article") : ]
