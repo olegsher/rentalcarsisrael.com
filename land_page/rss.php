@@ -107,7 +107,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                                 </div>
                                 <div class="col-md-4">										 
                                     <div>
-                                            <?php include("../reuters.html"); ?>
+                                            <?php include("../reuters_finance.html"); ?>
                                     </div>
                                 </div>
                                 <div class="col-md-4">										 
