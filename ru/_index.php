@@ -495,7 +495,7 @@
  <img src="../images/blue_star_20px.png" alt="аренда прокат атомобиля в Израиле" style="float:left" class="img-responsive" />
  
  </a> 
- March 20, 2017 
+  
 <a href="https://www.facebook.com/sasa.sim.7315">Sasa Sim</a> Спасибо за сервис и авто. Арендовал авто в Бен Гурион, сдавал в Ашдоде. Предварительно проконсультировали на русском по всем тонкостям, авто предоставили классом выше чем заказывал, деньги списаны по договоренности. Все доступно , точно и понятно. Буду обращаться еще.
 
 <br><a href="https://www.facebook.com/pg/vastama.israel/reviews/"> 
@@ -506,7 +506,7 @@
  <img src="../images/blue_star_20px.png" alt="аренда прокат атомобиля в Израиле" style="float:left" class="img-responsive" />
  <img src="../images/blue_star_20px.png" alt="аренда прокат атомобиля в Израиле" style="float:left" class="img-responsive" />
  </a> 
- March 16, 2017 
+  
 <a href="https://www.facebook.com/Dmitry.Tikhonofff">Dmitry Tikhonov</a> Арендовали автомобиль через Шер Олега. В качестве бонуса "получили" отзывчивого человека, всегда готового придти на помощь и дать толковый совет. Причем, оперативно, что в чужой стране бывает актуально. Рекомендую.
 
 <br><a href="https://www.facebook.com/pg/vastama.israel/reviews/"> <img style="float:left" class="img-responsive" src="../images/facebook-icon-small.png" alt="отзывы наших клиентов пять звезд" height="20" />
@@ -516,7 +516,7 @@
  <img src="../images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />
  <img src="../images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />
  </a> 
- March 6, 2017 
+  
 <a href="https://www.facebook.com/profile.php?id=1829188783">Ольга Рыбакова</a> Помогли арендовать автомобиль, дешевле, чем в других агентствах. Предоставили автомобиль новый и выше классом.
 
 
@@ -526,19 +526,19 @@
 <h4>Последние заказы на сайте: </h4>
 <p class="text-left">
 <img src="../images/blue_star_20px.png" alt="заказ на сайте аренда прокат автомобиля в Израиле" style="float:left" class="img-responsive" /> 
-Александр 5 - 19 Августа 2017 категория U(PWAR)‎, <strong>отделение аренды проката авто в Тель Авив</strong>, Яркон ‎ - подтвердено
+Александр  категория U(PWAR)‎, <strong>отделение аренды проката авто в Тель Авив</strong>, Яркон ‎ - подтвердено
 </p>
 <p class="text-left">
 <img src="../images/blue_star_20px.png" alt="заказ на сайте аренда прокат автомобиля в Израиле" style="float:left" class="img-responsive" /> 
-Ирина 15 - 25 Августа 2017 категория E(CDAR), <strong>отделение аренды проката авто в Хайфа</strong> ‎ - подтвердено
+Ирина категория E(CDAR), <strong>отделение аренды проката авто в Хайфа</strong> ‎ - подтвердено
 </p>
 <p class="text-left">
 <img src="../images/blue_star_20px.png" alt="заказ на сайте аренда прокат автомобиля в Израиле" style="float:left" class="img-responsive" /> 
-Эдуард 9 - 19 Августа 2017 категория F(IDAR)‎, <strong>отделение аренды проката авто в Тель Авив</strong>, Яркон ‎ - подтвердено
+Эдуард  категория F(IDAR)‎, <strong>отделение аренды проката авто в Тель Авив</strong>, Яркон ‎ - подтвердено
 </p>
 <p class="text-left">
 <img src="../images/blue_star_20px.png" alt="заказ на сайте аренда прокат автомобиля в Израиле" style="float:left" class="img-responsive" /> 
-Дмитрий 25 Июля - 6 Августа 2017 категория I(SDAR)‎‎, <strong>отделение аренды проката авто в Тель Авив</strong>, Яркон ‎ - возвращена
+Дмитрий  категория I(SDAR)‎‎, <strong>отделение аренды проката авто в Тель Авив</strong>, Яркон ‎ - возвращена
 </p>
 
 
@@ -546,16 +546,16 @@
 
 <p class="text-left">
 <img src="../images/blue_star_20px.png" alt="заказ на сайте аренда прокат автомобиля в Израиле" style="float:left" class="img-responsive" /> 
-Александр 22- 26 Марта 2017 категория Mazda3, <strong>отделение аренды проката авто в Тель Авив</strong>, Яркон ‎ - возвращена
+Александр  категория Mazda3, <strong>отделение аренды проката авто в Тель Авив</strong>, Яркон ‎ - возвращена
 </p>
 <p class="text-left">
-<img src="../images/blue_star_20px.png" alt="заказ на сайте аренда прокат автомобиля в Израиле" style="float:left" class="img-responsive" /> Татьяна 21- 28 Марта 2017 категория Ford Fiesta, ‎отделение аренды проката - Тель Авив, Бен Гурион - возвращена</p>
+<img src="../images/blue_star_20px.png" alt="заказ на сайте аренда прокат автомобиля в Израиле" style="float:left" class="img-responsive" /> Татьяна  категория Ford Fiesta, ‎отделение аренды проката - Тель Авив, Бен Гурион - возвращена</p>
 <p class="text-left">
-<img src="../images/blue_star_20px.png" alt="заказ на сайте аренда прокат автомобиля в Израиле" style="float:left" class="img-responsive" /> Лариса 22 Мая - 22 Июня 2017 категория Hy‎undai i20, отделение аренды проката - Нетания - возвращена</p>
+<img src="../images/blue_star_20px.png" alt="заказ на сайте аренда прокат автомобиля в Израиле" style="float:left" class="img-responsive" /> Лариса  категория Hy‎undai i20, отделение аренды проката - Нетания - возвращена</p>
 <p class="text-left">
-<img src="../images/blue_star_20px.png" alt="заказ на сайте аренда прокат автомобиля в Израиле" style="float:left" class="img-responsive" /> Андрей 16 - 27 Марта 2017 категория Ford Fiesta, ‎отделение аренды проката - Тель Авив, Бен Гурион - возвращена</p>
+<img src="../images/blue_star_20px.png" alt="заказ на сайте аренда прокат автомобиля в Израиле" style="float:left" class="img-responsive" /> Андрей  категория Ford Fiesta, ‎отделение аренды проката - Тель Авив, Бен Гурион - возвращена</p>
 <p class="text-left">
-<img src="../images/blue_star_20px.png" alt="заказ на сайте аренда прокат автомобиля в Израиле" style="float:left" class="img-responsive" /> Александра 13 Марта - 15 Июня 2017 категория Hyundai Tucson‎, отделение аренды проката - Тель Авив, Яркон - возвращена</p>
+<img src="../images/blue_star_20px.png" alt="заказ на сайте аренда прокат автомобиля в Израиле" style="float:left" class="img-responsive" /> Александра  категория Hyundai Tucson‎, отделение аренды проката - Тель Авив, Яркон - возвращена</p>
 
 
 
