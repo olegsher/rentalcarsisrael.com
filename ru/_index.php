@@ -2,7 +2,7 @@
 	<div class="col-md-5 bann-info1 wow fadeInLeft animated" data-wow-delay=".5s">
 <!--		<i class="fa fa-columns"></i>-->
 <i> <img src="../images/car_key_vastama.jpeg" alt="машина прокат, машина прокат Израиле, аренда машины Израиль" class="img-responsive" /></i>
-		<h3>БРОНИРОВАНИЕ АВТОМОБИЛЯ В ИЗРАИЛЕ ЗА ОДИН ШАГ</h3>
+		<h2 class="text-left" style="color:red;">БРОНИРОВАНИЕ АВТОМОБИЛЯ В ИЗРАИЛЕ ЗА ОДИН ШАГ</h2>
                 
                     
     <!-- <hr /><a  href="http://www.rentalcarsisrael.com/minivan.php">Прокат минивэнов - наш бизнес</a>
@@ -25,10 +25,7 @@
 	 <p class="text-left"><img style="float:left" class="img-responsive" src="../images/flashing.gif" 
 	 alt="Консультация и помощь по бронированию автомобиля в Израиле на русском языке" width="20" height="20" />
          Консультации и помощь по бронированию автомобиля в Израиле на русском языке.</p>
-         <hr/><p class="text-left">
-	 Компания Vastama Ltd официально зарегистрированное (регистрационный номер 515052702) в 2014 году в Израиле предприятие  
-					является официальным агентом ведущей компании по аренде прокату автомобилей в Израиле 
-					<a href="https://rent.albar.co.il/en/rent-in-israel/" target="_blank">Albar</a></p>, 
+          
 					         
     
     				          
@@ -393,12 +390,16 @@
 
 	</div>
     <hr />
-    ** Указанные цены соответствуют прейскуранту дилера компаний Thrifty/Dollar/Albar для низкого сезона и значительно отличаются от расценок на сайте\отделении поставщика <br />
-    * Указанные цены ВКЛЮЧАЮТ обязательные страховки <br />
-    * Указанные цены не включают НДС(от НДС освобождены только туристы имеющие в пасторте визу В2\В3 - обязательно предоставить при получении машины) <br />
-    Часы работы отделений - <a href="benGurion.php">Аэропорт Бен Гурион</a> 24\7, остальные отделения 8-18, пятница 8-13  <br /> 
+    <hr/>
+    <p class="text-left">* Указанные цены соответствуют прейскуранту дилера компаний Thrifty/Dollar/Albar для обычного сезона и значительно отличаются от расценок на сайте\отделении компании </p>
+    <p class="text-left">* Указанные цены ВКЛЮЧАЮТ обязательные страховки </p>
+    <p class="text-left">* Указанные цены НЕ включают НДС (от НДС освобождены только туристы имеющие в пасторте визу В2\В3 - обязательно предоставить при получении машины) </p>
+    <p class="text-left">* Часы работы отделений - <a href="benGurion.php">Аэропорт Бен Гурион</a> 24\7, остальные отделения 8-18, пятница 8-13  </p>
+    <p class="text-left">* Компания Vastama Ltd официально зарегистрированное (регистрационный номер 515052702) в 2014 году в Израиле предприятие </p> 
+					является официальным агентом ведущей компании по аренде прокату автомобилей в Израиле 
+					<a href="https://rent.albar.co.il/en/rent-in-israel/" target="_blank">Albar</a></p> 
     <!-- Минимальный возраст водителя 21 год. Водитель 21-23 года - дополнительная оплата "молодой водитель" - 10$ в день <br /> -->
-    Модели автомобилей представлены исключительно для примера и при выдаче компания имеет право предоставить автомобиль того же класса, но другой марки.
+    <p class="text-left">* Модели автомобилей представлены исключительно для примера и при выдаче компания имеет право предоставить автомобиль того же класса, но другой марки.
     <!-- <br />Компания поставщик может изменить цены и конечной считается цена в ваучере. -->
     
     <div class="clearfix"></div>
@@ -406,7 +407,7 @@
 <div class="rupes">
 		<div class="col-md-4 rupes-left wow fadeInDown animated animated" data-wow-delay=".5s" style="visibility: visible; animation-delay: 0.5s; animation-name: fadeInDown;">
 			<div class="rup-left">
-				<img src="../images/creditcards.png" alt="Позвоните Vastama по аренде атомобиля в Израиле" class="img-responsive" />
+				<img src="../images/creditcards.png" alt="Позвоните Vastama по аренде атомобиля в Израиле" style="float:left" class="img-responsive" />
 			</div>
 			<div class="rup-rgt">
 				<h3>Принимаем основные кредитные карты</h3>
@@ -417,7 +418,7 @@
 		</div>
 		<div class="col-md-4 rupes-left wow fadeInDown animated animated" data-wow-delay=".5s" style="visibility: visible; animation-delay: 0.5s; animation-name: fadeInDown;">
 			<div class="rup-left">
-				<img src="../images/car.png" alt="Позвоните Vastama по аренде атомобиля в Израиле" class="img-responsive" />
+				<img src="../images/car.png" alt="Позвоните Vastama по аренде атомобиля в Израиле" style="float:left" class="img-responsive" />
 			
 			</div>
 			<div class="rup-rgt">
@@ -429,7 +430,7 @@
 		</div>
 		<div class="col-md-4 rupes-left wow fadeInDown animated animated" data-wow-delay=".5s" style="visibility: visible; animation-delay: 0.5s; animation-name: fadeInDown;">
 			<div class="rup-left">
-				<img src="../images/guide.png" alt="Позвоните Vastama по аренде атомобиля в Израиле" class="img-responsive" />
+				<img src="../images/guide.png" alt="Позвоните Vastama по аренде атомобиля в Израиле" style="float:left" class="img-responsive" />
 			</div>
 			<div class="rup-rgt">
 				<h3><a href="http://www.israeltour.online/">Экскурсия на машине клиента всего 250$</a></h3>
@@ -443,7 +444,7 @@
     </div>
 
 <div class="col-md-7 bann-info wow fadeInRight animated" data-wow-delay=".5s">
-<img src="../images/catJ.png" alt="машина прокат, машина прокат Израиле, аренда машины Израиль" class="img-responsive" />
+<img src="../images/catJ.png" alt="машина прокат, машина прокат Израиле, аренда машины Израиль" style="float:left" class="img-responsive" />
 <!--<script type="text/javascript" src="https://zadarma.com/swfobject.js"></script>
 <script type="text/javascript">
         var flashvars = {};
@@ -485,7 +486,7 @@
 
 
 <h4>Последние отзывы наших клиентов: </h4>
-<br><a href="https://www.facebook.com/pg/vastama.israel/reviews/"> <img src="../images/facebook-icon-small.png" alt="отзывы наших клиентов пять звезд" height="20" />
+<br><a href="https://www.facebook.com/pg/vastama.israel/reviews/"> <img style="float:left" class="img-responsive" src="../images/facebook-icon-small.png" alt="отзывы наших клиентов пять звезд" height="20" />
  <img src="../images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />
  <img src="../images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />
  <img src="../images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />
@@ -496,7 +497,7 @@
  March 20, 2017 
 <a href="https://www.facebook.com/sasa.sim.7315">Sasa Sim</a> Спасибо за сервис и авто. Арендовал авто в Бен Гурион, сдавал в Ашдоде. Предварительно проконсультировали на русском по всем тонкостям, авто предоставили классом выше чем заказывал, деньги списаны по договоренности. Все доступно , точно и понятно. Буду обращаться еще.
 
-<br><a href="https://www.facebook.com/pg/vastama.israel/reviews/"> <img src="../images/facebook-icon-small.png" alt="отзывы наших клиентов пять звезд" height="20" />
+<br><a href="https://www.facebook.com/pg/vastama.israel/reviews/"> <img style="float:left" class="img-responsive" src="../images/facebook-icon-small.png" alt="отзывы наших клиентов пять звезд" height="20" />
  <img src="../images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />
  <img src="../images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />
  <img src="../images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />
@@ -506,7 +507,7 @@
  March 16, 2017 
 <a href="https://www.facebook.com/Dmitry.Tikhonofff">Dmitry Tikhonov</a> Арендовали автомобиль через Шер Олега. В качестве бонуса "получили" отзывчивого человека, всегда готового придти на помощь и дать толковый совет. Причем, оперативно, что в чужой стране бывает актуально. Рекомендую.
 
-<br><a href="https://www.facebook.com/pg/vastama.israel/reviews/"> <img src="../images/facebook-icon-small.png" alt="отзывы наших клиентов пять звезд" height="20" />
+<br><a href="https://www.facebook.com/pg/vastama.israel/reviews/"> <img style="float:left" class="img-responsive" src="../images/facebook-icon-small.png" alt="отзывы наших клиентов пять звезд" height="20" />
  <img src="../images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />
  <img src="../images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />
  <img src="../images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />
