@@ -106,8 +106,7 @@ header('Location: http://www.rentalcarsisrael.com/ru/thankyou.php');
     <?php include("__header.html"); ?>
 </head>
 <body>
-<?php include("x__facebook.html"); ?>
-<?php include("x__google.html"); ?>
+
 <?php include("../seo_stat"); ?>
 
 <?php include("__top.html"); ?>

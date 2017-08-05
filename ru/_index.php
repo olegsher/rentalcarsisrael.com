@@ -8,14 +8,25 @@
     <!-- <hr /><a  href="http://www.rentalcarsisrael.com/minivan.php">Прокат минивэнов - наш бизнес</a>
     <hr /><a  href="http://www.israeltour.online/ru/">Акция для клиентов - Частный гид за 250$</a> -->
     <!-- <hr /><a  href="http://www.rentalcarsisrael.com/transfer.php">Частный трансфер из аэропорта Бен Гурион начиная от 60$</a> -->
-	 <hr /><a href="http://www.israeltour.online"><span><img src="http://www.privateisrael.com/wp-content/uploads/2017/03/flashing.gif" alt="лучшие цены privateisrael.com" width="20" height="20" />
- Индивидуальные экскурсии по Израилю с частным гидом 250$</span></a>    
+<hr/>	 
+	<p class="text-left"><img style="float:left" class="img-responsive" src="../images/flashing.gif" alt="Консультация и помощь по бронированию автомобиля в Израиле на русском языке" width="20" height="20" />
+    <strong>Бронирование автомобиля в Израиле</strong> по лучшей онлайн цене	(<strong style="color:red;">до 40% экономии</strong> при сравнении с заказом в отделении компании)</p> 
+		 
+	 <p class="text-left"><img style="float:left" src="../images/flashing.gif" width="20" height="20" alt="Индивидуальные экскурсии по Израилю с частным гидом" class="img-responsive"/>
+             <strong>Индивидуальные экскурсии по Израилю</strong> с частным гидом на арендованной машине - 
+             <strong style="color:red;">до 50% экономии </strong>(согласование экскурсии и оплата напрямую гиду,  <strong style="color:red;">без посредников</strong>)    
     
-    <br><img src="http://www.privateisrael.com/wp-content/uploads/2017/03/flashing.gif" alt="Отделения по аренде прокату автомобилей во всех крупных городах Израиля" width="20" height="20" />Отделения по аренде прокату автомобилей во всех крупных городах Израиля
-    <br><img src="http://www.privateisrael.com/wp-content/uploads/2017/03/flashing.gif" alt="Неограниченный километраж при заказе 3-29 дней" width="20" height="20" />Неограниченный километраж при заказе 3-29 дней
-    <br><img src="http://www.privateisrael.com/wp-content/uploads/2017/03/flashing.gif" alt="Огромные скидки при бронирование автомобиля на 30+ дней" width="20" height="20" />Огромные скидки при бронирование автомобиля на 30+ дней      
-	 <br><img src="http://www.privateisrael.com/wp-content/uploads/2017/03/flashing.gif" alt="Консультация и помощь по бронированию автомобиля в Израиле на русском языке" width="20" height="20" />Консультации и помощь по бронированию автомобиля в Израиле на русском языке.
-                
+    <p class="text-left"><img style="float:left" src="../images/flashing.gif" alt="Отделения по аренде прокату автомобилей во всех крупных городах Израиля" width="20" height="20" />
+    Отделения по аренде прокату автомобилей во всех крупных городах Израиля</p>
+    <p class="text-left"><img style="float:left" class="img-responsive" src="../images/flashing.gif" alt="Неограниченный километраж при заказе 3-29 дней" width="20" height="20" />
+    <strong>Неограниченный километраж</strong> при заказе 3-29 дней</p>
+    <p class="text-left"><img style="float:left" class="img-responsive" src="../images/flashing.gif" alt="Огромные скидки при бронирование автомобиля на 30+ дней" width="20" height="20" />
+    Огромные скидки при <strong>бронировании автомобиля на 30+</strong> дней</p>      
+	 <p class="text-left"><img style="float:left" class="img-responsive" src="../images/flashing.gif" 
+	 alt="Консультация и помощь по бронированию автомобиля в Израиле на русском языке" width="20" height="20" />
+         Консультации и помощь по бронированию автомобиля в Израиле на русском языке.</p>         
+    
+    				          
                 
 	</div>
 	
@@ -332,7 +343,10 @@
   								<label><input type="checkbox" name="childseat" value="V">Детское сидение</label>
 							</div>
 							<div class="checkbox">
-  								<label><input type="checkbox" name="tour" value="V">Хочу узнать о индивидуальных экскурсиях по Израилю</label>
+  								<label><input type="checkbox" name="tour" value="V">
+  								<img style="float:right" class="img-responsive" src="../images/flashing.gif" 
+	 alt="Хочу узнать о индивидуальных экскурсиях по Израилю" width="20" height="20" />
+	 Хочу узнать о индивидуальных экскурсиях по Израилю (согласование экскурсии и оплата напрямую гиду, без посредников)</label>
 							</div>
                     
                    <!--  <div class="g-recaptcha" data-sitekey="6LcVRQgUAAAAALqre7PqN_m3eNet_RK1XrRoj6Hz"></div> -->
@@ -369,8 +383,7 @@
                         
   </form>
                 
- <h5><a href="http://www.israeltour.online/ru/"><span><img src="http://www.privateisrael.com/wp-content/uploads/2017/03/flashing.gif" alt="лучшие цены privateisrael.com" width="40" height="40" />
- добавить индивидуальную экскурсию по Израилю с частным гидом</span></a></h5>
+ 
 
 
 	</div>
