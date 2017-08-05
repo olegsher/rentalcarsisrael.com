@@ -486,23 +486,25 @@
 
 
 <h4>Последние отзывы наших клиентов: </h4>
-<br><a href="https://www.facebook.com/pg/vastama.israel/reviews/"> <img style="float:left" class="img-responsive" src="../images/facebook-icon-small.png" alt="отзывы наших клиентов пять звезд" height="20" />
- <img src="../images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />
- <img src="../images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />
- <img src="../images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />
- <img src="../images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />
- <img src="../images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />
+<br><a href="https://www.facebook.com/pg/vastama.israel/reviews/"> 
+<img style="float:left" class="img-responsive" src="../images/facebook-icon-small.png" alt="отзывы наших клиентов пять звезд" height="20" />
+ <img src="../images/blue_star_20px.png" alt="аренда прокат атомобиля в Израиле" style="float:left" class="img-responsive" />
+ <img src="../images/blue_star_20px.png" alt="аренда прокат атомобиля в Израиле" style="float:left" class="img-responsive" />
+ <img src="../images/blue_star_20px.png" alt="аренда прокат атомобиля в Израиле" style="float:left" class="img-responsive" />
+ <img src="../images/blue_star_20px.png" alt="аренда прокат атомобиля в Израиле" style="float:left" class="img-responsive" />
+ <img src="../images/blue_star_20px.png" alt="аренда прокат атомобиля в Израиле" style="float:left" class="img-responsive" />
  
  </a> 
  March 20, 2017 
 <a href="https://www.facebook.com/sasa.sim.7315">Sasa Sim</a> Спасибо за сервис и авто. Арендовал авто в Бен Гурион, сдавал в Ашдоде. Предварительно проконсультировали на русском по всем тонкостям, авто предоставили классом выше чем заказывал, деньги списаны по договоренности. Все доступно , точно и понятно. Буду обращаться еще.
 
-<br><a href="https://www.facebook.com/pg/vastama.israel/reviews/"> <img style="float:left" class="img-responsive" src="../images/facebook-icon-small.png" alt="отзывы наших клиентов пять звезд" height="20" />
- <img src="../images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />
- <img src="../images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />
- <img src="../images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />
- <img src="../images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />
- <img src="../images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />
+<br><a href="https://www.facebook.com/pg/vastama.israel/reviews/"> 
+<img style="float:left" class="img-responsive" src="../images/facebook-icon-small.png" alt="отзывы наших клиентов пять звезд" height="20" />
+ <img src="../images/blue_star_20px.png" alt="аренда прокат атомобиля в Израиле" style="float:left" class="img-responsive" />
+ <img src="../images/blue_star_20px.png" alt="аренда прокат атомобиля в Израиле" style="float:left" class="img-responsive" />
+ <img src="../images/blue_star_20px.png" alt="аренда прокат атомобиля в Израиле" style="float:left" class="img-responsive" />
+ <img src="../images/blue_star_20px.png" alt="аренда прокат атомобиля в Израиле" style="float:left" class="img-responsive" />
+ <img src="../images/blue_star_20px.png" alt="аренда прокат атомобиля в Израиле" style="float:left" class="img-responsive" />
  </a> 
  March 16, 2017 
 <a href="https://www.facebook.com/Dmitry.Tikhonofff">Dmitry Tikhonov</a> Арендовали автомобиль через Шер Олега. В качестве бонуса "получили" отзывчивого человека, всегда готового придти на помощь и дать толковый совет. Причем, оперативно, что в чужой стране бывает актуально. Рекомендую.
@@ -522,11 +524,34 @@
 <hr />
 
 <h4>Последние заказы на сайте: </h4>
-<br><img src="../images/blue_star_20px.png" alt="заказы на сайте" /> Александр 22- 26 Марта 2017 категория Mazda3, отделение аренды проката - Тель Авив, Яркон ‎ - в прокате
-<br><img src="../images/blue_star_20px.png" alt="заказы на сайте" /> Татьяна 21- 28 Марта 2017 категория Ford Fiesta, ‎отделение аренды проката - Тель Авив, Бен Гурион - в прокате
-<br><img src="../images/blue_star_20px.png" alt="заказы на сайте" /> Лариса 22 Мая - 22 Июня 2017 категория Hy‎undai i20, отделение аренды проката - Нетания - подтверждено
-<br><img src="../images/blue_star_20px.png" alt="заказы на сайте" /> Андрей 16 - 27 Марта 2017 категория Ford Fiesta, ‎отделение аренды проката - Тель Авив, Бен Гурион - в прокате
-<br><img src="../images/blue_star_20px.png" alt="заказы на сайте" /> Александра 13 Марта - 15 Июня 2017 категория Hyundai Tucson‎, отделение аренды проката - Тель Авив, Яркон - в прокате
+<p class="text-left">
+<img src="../images/blue_star_20px.png" alt="зака на сайте аренда прокат атомобиля в Израиле" style="float:left" class="img-responsive" /> 
+Александр 5 - 19 Августа 2017 категория U(PWAR)‎, отделение аренды проката - Тель Авив, Яркон ‎ - подтвердено
+</p>
+<p class="text-left">
+<img src="../images/blue_star_20px.png" alt="зака на сайте аренда прокат атомобиля в Израиле" style="float:left" class="img-responsive" /> 
+Ирина 15 - 25 Августа 2017 категория E(CDAR), отделение аренды проката - Хайфа ‎ - подтвердено
+</p>
+<p class="text-left">
+<img src="../images/blue_star_20px.png" alt="зака на сайте аренда прокат атомобиля в Израиле" style="float:left" class="img-responsive" /> 
+Эдуард 9 - 19 Августа 2017 категория F(IDAR)‎, отделение аренды проката - Тель Авив, Яркон ‎ - подтвердено
+</p>
+<p class="text-left">
+<img src="../images/blue_star_20px.png" alt="зака на сайте аренда прокат атомобиля в Израиле" style="float:left" class="img-responsive" /> 
+Дмитрий 25 Июля - 6 Августа 2017 категория I(SDAR)‎‎, отделение аренды проката - Тель Авив, Яркон ‎ - возвращена
+</p>
+
+
+
+
+<p class="text-left">
+<img src="../images/blue_star_20px.png" alt="зака на сайте аренда прокат атомобиля в Израиле" style="float:left" class="img-responsive" /> 
+Александр 22- 26 Марта 2017 категория Mazda3, отделение аренды проката - Тель Авив, Яркон ‎ - возвращена
+</p>
+<p class="text-left"><img src="../images/blue_star_20px.png" alt="зака на сайте аренда прокат атомобиля в Израиле" style="float:left" class="img-responsive" /> Татьяна 21- 28 Марта 2017 категория Ford Fiesta, ‎отделение аренды проката - Тель Авив, Бен Гурион - возвращена</p>
+<p class="text-left"><img src="../images/blue_star_20px.png" alt="зака на сайте аренда прокат атомобиля в Израиле" style="float:left" class="img-responsive" /> Лариса 22 Мая - 22 Июня 2017 категория Hy‎undai i20, отделение аренды проката - Нетания - возвращена</p>
+<p class="text-left"><img src="../images/blue_star_20px.png" alt="зака на сайте аренда прокат атомобиля в Израиле" style="float:left" class="img-responsive" /> Андрей 16 - 27 Марта 2017 категория Ford Fiesta, ‎отделение аренды проката - Тель Авив, Бен Гурион - возвращена</p>
+<p class="text-left"><img src="../images/blue_star_20px.png" alt="зака на сайте аренда прокат атомобиля в Израиле" style="float:left" class="img-responsive" /> Александра 13 Марта - 15 Июня 2017 категория Hyundai Tucson‎, отделение аренды проката - Тель Авив, Яркон - возвращена</p>
 
 
 
