@@ -561,9 +561,9 @@
 
 
 <hr />
-<img src="../images/bullet_red_small.gif" width="16" height="16" alt="заказ на сайте аренда прокат автомобиля в Израиле" style="float:left" class="img-responsive">
-<h4>Новости компании: </h4>
-<br><img src="../images/blue_star_20px.png" alt="Новости компании - аренда прокат автомобилей в Израиле" /> Акция: аренда прокат всех категорий машин на Новогодние праздники по обычной цене (до 1 сентября)
+<img src="../images/bullet_red_small.gif" width="16" height="16" alt="Новости компании - аренда прокат автомобилей в Израиле" style="float:left" class="img-responsive">
+<h4> Новости компании: </h4>
+<p class="text-left"><img style="float:left" class="img-responsive" src="../images/blue_star_20px.png" alt="Новости компании - аренда прокат автомобилей в Израиле" /> Акция: аренда прокат всех категорий машин на Новогодние праздники по обычной цене (для бронирующих до 1 сентября)</p>
 
 
 
