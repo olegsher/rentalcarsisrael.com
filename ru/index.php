@@ -90,18 +90,20 @@ header('Location: http://www.rentalcarsisrael.com/ru/thankyou.php');
 <html lang="ru">
 <head>
 <title>Недорогая аренда прокат автомобиля в Израиле | rentalcarsisrael.com</title>
-<meta name="keywords" content="машина прокат, машина прокат Израиле, аренда машины Израиль, avto prokat, prokat mashin, auto arenda, прокат аренда машин, где можно взять машину напрокат, заказать машину, аренда иномарок, arenda avto, стоимость аренды машины, израиль прокат автомобилей, съем машины Израиле, аренда авто, прокат машины, сьем автомобиля,автомобиль,  машина Израиле, дешевый прокат автомобиля" />
-<meta  name="description"  content="аренда прокат автомобиля в Израиле, эконом класс и семейные машины, микроавтобусы и минивэны 7-8-9 мест" />
+<meta name="keywords" content="прокат авто Израиль, прокат авто Тель Авив, прокат авто Бен Гурион, прокат авто Эйлат,
+прокат авто, аренда авто, бронирование авто, прокат автомобиля, аренда автомобиля, бронирование автомобиля,
+аренда авто Израиль, аренда авто Тель Авив, аренда авто Бен Гурион, аренда авто Эйлат" />
+<meta  name="description"  content="Аренда прокат автомобиля в Израиле, Бронирование онлайн, Нет предоплаты, эконом семейные и люкс автомобили, минивэны" />
 <meta property="fb:app_id" content="1322511981092474" />
 <meta property="og:type" content="website" />
 <meta property="og:locale" content="ru_RU" />
-<meta property="og:url" content="http://www.rentalcarsisrael.com" />
+<meta property="og:url" content="http://www.rentalcarsisrael.com/ru/" />
 <meta property="og:image" content="http://www.rentalcarsisrael.com/images/thankyoucar.png"/>
 <meta property="og:image:type" content="image/png" />
 <meta property="og:image:width" content="640" />
 <meta property="og:image:height" content="320" />
-<meta property="og:title" content="Аренда прокат автомобиля в Израиле, эконом класс и семейные машины, микроавтобусы и минивэны" />
-<meta property="og:description" content="Лучшие цены, нет предоплаты, заказ онлайн, Whatsapp/Viber +972-58-7710101"/>
+<meta property="og:title" content="Аренда прокат автомобиля в Израиле, Бронирование онлайн, Нет предоплаты, эконом семейные и люкс автомобили, минивэны" />
+<meta property="og:description" content="Аренда прокат автомобиля в Израиле, Бронирование онлайн, Нет предоплаты, эконом семейные и люкс автомобили, минивэны Whatsapp/Viber +972-58-7710101"/>
 <meta name="wot-verification" content="3e0d04601064490e9042"/>
     <?php include("__header.html"); ?>
 </head>
