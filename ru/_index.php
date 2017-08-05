@@ -525,39 +525,43 @@
 
 <h4>Последние заказы на сайте: </h4>
 <p class="text-left">
-<img src="../images/blue_star_20px.png" alt="зака на сайте аренда прокат атомобиля в Израиле" style="float:left" class="img-responsive" /> 
-Александр 5 - 19 Августа 2017 категория U(PWAR)‎, отделение аренды проката - Тель Авив, Яркон ‎ - подтвердено
+<img src="../images/blue_star_20px.png" alt="заказ на сайте аренда прокат автомобиля в Израиле" style="float:left" class="img-responsive" /> 
+Александр 5 - 19 Августа 2017 категория U(PWAR)‎, <strong>отделение аренды проката авто в Тель Авив</strong>, Яркон ‎ - подтвердено
 </p>
 <p class="text-left">
-<img src="../images/blue_star_20px.png" alt="зака на сайте аренда прокат атомобиля в Израиле" style="float:left" class="img-responsive" /> 
-Ирина 15 - 25 Августа 2017 категория E(CDAR), отделение аренды проката - Хайфа ‎ - подтвердено
+<img src="../images/blue_star_20px.png" alt="заказ на сайте аренда прокат автомобиля в Израиле" style="float:left" class="img-responsive" /> 
+Ирина 15 - 25 Августа 2017 категория E(CDAR), <strong>отделение аренды проката авто в Хайфа</strong> ‎ - подтвердено
 </p>
 <p class="text-left">
-<img src="../images/blue_star_20px.png" alt="зака на сайте аренда прокат атомобиля в Израиле" style="float:left" class="img-responsive" /> 
-Эдуард 9 - 19 Августа 2017 категория F(IDAR)‎, отделение аренды проката - Тель Авив, Яркон ‎ - подтвердено
+<img src="../images/blue_star_20px.png" alt="заказ на сайте аренда прокат автомобиля в Израиле" style="float:left" class="img-responsive" /> 
+Эдуард 9 - 19 Августа 2017 категория F(IDAR)‎, <strong>отделение аренды проката авто в Тель Авив</strong>, Яркон ‎ - подтвердено
 </p>
 <p class="text-left">
-<img src="../images/blue_star_20px.png" alt="зака на сайте аренда прокат атомобиля в Израиле" style="float:left" class="img-responsive" /> 
-Дмитрий 25 Июля - 6 Августа 2017 категория I(SDAR)‎‎, отделение аренды проката - Тель Авив, Яркон ‎ - возвращена
+<img src="../images/blue_star_20px.png" alt="заказ на сайте аренда прокат автомобиля в Израиле" style="float:left" class="img-responsive" /> 
+Дмитрий 25 Июля - 6 Августа 2017 категория I(SDAR)‎‎, <strong>отделение аренды проката авто в Тель Авив</strong>, Яркон ‎ - возвращена
 </p>
 
 
 
 
 <p class="text-left">
-<img src="../images/blue_star_20px.png" alt="зака на сайте аренда прокат атомобиля в Израиле" style="float:left" class="img-responsive" /> 
-Александр 22- 26 Марта 2017 категория Mazda3, отделение аренды проката - Тель Авив, Яркон ‎ - возвращена
+<img src="../images/blue_star_20px.png" alt="заказ на сайте аренда прокат автомобиля в Израиле" style="float:left" class="img-responsive" /> 
+Александр 22- 26 Марта 2017 категория Mazda3, <strong>отделение аренды проката авто в Тель Авив</strong>, Яркон ‎ - возвращена
 </p>
-<p class="text-left"><img src="../images/blue_star_20px.png" alt="зака на сайте аренда прокат атомобиля в Израиле" style="float:left" class="img-responsive" /> Татьяна 21- 28 Марта 2017 категория Ford Fiesta, ‎отделение аренды проката - Тель Авив, Бен Гурион - возвращена</p>
-<p class="text-left"><img src="../images/blue_star_20px.png" alt="зака на сайте аренда прокат атомобиля в Израиле" style="float:left" class="img-responsive" /> Лариса 22 Мая - 22 Июня 2017 категория Hy‎undai i20, отделение аренды проката - Нетания - возвращена</p>
-<p class="text-left"><img src="../images/blue_star_20px.png" alt="зака на сайте аренда прокат атомобиля в Израиле" style="float:left" class="img-responsive" /> Андрей 16 - 27 Марта 2017 категория Ford Fiesta, ‎отделение аренды проката - Тель Авив, Бен Гурион - возвращена</p>
-<p class="text-left"><img src="../images/blue_star_20px.png" alt="зака на сайте аренда прокат атомобиля в Израиле" style="float:left" class="img-responsive" /> Александра 13 Марта - 15 Июня 2017 категория Hyundai Tucson‎, отделение аренды проката - Тель Авив, Яркон - возвращена</p>
+<p class="text-left">
+<img src="../images/blue_star_20px.png" alt="заказ на сайте аренда прокат автомобиля в Израиле" style="float:left" class="img-responsive" /> Татьяна 21- 28 Марта 2017 категория Ford Fiesta, ‎отделение аренды проката - Тель Авив, Бен Гурион - возвращена</p>
+<p class="text-left">
+<img src="../images/blue_star_20px.png" alt="заказ на сайте аренда прокат автомобиля в Израиле" style="float:left" class="img-responsive" /> Лариса 22 Мая - 22 Июня 2017 категория Hy‎undai i20, отделение аренды проката - Нетания - возвращена</p>
+<p class="text-left">
+<img src="../images/blue_star_20px.png" alt="заказ на сайте аренда прокат автомобиля в Израиле" style="float:left" class="img-responsive" /> Андрей 16 - 27 Марта 2017 категория Ford Fiesta, ‎отделение аренды проката - Тель Авив, Бен Гурион - возвращена</p>
+<p class="text-left">
+<img src="../images/blue_star_20px.png" alt="заказ на сайте аренда прокат автомобиля в Израиле" style="float:left" class="img-responsive" /> Александра 13 Марта - 15 Июня 2017 категория Hyundai Tucson‎, отделение аренды проката - Тель Авив, Яркон - возвращена</p>
 
 
 
 
 <hr />
-
+<img src="../images/bullet_red_small.gif" width="16" height="16" alt="заказ на сайте аренда прокат автомобиля в Израиле" style="float:left" class="img-responsive">
 <h4>Новости компании: </h4>
 <br><img src="../images/blue_star_20px.png" alt="Новости компании - аренда прокат автомобилей в Израиле" /> Акция: аренда прокат всех категорий машин на Новогодние праздники по обычной цене (до 1 сентября)
 
