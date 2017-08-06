@@ -2,7 +2,7 @@
 	<div class="col-md-5 bann-info1 wow fadeInLeft animated" data-wow-delay=".5s">
 <!--		<i class="fa fa-columns"></i>-->
 <i> <img src="../images/car_key_vastama.jpeg" alt="прокат аренда авто израиль" class="img-responsive" /></i>
-		<h2 class="text-left" style="color:red;">БРОНИРОВАНИЕ АВТОМОБИЛЯ В ИЗРАИЛЕ ЗА ОДИН ШАГ</h2>
+		<!--<h2 class="text-left" style="color:red;">БРОНИРОВАНИЕ АВТОМОБИЛЯ В ИЗРАИЛЕ ЗА ОДИН ШАГ</h2>-->
                 
                     
     <!-- <hr /><a  href="http://www.rentalcarsisrael.com/minivan.php">Прокат минивэнов - наш бизнес</a>
@@ -41,9 +41,9 @@
 	
 	
 	<div class="col-md-7 bann-info wow fadeInRight animated" data-wow-delay=".5s">
-		<h1>Заполните форму и получите ваучер на почту</h1>
-                <p style="color:red;" >Нет скрытых платежей, обязательные страховки включены. 
-                    <br />Нет предоплаты, нет платы за изменение или отмену заказа </p>
+		<h1>Аренда прокат автомобиля в Израиле</h1>
+                <p style="color:blue;" >Заполните форму и наш сотрудник свяжется с вами. 
+                    <br />Консультация на русском языке бесплатна и без обязательств </p>
                 <br />
                 <form id="contactform" method="post">
 		<div class="ban-top">
