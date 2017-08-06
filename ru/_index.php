@@ -409,66 +409,12 @@
     <!-- <br />Компания поставщик может изменить цены и конечной считается цена в ваучере. -->
     
     <div class="clearfix"></div>
-
-<div class="rupes">
-		<div class="col-md-4 rupes-left wow fadeInDown animated animated" data-wow-delay=".5s" style="visibility: visible; animation-delay: 0.5s; animation-name: fadeInDown;">
-			<div class="rup-left">
-				<img src="../images/creditcards.png" alt="Позвоните Vastama по аренде атомобиля в Израиле" style="float:left" class="img-responsive" />
-			</div>
-			<div class="rup-rgt">
-				<h3>Принимаем основные кредитные карты</h3>
-				<h4><a href="">Нет предоплаты, возможна оплата наличными</a></h4>
-				<p>при возврате машины</p>
-			</div>
-				<div class="clearfix"></div>
-		</div>
-		<div class="col-md-4 rupes-left wow fadeInDown animated animated" data-wow-delay=".5s" style="visibility: visible; animation-delay: 0.5s; animation-name: fadeInDown;">
-			<div class="rup-left">
-				<img src="../images/car.png" alt="Позвоните Vastama по аренде атомобиля в Израиле" style="float:left" class="img-responsive" />
-			
-			</div>
-			<div class="rup-rgt">
-				<h3>Безлимитный километраж</h3>
-				<h4><a href="">На все категории машин</a></h4>
-				<p>при заказе 3-29 дней</p>
-			</div>
-				<div class="clearfix"></div>
-		</div>
-		<div class="col-md-4 rupes-left wow fadeInDown animated animated" data-wow-delay=".5s" style="visibility: visible; animation-delay: 0.5s; animation-name: fadeInDown;">
-			<div class="rup-left">
-				<img src="../images/guide.png" alt="Позвоните Vastama по аренде атомобиля в Израиле" style="float:left" class="img-responsive" />
-			</div>
-			<div class="rup-rgt">
-				<h3><a href="http://www.israeltour.online/">Экскурсия на машине клиента всего 250$</a></h3>
-				<h4><a href="http://www.israeltour.online/">от лицензированного гида</a></h4>
-				<p>при заказе аренды машины на нашем сайте</p>
-			</div>
-				<div class="clearfix"></div>
-		</div>
-		<div class="clearfix"></div>    
-    
-    </div>
+<?php include("__banner.html"); ?>
 
 <div class="col-md-7 bann-info wow fadeInRight animated" data-wow-delay=".5s">
 <img src="../images/catJ.png" alt="машина прокат, машина прокат Израиле, аренда машины Израиль" style="float:left" class="img-responsive" />
-<!--<script type="text/javascript" src="https://zadarma.com/swfobject.js"></script>
-<script type="text/javascript">
-        var flashvars = {};
-        flashvars.phone="61919";
-        flashvars.img1="https://zadarma.com/images/but/call3_green_ru_free.png";
-        flashvars.img2="https://zadarma.com/images/but/call2_green_ru_connecting.png";
-        flashvars.img3="https://zadarma.com/images/but/call2_green_ru_reset.png";
-        flashvars.img4="https://zadarma.com/images/but/call2_green_ru_error.png";
-        var params = {};
-        params.wmode="transparent";
-        var attributes = {};
-        swfobject.embedSWF("js/pbutton.swf", "myAlternativeContent", "215", "138", "9.0.0", false, flashvars, params, attributes);
-</script>
-<div id="myAlternativeContent">
-    <a href="http://www.adobe.com/go/getflashplayer">
-        <img src="http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif" alt="Get Adobe Flash player" />
-    </a>
-</div>-->
+
+
     <br /><h2>ЕСТЬ ВОПРОСЫ ПО АРЕНДЕ?</h2>
 </div> 
 <br />Хотите уточнить нужно ли вам детское кресло?
