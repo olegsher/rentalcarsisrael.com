@@ -11,20 +11,27 @@
 <hr/>	 
 	<p class="text-left"><img style="float:left" class="img-responsive" src="../images/flashing.gif" alt="Консультация и помощь по бронированию автомобиля в Израиле на русском языке" width="20" height="20" />
     <strong>Бронирование автомобиля в Израиле</strong> по лучшей онлайн цене	(<strong style="color:red;">до 40% экономии</strong> при сравнении с заказом в отделении компании)</p> 
-		 
+
+	<p class="text-left"><img style="float:left" class="img-responsive" src="../images/flashing.gif" 
+	 alt="НЕТ предоплаты, оплата только при возвращении машины, возможно наличным" width="20" height="20" />
+         <strong style="color:red;">НЕТ предоплаты </strong>, оплата при возвращении машины, можно наличными.</p>
+    		 
+	 
 	 <p class="text-left"><img style="float:left" src="../images/flashing.gif" width="20" height="20" alt="Индивидуальные экскурсии по Израилю с частным гидом" class="img-responsive"/>
              <strong>Индивидуальные экскурсии по Израилю</strong> с частным гидом на арендованной машине - 
              <strong style="color:red;">до 50% экономии </strong>(согласование экскурсии и оплата напрямую гиду,  <strong style="color:red;">без посредников</strong>)    
     
     <p class="text-left"><img style="float:left" src="../images/flashing.gif" alt="Отделения по аренде прокату автомобилей во всех крупных городах Израиля" width="20" height="20" />
-    Отделения по аренде прокату автомобилей во всех крупных городах Израиля</p>
+    <strong>Отделения по аренде прокату</strong> автомобилей <strong>во всех крупных городах Израиля</strong></p>
     <p class="text-left"><img style="float:left" class="img-responsive" src="../images/flashing.gif" alt="Неограниченный километраж при заказе 3-29 дней" width="20" height="20" />
     <strong>Неограниченный километраж</strong> при заказе 3-29 дней</p>
     <p class="text-left"><img style="float:left" class="img-responsive" src="../images/flashing.gif" alt="Огромные скидки при бронирование автомобиля на 30+ дней" width="20" height="20" />
-    Огромные скидки при <strong>бронировании автомобиля на 30+</strong> дней</p>      
+    <strong>Огромные скидки</strong> при бронировании автомобиля на 30+ дней</p> 
+    
+           
 	 <p class="text-left"><img style="float:left" class="img-responsive" src="../images/flashing.gif" 
 	 alt="Консультация и помощь по бронированию автомобиля в Израиле на русском языке" width="20" height="20" />
-         Консультации и помощь по бронированию автомобиля в Израиле на русском языке.</p>
+         <strong>Бесплатная консультация и помощь по бронированию автомобиля в Израиле на русском языке</strong>.</p>
           
 					         
     
