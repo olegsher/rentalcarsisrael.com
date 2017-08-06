@@ -1,7 +1,7 @@
 <div class="container">
 	<div class="col-md-5 bann-info1 wow fadeInLeft animated" data-wow-delay=".5s">
 <!--		<i class="fa fa-columns"></i>-->
-<i> <img src="../images/car_key_vastama.jpeg" alt="машина прокат, машина прокат Израиле, аренда машины Израиль" class="img-responsive" /></i>
+<i> <img src="../images/car_key_vastama.jpeg" alt="прокат аренда авто израиль" class="img-responsive" /></i>
 		<h2 class="text-left" style="color:red;">БРОНИРОВАНИЕ АВТОМОБИЛЯ В ИЗРАИЛЕ ЗА ОДИН ШАГ</h2>
                 
                     
@@ -53,17 +53,17 @@
 							<option value="Category E" >Ford Fiesta(автомат) или похожая в категории E - от 27$ в сутки(франшиза - 475$)</option>
 							<option value="Category F" >Hyundai i25(автомат) или похожая в категории F - от 30$ в сутки(франшиза - 475$)</option>							
 							<option value="Category FX" >Renault Megane Coupe(автомат) или похожая в категории FX - от 31$ в сутки(франшиза - 475$)</option>
-                                                        <option value="Category I" >Mazda 3(автомат) или похожая в категории I - от 32$ сутки(франшиза - 475$)</option>
-                                                        <option value="Category IW" >Ford Focus SW(автомат) или похожая в категории IW - от 34$ сутки(франшиза - 475$)</option>
+                    <option value="Category I" >Mazda 3(автомат) или похожая в категории I - от 32$ сутки(франшиза - 475$)</option>
+                    <option value="Category IW" >Ford Focus SW(автомат) или похожая в категории IW - от 34$ сутки(франшиза - 475$)</option>
 							<option value="Category H" >Honda Civic(автомат) или похожая в категории H - от 41$ в сутки(франшиза - 715$)</option>
 							<option value="Category M" >Mazda 6(автомат) или похожая в категории M - от 47$ в сутки(франшиза - 715$)</option>
 							<option value="Category MH" >Hyundai Sonata(автомат) или похожая в категории MH - от 57$ в сутки(франшиза - 715$)</option>
 							<option value="Category T" >Fiat Doblo(механика, 5 мест) или похожая в категории T - от 60$ в сутки(франшиза - 475$)</option>
 							<option value="Category J" >Hyundai Tucson(автомат, 5 мест) или похожая в категории J - от 63$ в сутки(франшиза - 715$)</option>
 							<option value="Category U" >Opel Zafira(автомат, 7 мест) или похожая в категории U - от 60$ в сутки(франшиза - 715$)</option>
-                                                        <option value="Category V" >Mitsubishi Outlander(автомат, 7 мест) или похожая в категории V - от 77$ в сутки(франшиза - 960$)</option>
-                                                        <option value="Category V8" >Kia Carnival(автомат, 8 мест) или похожая в категории V8 - от 120$ в сутки(франшиза - 960$)</option>
-                                                        <option value="Category Y" >Citroen Jumpy(механика, 9 мест)или похожая в категории Y - от 94$ в сутки(франшиза - 960$)</option>
+                    <option value="Category V" >Mitsubishi Outlander(автомат, 7 мест) или похожая в категории V - от 77$ в сутки(франшиза - 960$)</option>
+                    <option value="Category V8" >Kia Carnival(автомат, 8 мест) или похожая в категории V8 - от 120$ в сутки(франшиза - 960$)</option>
+                    <option value="Category Y" >Citroen Jumpy(механика, 9 мест)или похожая в категории Y - от 94$ в сутки(франшиза - 960$)</option>
 							<option value="Category Z" >Ford Transit(автомат, 9 мест) или похожая в категории Z - от 131$ в сутки(франшиза - 960$)</option>
                                                         <option value="Category P" >Nissan Maxima(автомат) или похожая в категории P - от 116$ в сутки(франшиза - 960$)</option>
 							<option value="Category K" >BMW 318i(автомат) или похожая в категории K - от 84$ в сутки(франшиза - 960$)</option>
@@ -510,11 +510,11 @@
 <a href="https://www.facebook.com/Dmitry.Tikhonofff">Dmitry Tikhonov</a> Арендовали автомобиль через Шер Олега. В качестве бонуса "получили" отзывчивого человека, всегда готового придти на помощь и дать толковый совет. Причем, оперативно, что в чужой стране бывает актуально. Рекомендую.
 
 <br><a href="https://www.facebook.com/pg/vastama.israel/reviews/"> <img style="float:left" class="img-responsive" src="../images/facebook-icon-small.png" alt="отзывы наших клиентов пять звезд" height="20" />
- <img src="../images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />
- <img src="../images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />
- <img src="../images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />
- <img src="../images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />
- <img src="../images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />
+ <img src="../images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд прокат аренда авто израиль" />
+ <img src="../images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд прокат аренда авто израиль" />
+ <img src="../images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд прокат аренда авто израиль" />
+ <img src="../images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд прокат аренда авто израиль" />
+ <img src="../images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд прокат аренда авто израиль" />
  </a> 
   
 <a href="https://www.facebook.com/profile.php?id=1829188783">Ольга Рыбакова</a> Помогли арендовать автомобиль, дешевле, чем в других агентствах. Предоставили автомобиль новый и выше классом.
@@ -549,13 +549,13 @@
 Александр  категория Mazda3, <strong>отделение аренды проката авто в Тель Авив</strong>, Яркон ‎ - возвращена
 </p>
 <p class="text-left">
-<img src="../images/blue_star_20px.png" alt="заказ на сайте аренда прокат автомобиля в Израиле" style="float:left" class="img-responsive" /> Татьяна  категория Ford Fiesta, ‎отделение аренды проката - Тель Авив, Бен Гурион - возвращена</p>
+<img src="../images/blue_star_20px.png" alt="заказ на сайте прокат аренда авто израиль" style="float:left" class="img-responsive" /> Татьяна  категория Ford Fiesta, ‎отделение аренды проката - Тель Авив, Бен Гурион - возвращена</p>
 <p class="text-left">
-<img src="../images/blue_star_20px.png" alt="заказ на сайте аренда прокат автомобиля в Израиле" style="float:left" class="img-responsive" /> Лариса  категория Hy‎undai i20, отделение аренды проката - Нетания - возвращена</p>
+<img src="../images/blue_star_20px.png" alt="заказ на сайте прокат аренда авто израиль" style="float:left" class="img-responsive" /> Лариса  категория Hy‎undai i20, отделение аренды проката - Нетания - возвращена</p>
 <p class="text-left">
-<img src="../images/blue_star_20px.png" alt="заказ на сайте аренда прокат автомобиля в Израиле" style="float:left" class="img-responsive" /> Андрей  категория Ford Fiesta, ‎отделение аренды проката - Тель Авив, Бен Гурион - возвращена</p>
+<img src="../images/blue_star_20px.png" alt="заказ на сайте прокат аренда авто израиль" style="float:left" class="img-responsive" /> Андрей  категория Ford Fiesta, ‎отделение аренды проката - Тель Авив, Бен Гурион - возвращена</p>
 <p class="text-left">
-<img src="../images/blue_star_20px.png" alt="заказ на сайте аренда прокат автомобиля в Израиле" style="float:left" class="img-responsive" /> Александра  категория Hyundai Tucson‎, отделение аренды проката - Тель Авив, Яркон - возвращена</p>
+<img src="../images/blue_star_20px.png" alt="заказ на сайте прокат аренда авто израиль" style="float:left" class="img-responsive" /> Александра  категория Hyundai Tucson‎, отделение аренды проката - Тель Авив, Яркон - возвращена</p>
 
 
 
