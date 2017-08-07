@@ -54,7 +54,7 @@ header('Location: http://www.rentalcarsisrael.com');
 <!--[if IE 7 ]><body class="ie ie7"><![endif]-->
 <!--[if IE 8 ]><body class="ie ie8"><![endif]-->
 <!--[if IE 9 ]><body class="ie ie9"><![endif]-->
-<html class='no-js' lang="ru">
+<html class='no-js' lang="en">
 <head>
 	<meta charset="utf-8">
 	<meta content="width=device-width, initial-scale=1.0" name="viewport">
@@ -62,6 +62,7 @@ header('Location: http://www.rentalcarsisrael.com');
 	<title>Rent cars Israel | rentalcarsisrael.com</title>
         <meta name="keywords" content="" />
         <meta  name="description"  content="" />
+        <link rel="canonical" href="http://www.rentalcarsisrael.com/en/" />
         <meta property="fb:app_id" content="1322511981092474" />
         <meta property="og:type" content="website" />
         <meta property="og:locale" content="en" />       
@@ -74,7 +75,7 @@ header('Location: http://www.rentalcarsisrael.com');
         <meta property="og:description" content=""/>
   
 
-	<link type="image/x-icon" href="img/favicon.ico" rel="shortcut icon">
+	<link type="image/x-icon" href="../favicon.ico" rel="shortcut icon">
 	<link rel="stylesheet" href="bootstrap.min-ver.css" media="all">
 	<link rel="stylesheet" href="main.css" media="all">
 	<link rel="stylesheet" href="responsive.css" media="all">
@@ -169,7 +170,7 @@ header('Location: http://www.rentalcarsisrael.com');
 				<ul class="form-bxslider unstyled">
 					<li>
 						<div class="list-forstart fin_1">
-							<h2 class='h-Bold'>Budget cars</h2>
+							<h2 class='h-Bold'>Economy cars</h2>
 							<ul class='ul-list-slider Open-sansR'>                                                                
 								<li>Rent from 9USD/day</li>
                                                                 <li>Rent from 610USD/month</li>
@@ -188,7 +189,7 @@ header('Location: http://www.rentalcarsisrael.com');
 					</li>
 					<li>
 						<div class="list-forstart fin_1">
-							<h2 class='h-Bold'>Minivan 7+ seats</h2>
+							<h2 class='h-Bold'>People Carriers 7+ seats</h2>
 							<ul class='ul-list-slider Open-sansR'>
 								<li>Rent from 35USD/day</li>								
 								<li>Unlimited miles(3-29 days)</li>
@@ -202,7 +203,7 @@ header('Location: http://www.rentalcarsisrael.com');
 					</li>
 					<li>
 						<div class="list-forstart fin_1">
-							<h2 class='h-Bold'>Lux category</h2>
+							<h2 class='h-Bold'>Luxury cars</h2>
 							<ul class='gray-list-slider Open-sansR'>
 								<li>Rent from 65USD/day</li>								
 								<li>Unlimited miles(3-29 days)</li>
@@ -280,6 +281,9 @@ header('Location: http://www.rentalcarsisrael.com');
 
 </div>
 </section>
+
+<?php include("../rentalconditions.html"); ?>
+<?php include("../branches.html"); ?>
 
 <!--===========================-->
 <!--=========Footer============-->

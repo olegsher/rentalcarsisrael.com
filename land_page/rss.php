@@ -97,8 +97,16 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 		<!-- content-starts-here -->
 		<div class="content">
 			
-			
+		 	
 				<div class="container">
+                                    <div>
+                                         <?php include("../cnbc.html"); ?>
+                                            
+                                    </div>
+                                    <div>
+                                         <?php include("../cnbc_tech.html"); ?>
+                                            
+                                    </div>
 				<!-- slider -->
                                 <div class="col-md-4">										 
                                     <div>
@@ -107,29 +115,31 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                                 </div>
                                 <div class="col-md-4">										 
                                     <div>
-                                            <?php include("../reuters_finance.html"); ?>
+                                         <?php include("../cnbc.html"); ?>
+                                            
                                     </div>
                                 </div>
                                 <div class="col-md-4">										 
                                     <div>
-                                            <?php include("../reuters.html"); ?>
+                                            
                                     </div>
                                 </div>
                                 <div class="clearfix"></div>
+                                
                                 <hr/>
                                 <div class="col-md-4">										 
                                     <div>
-                                            <?php include("../reuters.html"); ?>
+                                            
                                     </div>
                                 </div>
                                 <div class="col-md-4">										 
                                     <div>
-                                            <?php include("../reuters.html"); ?>
+                                            
                                     </div>
                                 </div>
                                 <div class="col-md-4">										 
                                     <div>
-                                            <?php include("../reuters.html"); ?>
+                                           
                                     </div>
                                 </div>
 				
