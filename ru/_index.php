@@ -428,7 +428,7 @@
 <!--<h4> Новости компании: </h4>-->
 
 
-<table class="table table-bordered">
+<table class="table">
 <tbody>
 <tr>
 <td>
