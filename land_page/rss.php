@@ -99,7 +99,14 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 			
 		 	
 				<div class="container">
-                                    <div>
+                                    
+
+ <div>
+                                         <?php include("../livejournal"); ?>
+
+                                    </div>
+
+<div>
                                          <?php include("../cnbc.html"); ?>
                                             
                                     </div>

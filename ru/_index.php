@@ -407,6 +407,7 @@
 
     <br /><h2>ЕСТЬ ВОПРОСЫ ПО АРЕНДЕ?</h2>
 </div> 
+    
 <br />Хотите уточнить нужно ли вам детское кресло?
 <br />Какой залог будет закрыт на вашей кредитной карточке? 
 <br />Будет ли добавлен НДС к вашему заказу?
@@ -422,7 +423,10 @@
  
 <!-- <div class="fb-like" data-href="https://www.facebook.com/vastama.israel/" data-layout="standard" data-action="like" data-size="small" data-show-faces="true" data-share="true"></div> -->
 
-
+<!--<hr />
+<img src="../images/bullet_red_small.gif" width="16" height="16" alt="Новости компании - аренда прокат автомобилей в Израиле" style="float:left" class="img-responsive">-->
+<!--<h4> Новости компании: </h4>-->
+<?php include("../livejournal"); ?>
 
 
 
@@ -521,13 +525,6 @@
 <img src="../images/blue_star_20px.png" alt="заказ на сайте прокат аренда авто израиль" style="float:left" class="img-responsive" /> 
 Александра  категория Hyundai Tucson‎, <strong>отделение аренды проката - Тель Авив</strong>, Яркон - возвращена</p>
 
-
-
-
-<hr />
-<img src="../images/bullet_red_small.gif" width="16" height="16" alt="Новости компании - аренда прокат автомобилей в Израиле" style="float:left" class="img-responsive">
-<h4> Новости компании: </h4>
-<p class="text-left"><img style="float:left" class="img-responsive" src="../images/blue_star_20px.png" alt="Новости компании - аренда прокат автомобилей в Израиле" /> Акция: аренда прокат всех категорий машин на Новогодние праздники по обычной цене (для бронирующих до 1 сентября)</p>
 
 
 
