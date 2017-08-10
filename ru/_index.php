@@ -426,7 +426,22 @@
 <!--<hr />
 <img src="../images/bullet_red_small.gif" width="16" height="16" alt="Новости компании - аренда прокат автомобилей в Израиле" style="float:left" class="img-responsive">-->
 <!--<h4> Новости компании: </h4>-->
+
+
+<table class="table table-bordered">
+<tbody>
+<tr>
+<td>
 <?php include("../livejournal"); ?>
+</td>
+<td>
+<?php include("../livejournal_info"); ?>
+</td>
+</tr>
+</tbody>
+</table>
+
+
 
 
 
