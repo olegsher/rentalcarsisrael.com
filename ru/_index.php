@@ -438,11 +438,11 @@
 <?php include("../livejournal"); ?>
 
 </td>
-<td>
+<!--<td>
  <p class="text-left"><img style="float:left" src="../images/flashing.gif" alt="Отделения по аренде прокату автомобилей во всех крупных городах Израиля" width="20" height="20" />
     <strong>Полезная информация</strong></p>   
 <?php include("../livejournal_info"); ?>
-</td>
+</td>-->
 </tr>
 </tbody>
 </table>
