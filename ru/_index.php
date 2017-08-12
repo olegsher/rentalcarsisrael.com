@@ -439,7 +439,7 @@
 
 
 <h4>Последние отзывы наших клиентов: </h4>
-<br><a href="https://www.facebook.com/pg/vastama.israel/reviews/"> 
+<a href="https://www.facebook.com/pg/vastama.israel/reviews/"> 
 <img style="float:left" class="img-responsive" src="../images/facebook-icon-small.png" alt="отзывы наших клиентов пять звезд" height="20" />
  <img src="../images/blue_star_20px.png" alt="аренда прокат атомобиля в Израиле" style="float:left" class="img-responsive" />
  <img src="../images/blue_star_20px.png" alt="аренда прокат атомобиля в Израиле" style="float:left" class="img-responsive" />
