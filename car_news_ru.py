@@ -16,9 +16,9 @@ f = open('car_news', 'w')
 for item in s.split("</div>"):
    if "h6" in item:
        header = item [ item.find("h6") : ]
-       header = re.sub(r"h6 class=\"pe-title\">", "<h3>", header)
-       header = re.sub(r"</h6>", "</h3>", header)
-       header = re.sub(r"<p>", "<p> --- ", header)   
+       header = re.sub(r"h6 class=\"pe-title\">", "<strong>", header)
+       header = re.sub(r"</h6>", "</strong>", header)
+       header = re.sub(r"<p>", "<p class=\"text-left\">", header)   
        print header
        f.write(header)
 f.close()
