@@ -26,7 +26,7 @@ for item in s.split("</div>"):
        header = re.sub(r"</abbr></span></li>", "", header) 
        header = re.sub(r"a href", "a target=\"_blank\" href", header)
        header = re.sub(r"Mar. 22nd, 2016 at 2:37 PM", "<br><img src=\"http://ic.pics.livejournal.com/oleg_blogger/19601399/5596/5596_original.gif\" alt=\"\"/>", header)
-       header = re.sub(r"h2", "h3", header)
+       header = re.sub(r"h2", "h4", header)
        
         
        print header  
