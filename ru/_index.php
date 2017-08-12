@@ -1,7 +1,7 @@
 <div class="container">
 	<div class="col-md-5 bann-info1 wow fadeInLeft animated" data-wow-delay=".5s">
 <!--		<i class="fa fa-columns"></i>-->
-<i> <img src="../images/car_key_vastama.jpeg" alt="прокат аренда авто израиль" class="img-responsive" /></i>
+<i> <img src="../images/thrifty.png" alt="прокат аренда авто израиль" class="img-responsive" /></i>
 		<!--<h2 class="text-left" style="color:red;">БРОНИРОВАНИЕ АВТОМОБИЛЯ В ИЗРАИЛЕ ЗА ОДИН ШАГ</h2>-->
                 
                     
@@ -32,6 +32,7 @@
 	 <p class="text-left"><img style="float:left" class="img-responsive" src="../images/flashing.gif" 
 	 alt="Консультация и помощь по бронированию автомобиля в Израиле на русском языке" width="20" height="20" />
          <strong>Бесплатная консультация и помощь по бронированию автомобиля в Израиле на русском языке</strong>.</p>
+         
           
 					         
     
@@ -45,6 +46,7 @@
                 <p style="color:blue;" >Заполните форму и наш сотрудник свяжется с вами. 
                     <br />Консультация на русском языке бесплатна и без обязательств </p>
                 <br />
+                
                 <form id="contactform" method="post">
 		<div class="ban-top">
 			<div class="bnr-left">
@@ -405,7 +407,7 @@
 
 
 
-<div class="col-md-7 bann-info wow fadeInRight animated" data-wow-delay=".5s">
+<!--<div class="col-md-7 bann-info wow fadeInRight animated" data-wow-delay=".5s">
 <img src="../images/catJ.png" alt="машина прокат, машина прокат Израиле, аренда машины Израиль" style="float:left" class="img-responsive" />
 
 
@@ -417,12 +419,12 @@
 <br />Будет ли добавлен НДС к вашему заказу?
 <br />Эти все другие вопросы будут разрешены если вы свяжитесь с нами
  <br /><img src="../images/phone.gif" alt="Позвоните Vastama по аренде атомобиля в Израиле" /> Телефон в Израиле +972-58-7710101
-<!--  <br /><img src="../images/phone.gif" alt="Позвоните Vastama по аренде атомобиля в Израиле" /> Телефон в России 7-499-1123-995 -->
+ <br /><img src="../images/phone.gif" alt="Позвоните Vastama по аренде атомобиля в Израиле" /> Телефон в России 7-499-1123-995 
  <br /><img src="../images/whatsapp.png" alt="Позвоните Vastama по аренде атомобиля в Израиле" /> WhatsApp +972-58-7710101
  <br /><img src="../images/viber.png" alt="Позвоните Vastama по аренде атомобиля в Израиле" /> Viber +972-58-7710101
  <br /><img src="../images/mail.gif" alt="Позвоните Vastama по аренде атомобиля в Израиле" /> Почта rentcar@vastama.com
  <br />говорим по русски
- <hr />
+ <hr />-->
  
  
 <!-- <div class="fb-like" data-href="https://www.facebook.com/vastama.israel/" data-layout="standard" data-action="like" data-size="small" data-show-faces="true" data-share="true"></div> -->
@@ -436,8 +438,8 @@
 
 
 
-
-
+<hr/>
+<div class="clearfix"></div>  
 <h4>Последние отзывы наших клиентов: </h4>
 <a href="https://www.facebook.com/pg/vastama.israel/reviews/"> 
 <img style="float:left" class="img-responsive" src="../images/facebook-icon-small.png" alt="отзывы наших клиентов пять звезд" height="20" />
