@@ -399,7 +399,10 @@
 
 <div class="clearfix"></div>      
 <?php include("../livejournal"); ?>
-<div class="clearfix"></div>    
+<div class="clearfix"></div>  
+
+
+
 
 
 <div class="col-md-7 bann-info wow fadeInRight animated" data-wow-delay=".5s">
@@ -1095,5 +1098,18 @@
     <p class="text-left">* Модели автомобилей представлены исключительно для примера и при выдаче компания имеет право предоставить автомобиль того же класса, но другой марки.
     <!-- <br />Компания поставщик может изменить цены и конечной считается цена в ваучере. -->
 </div>
+
+
+<div class="clearfix"></div>
+<hr/>
+<h2>Автомобильные Новости </h2> 
+<a href="http://www.kolesa.ru/news" target="_blank">Полные новости здесь</a>
+<br/>     
+<?php include("../car_news"); ?>
+<div class="clearfix"></div>  
 </div>
 <hr />
+
+
+
+
