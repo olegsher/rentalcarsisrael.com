@@ -396,9 +396,12 @@
 
 
 	</div>
+
+<div class="clearfix"></div>      
+<?php include("../livejournal"); ?>
     
     
-    <div class="clearfix"></div>
+<div class="clearfix"></div>
 <?php include("__banner.html"); ?>
 
 <div class="col-md-7 bann-info wow fadeInRight animated" data-wow-delay=".5s">
@@ -427,26 +430,8 @@
 <img src="../images/bullet_red_small.gif" width="16" height="16" alt="Новости компании - аренда прокат автомобилей в Израиле" style="float:left" class="img-responsive">-->
 <!--<h4> Новости компании: </h4>-->
 
-<div class="table-responsive">
-<table class="table">
-<tbody>
-<tr>
-<td>
-<p class="text-left"><img style="float:left" src="../images/flashing.gif" alt="Отделения по аренде прокату автомобилей во всех крупных городах Израиля" width="20" height="20" />
-    <strong>Наши акции</strong></p>
-       
-<?php include("../livejournal"); ?>
 
-</td>
-<!--<td>
- <p class="text-left"><img style="float:left" src="../images/flashing.gif" alt="Отделения по аренде прокату автомобилей во всех крупных городах Израиля" width="20" height="20" />
-    <strong>Полезная информация</strong></p>   
-<?php include("../livejournal_info"); ?>
-</td>-->
-</tr>
-</tbody>
-</table>
-</div>
+
 
 
 

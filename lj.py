@@ -13,26 +13,23 @@ c.close()
 s = buffer.getvalue()
 f = open('livejournal', 'w')
 
-#f.write("<hr/>")
-#f.write("<h2>LiveJournal</h2><hr/>")
+
 for item in s.split("</div>"):
-   if "asset-header" in item:
-       header = item [ item.find("h2") : ]
-       htmlspaced = re.sub(r"h2", " ", header)
-       #htmlspaced = re.sub(r"<ul class=\"asset-meta-list clearfix\">", " ", header)
-       #htmlspaced = re.sub(r"</li>", "", header)       
-
-
-       htmlspaced = htmlspaced.rpartition("header2\">")[-1]
-       #htmlspaced = re.sub(r"/article", "http://www.reuters.com/article", htmlspaced)
-       #htmlspaced = re.sub(r"<hr/>>", "<hr/>", htmlspaced)
-       #f.write("<hr/>") 
+   if "</h2>" in item:
+       header = item [ item.find("asset-header-content-inner") : ]
+       header = re.sub(r"asset-header-content-inner\">", "", header)
+       header = re.sub(r"<div class=\"asset-meta asset-entry-date\">", "", header)
+       header = re.sub(r"class=\"item\"", "", header)
+       header = re.sub(r"<ul class=\"asset-meta-list clearfix\">", "", header)
+       header = re.sub(r"<li ><span><abbr class=\"datetime\">", "", header)
+       header = re.sub(r"</ul>", "", header) 
+       header = re.sub(r"</abbr></span></li>", "", header) 
+       header = re.sub(r"a href", "a target=\"_blank\" href", header)
+       header = re.sub(r"Mar. 22nd, 2016 at 2:37 PM", "<br><img src=\"http://ic.pics.livejournal.com/oleg_blogger/19601399/5596/5596_original.gif\" alt=\"\"/>", header)
+       header = re.sub(r"h2", "h3", header)
        
-       print htmlspaced       
-       f.write(htmlspaced)
-
-
-
-
+        
+       print header  
+       f.write(header)
 f.close()
 
