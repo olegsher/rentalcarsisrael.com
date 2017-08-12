@@ -399,10 +399,8 @@
 
 <div class="clearfix"></div>      
 <?php include("../livejournal"); ?>
-    
-    
-<!--<div class="clearfix"></div>
-<?php include("__banner.html"); ?>-->
+<div class="clearfix"></div>    
+
 
 <div class="col-md-7 bann-info wow fadeInRight animated" data-wow-delay=".5s">
 <img src="../images/catJ.png" alt="машина прокат, машина прокат Израиле, аренда машины Израиль" style="float:left" class="img-responsive" />
