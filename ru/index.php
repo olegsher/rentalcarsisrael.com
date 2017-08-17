@@ -116,7 +116,7 @@ header('Location: http://www.rentalcarsisrael.com/ru/thankyou.php');
 <?php include("_index.php"); ?>
 <?php include("__footer.html"); ?>
 
-<script async type="text/javascript">
+<script type="text/javascript">
 var ZCallbackWidgetLinkId  = '86c302f105eb53a8f2c43e54f6be69ad';
 var ZCallbackWidgetDomain  = 'my.zadarma.com';
 (function(){
