@@ -3,7 +3,18 @@ RewriteEngine on
 rewritecond %{http_host} ^rentalcarsisrael.com [nc]
 rewriterule ^(.*)$ http://www.rentalcarsisrael.com/$1 [r=301,nc]
 
-Redirect /index.php http://www.rentalcarsisrael.com/en/
+RewriteCond %{HTTP:Accept-Language} ^en [NC]
+RewriteRule ^$ http://www.rentalcarsisrael.com/en/ [L,R=301]
+
+RewriteCond %{HTTP:Accept-Language} ^ru [NC]
+RewriteRule ^$ http://www.rentalcarsisrael.com/ru/ [L,R=301]
+
+
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-l
+
+RewriteRule ^(en|ru)/?$ index.php?lang=$1 [QSA,NC,L]
 
 
 # Enable GZIP
