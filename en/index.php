@@ -96,6 +96,9 @@ header('Location: http://www.rentalcarsisrael.com');
 
 
 <link rel="shortcut icon" href="../favicon.ico">
+<meta name="wot-verification" content="3e0d04601064490e9042"/>
+<link rel="canonical" href="http://www.rentalcarsisrael.com/en/index.php" />
+<link rel="alternate" hreflang="ru" href="http://www.rentalcarsisrael.com/ru/" />
 </head>
 <body>
     <?php include("../seo_stat"); ?>

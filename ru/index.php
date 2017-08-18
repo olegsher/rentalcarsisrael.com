@@ -106,6 +106,7 @@ header('Location: http://www.rentalcarsisrael.com/ru/thankyou.php');
 <meta property="og:description" content="Недорогая прокат аренда авто в Израиле, Бронирование онлайн, Нет предоплаты, эконом семейные и люкс автомобили, минивэны Whatsapp/Viber +972-58-7710101"/>
 <meta name="wot-verification" content="3e0d04601064490e9042"/>
 <link rel="canonical" href="http://www.rentalcarsisrael.com/ru/index.php" />
+<link rel="alternate" hreflang="en" href="http://www.rentalcarsisrael.com/en/" />   
     <?php include("__header.html"); ?>
 </head>
 <body>
