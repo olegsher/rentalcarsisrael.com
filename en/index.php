@@ -149,8 +149,8 @@ header('Location: http://www.rentalcarsisrael.com');
 			</h1>
 		</div>
 		<div class="logo pull-right">
-			<a href="http://www.rentalcarsisrael.com/ru" class='pull-right'>
-				<img src="../images/ru.png" width="20" height="20" alt="Tel Aviv Israel airport rental car">
+			<a href="http://www.rentalcarsisrael.com/ru/index.php" class='pull-right'>
+				<img src="../images/ru.png" width="20" height="20" alt="Russian lang site">
 			Сайт на русском</a>
 			<h1 class="description-logo">
 				
