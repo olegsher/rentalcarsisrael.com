@@ -1104,7 +1104,7 @@
 <div class="clearfix"></div>
 <hr/>
 <h2>Автомобильные Новости </h2> 
-<a href="http://www.kolesa.ru/news" target="_blank">Полные новости здесь</a>
+<a href="http://www.kolesa.ru/news" rel="nofollow" target="_blank">Полные новости здесь</a>
 <br/>     
 <?php include("../car_news"); ?>
 <div class="clearfix"></div>  
