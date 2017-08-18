@@ -7,12 +7,12 @@
 <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
 <url>
-  <loc>http://www.rentalcarsisrael.com/en/</loc>
+  <loc>http://www.rentalcarsisrael.com/</loc>
   <changefreq>daily</changefreq>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>http://www.rentalcarsisrael.com/ru/</loc>
+  <loc>http://www.rentalcarsisrael.com/ru/index.php</loc>
   <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
