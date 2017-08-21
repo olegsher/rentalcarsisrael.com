@@ -401,7 +401,12 @@
 
 <div class="clearfix"></div>      
 <?php include("../livejournal"); ?>
-<div class="clearfix"></div>  
+<div class="clearfix"></div> 
+
+
+<div class="clearfix"></div>      
+<?php include("tours_ad.html"); ?>
+<div class="clearfix"></div>
 
 
 
