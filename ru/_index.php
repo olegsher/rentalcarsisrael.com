@@ -3,7 +3,7 @@
 <!--		<i class="fa fa-columns"></i>-->
 <i> 
 
-<img src="../images/europcar.jpg" alt="прокат аренда авто израиль" class="img-responsive" />
+<img src="../images/europcar_W.jpg" alt="прокат аренда авто израиль" class="img-responsive" />
 <!--<img src="../images/thrifty.png" alt="прокат аренда авто израиль" class="img-responsive" />-->
 </i>
 		<!--<h2 class="text-left" style="color:red;">БРОНИРОВАНИЕ АВТОМОБИЛЯ В ИЗРАИЛЕ ЗА ОДИН ШАГ</h2>-->
