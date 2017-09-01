@@ -1,7 +1,11 @@
 <div class="container">
 	<div class="col-md-5 bann-info1 wow fadeInLeft animated" data-wow-delay=".5s">
 <!--		<i class="fa fa-columns"></i>-->
-<i> <img src="../images/thrifty.png" alt="прокат аренда авто израиль" class="img-responsive" /></i>
+<i> 
+
+<img src="../images/europcar.jpg" alt="прокат аренда авто израиль" class="img-responsive" />
+<!--<img src="../images/thrifty.png" alt="прокат аренда авто израиль" class="img-responsive" />-->
+</i>
 		<!--<h2 class="text-left" style="color:red;">БРОНИРОВАНИЕ АВТОМОБИЛЯ В ИЗРАИЛЕ ЗА ОДИН ШАГ</h2>-->
                 
                     
@@ -1095,7 +1099,7 @@
 
 <hr />
     <hr/>
-    <p class="text-left">* Указанные цены соответствуют прейскуранту дилера компаний Thrifty/Dollar/Albar для обычного сезона и значительно отличаются от расценок на сайте\отделении компании </p>
+    <p class="text-left">* Указанные цены соответствуют прейскуранту дилера компаний EuropCar/Albar для обычного сезона и значительно отличаются от расценок на сайте\отделении компании </p>
     <p class="text-left">* Указанные цены ВКЛЮЧАЮТ обязательные страховки </p>
     <p class="text-left">* Указанные цены НЕ включают НДС (от НДС освобождены только туристы имеющие в пасторте визу В2\В3 - обязательно предоставить при получении машины) </p>
     <p class="text-left">* Часы работы отделений - <a href="benGurion.php">Аэропорт Бен Гурион</a> 24\7, остальные отделения 8-18, пятница 8-13  </p>
