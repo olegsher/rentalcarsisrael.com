@@ -78,7 +78,7 @@
                     <option value="Category V8" >Kia Carnival(автомат, 8 мест) или похожая в категории V8 - от 120$ в сутки(франшиза - 960$)</option>
                     <option value="Category Y" >Citroen Jumpy(механика, 9 мест)или похожая в категории Y - от 94$ в сутки(франшиза - 960$)</option>
 							<option value="Category Z" >Ford Transit(автомат, 9 мест) или похожая в категории Z - от 131$ в сутки(франшиза - 960$)</option>
-                                                        <option value="Category P" >Nissan Maxima(автомат) или похожая в категории P - от 116$ в сутки(франшиза - 960$)</option>
+                    <option value="Category P" >Nissan Maxima(автомат) или похожая в категории P - от 116$ в сутки(франшиза - 960$)</option>
 							<option value="Category K" >BMW 318i(автомат) или похожая в категории K - от 84$ в сутки(франшиза - 960$)</option>
 							<option value="Category W" >Audi A6(автомат) или похожая в категории W - от 155$ в сутки(франшиза - 960$)</option>
 							<option value="Category O" >Ford Edge(автомат) или похожая в категории O - от 174$ в сутки(франшиза - 960$)</option>
