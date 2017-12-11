@@ -32,7 +32,7 @@
 
 <div class="col-md-5 bann-info1 wow fadeInLeft animated" data-wow-delay=".5s">
 <!--		<i class="fa fa-columns"></i>-->
-<i> <img src="../images/thrifty.png" alt="прокат аренда авто израиль" class="img-responsive" /></i>
+<i> <img src="../images/europcar_W.jpg" alt="прокат аренда авто израиль" class="img-responsive" /></i>
 		<!--<h2 class="text-left" style="color:red;">БРОНИРОВАНИЕ АВТОМОБИЛЯ В ИЗРАИЛЕ ЗА ОДИН ШАГ</h2>-->
                 
                     
