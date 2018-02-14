@@ -396,12 +396,14 @@
                         
 
                         
-  </form>
-                
- 
-
-
+  </form> 
 	</div>
+    
+    <div>
+    <hr/>
+    <strong style="color:red;">Уже получили предложение от другой компании? Не беда, оставьте свои данные и наш сотрудник подберет Вам гораздо лучший вариант</strong>
+    <hr/>
+    </div>
 
 <div class="clearfix"></div>      
 <?php include("../livejournal"); ?>
