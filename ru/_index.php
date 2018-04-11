@@ -396,12 +396,19 @@
                         
 
                         
-  </form>
-                
- 
-
-
+  </form> 
 	</div>
+    
+    <div>
+    
+    <hr/>
+    <img style="float:left" class="img-responsive" src="../images/flashing.gif" 
+     alt="Хочу узнать о индивидуальных экскурсиях по Израилю" width="20" height="20" />
+    <strong style="color:red">Уже получили предложение от другой компании? Не беда, оставьте свои данные и наш сотрудник подберет Вам гораздо лучший вариант</strong>
+    <img style="float:right" class="img-responsive" src="../images/flashing.gif" 
+     alt="Хочу узнать о индивидуальных экскурсиях по Израилю" width="20" height="20" />
+    <hr/>    
+    </div>
 
 <div class="clearfix"></div>      
 <?php include("../livejournal"); ?>
