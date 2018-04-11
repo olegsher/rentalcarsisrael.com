@@ -194,7 +194,9 @@ span.price:after {
                     <br>Unlimited miles (for rent 3-29 days)
                     <br>24h Roadside Assistance
                     </h3>-->
-                  
+                  Free Cancellation
+                  <br>Unlimited Miles
+                  <br>Reserve Now - Pay on return
                 
                 <br><h4>Fill the form and our representative will contact you</h4>
                 <form action="#" method="post" name="car-select-form" id="car-select-form">
