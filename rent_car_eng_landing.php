@@ -174,40 +174,41 @@ span.price:after {
             
             
         <div class="container-fluid">
-              <h1>Ford Focus SW from 20$/day</h1>
+              <!--<h1>Seat Leon SW or Similar from 20$/day</h1>-->
               <div class="row">
                 <div class="col-sm-6 biseller-column" >
-                  <a href="single.html">	
-                    <img src="dev/images/iw.png" alt="Ford Focus SW or Similar" class="img-responsive"/>
+                  <a href="">	
+                  
+                  
+                    <img src="images/seat-leon.png" alt="Seat Leon SW or Similar" class="img-responsive"/>
                     <span class="price">Starting &#36;20</span>
                   </a>
-                </div>
+               
+                 </div>
                 <div class="col-sm-6 ad-info">
                   <h2>Rental Car Category: IW(IWAR) 
-                      <br>Ford Focus SW or Similar<br>Automatic, SW</h2>
-                    <h3>
-                    Rate:
-                    <br>20$/Day, 126$/Week, 820$/Month                                                                                        
-                    <br>Unlimited km (3-29 days)
-                    </h3>
-                  <br>Available for rent in following branches in Israel: 
-                  <br>Ben Gurion Int'l Airport, Tel Aviv, Eilat, Jerusalem, Kfar Saba, Natanya, Ashdod, Bnei Brak, 
-                            Rehovot, Herzliya, Petach Tikva, Holon, Rishon LeTsiyon
+                      <br>Seat Leon SW or Similar(Automatic)</h2>
+                   <!-- <h3>
+                   
+                    <br>No credit card fees, No amendment fees                                                                                      
+                    <br>Unlimited miles (for rent 3-29 days)
+                    <br>24h Roadside Assistance
+                    </h3>-->
+                  
                 
-                
-                <br><h4>Fill the form and our representative will contact you soon</h4>
+                <br><h4>Fill the form and our representative will contact you</h4>
                 <form action="#" method="post" name="car-select-form" id="car-select-form">
                     
-                    <input type="text" name="First_name" required class="form-control" placeholder="First and Last Name">  
-<!--                     <input type="text" name="Last_name" required class="form-control" placeholder="Last Name">  -->
+                    <input type="text" name="First_name" required class="form-control" placeholder="Name">  
                     <input type="email" name="email" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,3}$" required id="email" class="form-control" placeholder="Email address">  
                       <input type="text" name="phone" required class="form-control" placeholder="Phone/WhatsApp/Viber" >  
-                      <input type="text" name="message" class="form-control" placeholder="message">      
+                      <input type="text" name="message" class="form-control" placeholder="Message">      
                     <div class="clearfix"></div>
                     <input type="submit" class="submit" name="submit" value="Send Form" id="checkoutModalLabel">
                   </form>           
-                
-                
+                <hr/>					
+					<img src="images/ipad.png" alt="Ford Focus SW or Similar" class="img-responsive"/ width='20%' align="left">                
+                Ask our representative for new Navigation System/GPS: $18.00 per day - Includes Unlimited Data, VOIP Calls & Wifi Hotspot!
                 
                 </div>
               </div>
