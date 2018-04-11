@@ -12,24 +12,24 @@ if(isset($_POST['submit'])){
     $headers .= "Content-Type: text/html; charset=utf-8\r\n";
     
     
-    $subject = $_POST['First_name'] . " " . $_POST['car-select'] . " " . "rentalcarsisrael.com";    
+    $subject = $_POST['First_name'] . " " . $_POST['car-select'] . " " . "rentalcarsisrael.com/en/";    
             $message = '<html lang="en"><body>';
             $message .= '<hr />';
-            $message .= 'Rental car Israel http://www.rentalcarsisrael.com +972-58-7710101';
+            $message .= 'Rental car Israel http://www.rentalcarsisrael.com/en/ +972-58-7710101';
             $message .= '<hr />';
 $message .= '<img src="http://www.rentalcarsisrael.com/images/europcar.jpg" alt="Rental car Israel +972-58-7710101" />';
 $message .= '<table rules="all" style="border-color: #666;" cellpadding="10">';
-$message .= "<tr style='background: #eee;'><td><strong>First Name:</strong> </td><td>" . strip_tags($_POST['First_name']) . "</td></tr>";
+$message .= "<tr style='background: #eee;'><td><strong>Name:</strong> </td><td>" . strip_tags($_POST['First_name']) . "</td></tr>";
 $message .= "<tr><td><strong>Email:</strong> </td><td>" . strip_tags($_POST['email']) . "</td></tr>";
 $message .= "<tr><td><strong>Phone:</strong> </td><td>" . strip_tags($_POST['phone']) . "</td></tr>";
-$message .= "<tr><td><strong>message:</strong> </td><td>" . strip_tags($_POST['message']) . "</td></tr>";
+$message .= "<tr><td><strong>Message:</strong> </td><td>" . strip_tags($_POST['message']) . "</td></tr>";
 $message .= "</table>";
 $message .= "</body></html>";
 
 
      mail($to,$subject,$message,$headers);
     
-    $subject2 = "Rent car in Israel http://www.rentalcarsisrael.com +972-58-7710101";
+    $subject2 = "Rent car in Israel http://www.rentalcarsisrael.com/en/ +972-58-7710101";
     $headers2 = "From: " . strip_tags($reqemail) . "\r\n";
     $headers2 .= "Reply-To: ". strip_tags($reqemail) . "\r\n";
     $headers .= "CC: office@vastama.com\r\n";
@@ -174,13 +174,13 @@ span.price:after {
             
             
         <div class="container-fluid">
-              <!--<h1>Seat Leon SW or Similar from 20$/day</h1>-->
+              <h1 align="center">Hire Station Wagon car in Israel from 20$/day</h1>
               <div class="row">
                 <div class="col-sm-6 biseller-column" >
                   <a href="">	
                   
                   
-                    <img src="images/seat-leon.png" alt="Seat Leon SW or Similar" class="img-responsive"/>
+                    <img src="images/seat-leon.png" alt="Hire Station Wagon car in Israel from 20$/day" class="img-responsive"/>
                     <span class="price">Starting &#36;20</span>
                   </a>
                
