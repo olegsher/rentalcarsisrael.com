@@ -249,7 +249,7 @@ header('Location: http://www.rentalcarsisrael.com');
 							<input type="text" class="form-control" name="input_name[1]" placeholder='Enter your mail' value="" data-required data-pattern="^[-a-z0-9!#$%&'*+/=?^_`{|}~]+(\.[-a-z0-9!#$%&'*+/=?^_`{|}~]+)*@([a-z0-9]([-a-z0-9]{0,61}[a-z0-9])?\.)*(aero|arpa|asia|biz|cat|com|coop|edu|gov|info|int|jobs|mil|mobi|museum|name|net|org|pro|tel|travel|[a-z][a-z])$">
 						</div>-->
 						<div class='control-group'>
-							<input type="text" class="form-control" name="phone" placeholder='Phone\WhatsApp\Viber include contry code' value="" data-required data-pattern="^[0-9]+$">
+							<input type="text" class="form-control" name="phone" placeholder='Phone\WhatsApp\Viber include country code' value="" data-required data-pattern="^[0-9]+$">
 							
 						</div>
 
