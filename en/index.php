@@ -19,7 +19,7 @@ if(isset($_POST['submit'])){
     $subject = $_POST['First_name'] . " " . $_POST['car-select'] . " " . "rentalcarsisrael.com";    
             $message = '<html lang="en"><body>';
             $message .= '<hr />';
-            $message .= 'Rental cars Israel http://www.rentalcarsisrael.com +972-58-7710101';
+            $message .= 'RentalCarsIsrael http://www.rentalcarsisrael.com +972-58-7710101';
             $message .= '<hr />';
 $message .= '<img src="http://www.rentalcarsisrael.com/test_lp/logo.png" alt="Rental cars Israel +972-58-7710101" />';
 $message .= '<table rules="all" style="border-color: #666;" cellpadding="10">';
@@ -34,7 +34,7 @@ $message .= "</body></html>";
 
      mail($to,$subject,$message,$headers);
     
-    $subject2 = "Rent car in Israel http://www.rentalcarsisrael.com +972-58-7710101";
+    $subject2 = "Rent Car in Israel http://www.rentalcarsisrael.com +972-58-7710101";
     $headers2 = "From: " . strip_tags($reqemail) . "\r\n";
     $headers2 .= "Reply-To: ". strip_tags($reqemail) . "\r\n";
     $headers .= "CC: office@vastama.com\r\n";
@@ -176,10 +176,10 @@ header('Location: http://www.rentalcarsisrael.com');
 							<h2 class='h-Bold'>Economy cars</h2>
 							<ul class='ul-list-slider Open-sansR'>                                                                
 								<li>Rent from 9USD/day</li>
-                                                                <li>Rent from 610USD/month</li>
+                                <li>Rent from 610USD/month</li>
 								<li>Unlimited miles(3-29 days)</li>
 								<li>No credit card fees, No amendment fees</li>
-                                                                <li>24h Roadside Assistance</li>
+                                <li>24h Roadside Assistance</li>
                                                                 
                                                                 
                                                                 
@@ -249,7 +249,8 @@ header('Location: http://www.rentalcarsisrael.com');
 							<input type="text" class="form-control" name="input_name[1]" placeholder='Enter your mail' value="" data-required data-pattern="^[-a-z0-9!#$%&'*+/=?^_`{|}~]+(\.[-a-z0-9!#$%&'*+/=?^_`{|}~]+)*@([a-z0-9]([-a-z0-9]{0,61}[a-z0-9])?\.)*(aero|arpa|asia|biz|cat|com|coop|edu|gov|info|int|jobs|mil|mobi|museum|name|net|org|pro|tel|travel|[a-z][a-z])$">
 						</div>-->
 						<div class='control-group'>
-							<input type="text" class="form-control" name="phone" placeholder='Phone\WhatsApp\Viber' value="" data-required data-pattern="^[0-9]+$">
+							<input type="text" class="form-control" name="phone" placeholder='Phone\WhatsApp\Viber include contry code' value="" data-required data-pattern="^[0-9]+$">
+							
 						</div>
 
 
