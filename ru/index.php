@@ -93,7 +93,9 @@ header('Location: http://www.rentalcarsisrael.com/ru/thankyou.php');
 <meta name="keywords" content="прокат аренда авто израиль, прокат авто Израиль, прокат авто Тель Авив, прокат авто Бен Гурион, прокат авто Эйлат,
 прокат авто, аренда авто, бронирование авто, прокат автомобиля, аренда автомобиля, бронирование автомобиля,
 аренда авто Израиль, аренда авто Тель Авив, аренда авто Бен Гурион, аренда авто Эйлат" />
-<meta name="description"  content="Недорогая прокат аренда авто в Израиле, Бронирование онлайн, Нет предоплаты, эконом семейные и люкс автомобили, минивэны" />
+<!-- <meta name="description"  content="Недорогая прокат аренда авто в Израиле, Бронирование онлайн, Нет предоплаты, эконом семейные и люкс автомобили, минивэны" /> -->
+
+<meta name="description" content="Недорогая прокат аренда авто в Израиле, Бронирование онлайн, Нет предоплаты, эконом семейные и люкс автомобили, минивэны" />
 <meta property="fb:app_id" content="1322511981092474" />
 <meta property="og:type" content="website" />
 <meta property="og:locale" content="ru_RU" />
@@ -106,7 +108,7 @@ header('Location: http://www.rentalcarsisrael.com/ru/thankyou.php');
 <meta property="og:description" content="Недорогая прокат аренда авто в Израиле, Бронирование онлайн, Нет предоплаты, эконом семейные и люкс автомобили, минивэны Whatsapp/Viber +972-58-7710101"/>
 <meta name="wot-verification" content="3e0d04601064490e9042"/>
 <link rel="canonical" href="http://www.rentalcarsisrael.com/ru/index.php" />
-<link rel="alternate" hreflang="en" href="http://www.rentalcarsisrael.com/en/" />   
+<!-- <link rel="alternate" hreflang="en" href="http://www.rentalcarsisrael.com/en/" />    -->
     <?php include("__header.html"); ?>
 </head>
 <body>
