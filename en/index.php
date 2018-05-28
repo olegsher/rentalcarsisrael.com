@@ -60,8 +60,8 @@ header('Location: http://www.rentalcarsisrael.com');
 	<meta content="width=device-width, initial-scale=1.0" name="viewport">
 	
 	<title>Rent cars Israel | rentalcarsisrael.com</title>
-        <meta name="keywords" content="" />
-        <meta  name="description"  content="" />
+        <meta name="keywords" content="car hire, cheap car hire, rent a car, car rentals, cheap car rentals, cheap car rental, carrentals, rent car, car hire comparison, carrental, carhire, compare car hire, car rental comparison, rentalcarsisrael, rental cars" />
+        <meta name="description" content="Car hire deals and the cheapest prices in Israel. Book online today with the Israel's online car rental service. Great saving on minivan, luxury, economy and family car hire."/>
         <link rel="canonical" href="http://www.rentalcarsisrael.com/en/" />
         <meta property="fb:app_id" content="1322511981092474" />
         <meta property="og:type" content="website" />
