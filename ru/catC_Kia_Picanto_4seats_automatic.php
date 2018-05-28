@@ -63,17 +63,15 @@ and open the template in the editor.
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>аренда прокат Kia Picanto в Израиле | rentalcarsisrael.com</title>
-<meta name="keywords" content="машина прокат, машина прокат Израиле, аренда машины Израиль, avto prokat, prokat mashin, auto arenda, прокат аренда машин, где можно взять машину напрокат, заказать машину, аренда иномарок, 
-      arenda avto, стоимость аренды машины, 
-      израиль прокат автомобилей, съем машины Израиле, аренда авто, прокат машины, 
-      сьем автомобиля,автомобиль,  машина Израиле, дешевый прокат автомобиля" />
-        <meta  name="description"  content="Прокат автомобиля в Израиле, пассажирский микроавтобус и минивэн 9 мест, 
-              автоматическая коробка передач начиная с 25$" />
+        <meta name="keywords" content="машина прокат, машина прокат Израиле, аренда машины Израиль, avto prokat, prokat mashin, auto arenda, прокат аренда машин, где можно взять машину напрокат, заказать машину, аренда иномарок, 
+      arenda avto, стоимость аренды машины, израиль прокат автомобилей, съем машины Израиле, аренда авто, прокат машины, сьем автомобиля,автомобиль,  машина Израиле, дешевый прокат автомобиля" />
+        <meta  name="description"  content="аренда прокат Kia Picanto в Израиле, аренда прокат автомобиля в Израиле, эконом класс и семейные машины, микроавтобусы и минивэны 7-8-9 мест" />
         <meta property="fb:app_id" content="1322511981092474" />
         <meta property="og:type" content="website" />
         <meta property="og:locale" content="ru_RU" />       
         <meta property="og:url" content="http://www.rentalcarsisrael.com/ru/catC_Kia_Picanto_4seats_automatic.php" />
-        <meta property="og:image" content="http://www.rentalcarsisrael.com/images/car_key_vastama.jpeg"/><meta property="og:image:type" content="image/png" />
+        <meta property="og:image" content="http://www.rentalcarsisrael.com/images/car_key_vastama.jpeg"/>
+        <meta property="og:image:type" content="image/png" />
         <meta property="og:image:width" content="640" />
         <meta property="og:image:height" content="320" />
         <meta property="og:title" content="Прокат автомобиля в Израиле, пассажирский микроавтобус и минивэн 9 мест, 

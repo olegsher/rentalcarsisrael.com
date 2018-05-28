@@ -64,11 +64,8 @@ and open the template in the editor.
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>аренда прокат Peugeot 107 в Израиле | rentalcarsisrael.com</title>
 <meta name="keywords" content="машина прокат, машина прокат Израиле, аренда машины Израиль, avto prokat, prokat mashin, auto arenda, прокат аренда машин, где можно взять машину напрокат, заказать машину, аренда иномарок, 
-      arenda avto, стоимость аренды машины, 
-      израиль прокат автомобилей, съем машины Израиле, аренда авто, прокат машины, 
-      сьем автомобиля,автомобиль,  машина Израиле, дешевый прокат автомобиля" />
-        <meta  name="description"  content="Прокат автомобиля в Израиле, пассажирский микроавтобус и минивэн 9 мест, 
-              автоматическая коробка передач начиная с 25$" />
+      arenda avto, стоимость аренды машины, израиль прокат автомобилей, съем машины Израиле, аренда авто, прокат машины, сьем автомобиля,автомобиль,  машина Израиле, дешевый прокат автомобиля" />
+        <meta  name="description"  content="аренда прокат Peugeot 107 в Израиле, аренда прокат автомобиля в Израиле, эконом класс и семейные машины, микроавтобусы и минивэны 7-8-9 мест | rentalcarsisrael.com" />
         <meta property="fb:app_id" content="1322511981092474" />
         <meta property="og:type" content="website" />
         <meta property="og:locale" content="ru_RU" />       
