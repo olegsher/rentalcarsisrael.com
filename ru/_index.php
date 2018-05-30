@@ -51,7 +51,7 @@
                     <br />Консультация на русском языке бесплатна и без обязательств </p>
                 <br />
                 
-                <form id="contactform" method="post">
+                <form action="send_mail.php" id="contactform" method="post">
 		<div class="ban-top">
 			<div class="bnr-left">
 				<label  for="car-select">Выбирайте класс автомобиля</label>
