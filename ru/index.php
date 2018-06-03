@@ -16,7 +16,7 @@
 <meta property="og:title" content="Недорогая прокат аренда авто в Израиле, Бронирование онлайн, Нет предоплаты, эконом семейные и люкс автомобили, минивэны" />
 <meta property="og:description" content="Недорогая прокат аренда авто в Израиле, Бронирование онлайн, Нет предоплаты, эконом семейные и люкс автомобили, минивэны Whatsapp/Viber +972-58-7710101"/>
 <meta name="wot-verification" content="3e0d04601064490e9042"/>
-<!-- <link rel="canonical" href="http://www.rentalcarsisrael.com/ru/index.php" /> -->
+<link rel="canonical" href="http://www.rentalcarsisrael.com/ru/" /> 
 <meta name="description" content="RentalCarsIsrael.com Недорогая прокат аренда автомобиля в Израиле, бронирование онлайн, нет предоплаты, безлимитный километраж, нет скрытых платежей, говорим по русски, отделения в Бен Гурион, Тель Авив, Хайфа, Эйлат, Нетания, Ашдод, эконом семейные и люкс автомобили, минивэны" />
 <!-- <link rel="alternate" hreflang="en" href="http://www.rentalcarsisrael.com/en/" />    -->
     <?php include("__header.html"); ?>
