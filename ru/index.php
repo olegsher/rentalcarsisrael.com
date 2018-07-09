@@ -20,6 +20,8 @@
 <meta name="description" content="RentalCarsIsrael.com Недорогая прокат аренда автомобиля в Израиле, бронирование онлайн, нет предоплаты, безлимитный километраж, нет скрытых платежей, говорим по русски, отделения в Бен Гурион, Тель Авив, Хайфа, Эйлат, Нетания, Ашдод, эконом семейные и люкс автомобили, минивэны" />
 <!-- <link rel="alternate" hreflang="en" href="http://www.rentalcarsisrael.com/en/" />    -->
     <?php include("__header.html"); ?>
+    <script src='https://www.google.com/recaptcha/api.js?render=6LcnE2MUAAAAAFU0xgg2wTQsbm6pYhdDYHH2g65h'></script>
+    
 </head>
 <body>
 
