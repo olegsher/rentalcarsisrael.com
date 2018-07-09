@@ -364,7 +364,7 @@
 	 Хочу узнать о индивидуальных экскурсиях по Израилю (согласование экскурсии и оплата напрямую гиду, без посредников)</label>
 							</div>
                     
-                   <!--  <div class="g-recaptcha" data-sitekey="6LcVRQgUAAAAALqre7PqN_m3eNet_RK1XrRoj6Hz"></div> -->
+                    <div class="g-recaptcha" data-sitekey="6LcVRQgUAAAAALqre7PqN_m3eNet_RK1XrRoj6Hz"></div> 
                     
                     
 							
