@@ -99,6 +99,7 @@ header('Location: http://www.rentalcarsisrael.com');
 <meta name="wot-verification" content="3e0d04601064490e9042"/>
 <link rel="canonical" href="http://www.rentalcarsisrael.com/en/index.php" />
 <link rel="alternate" hreflang="ru" href="http://www.rentalcarsisrael.com/ru/" />
+<script src='https://www.google.com/recaptcha/api.js?render=6LcnE2MUAAAAAFU0xgg2wTQsbm6pYhdDYHH2g65h'></script>
 </head>
 <body>
     <?php include("../seo_stat"); ?>
@@ -252,7 +253,14 @@ header('Location: http://www.rentalcarsisrael.com');
 							<input type="text" class="form-control" name="phone" placeholder='Phone\WhatsApp\Viber include country code' value="" data-required data-pattern="^[0-9]+$">
 							
 						</div>
-
+<script>
+grecaptcha.ready(function() {
+grecaptcha.execute('6LcnE2MUAAAAAFU0xgg2wTQsbm6pYhdDYHH2g65h', {action: 'action_name'})
+.then(function(token) {
+...
+});
+});
+</script>
 
 
 						 <button type="submit" value="Register Now" class='btn submit' name="submit"><i class="icon-success"></i>Send</button>
