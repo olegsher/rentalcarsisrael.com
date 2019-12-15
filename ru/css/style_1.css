@@ -292,15 +292,15 @@ span.menu{
 .box{
 	width: 243px;
     height: 300px;
-    background: url(../../images/catZ.jpg) 0px 140px no-repeat;
+    background: url(../images/catZ.jpg) 0px 140px no-repeat;
     overflow: hidden;
 }
 .box1{
-	background: url(../../images/catI.jpg) 0px 140px no-repeat;
+	background: url(../images/catI.jpg) 0px 140px no-repeat;
 }
 
 .box2{
-	background: url(../../images/catW.jpg) 0px 140px no-repeat;
+	background: url(../images/catW.jpg) 0px 140px no-repeat;
 }
 .cover{
   width: 100%;
@@ -1231,13 +1231,13 @@ h4.modal-title {
 		background: url(../images/img-sp.png) no-repeat 410px -60px;
 	}
 	.box {
-		background: url(../../images/catZ.jpg) -21px 0px no-repeat;
+		background: url(../images/catZ.jpg) -21px 0px no-repeat;
 	}
 	.box1 {
-		background: url(../../images/catI.jpg) -29px 0px no-repeat;
+		background: url(../images/catI.jpg) -29px 0px no-repeat;
 	}
 	.box2 {
-		background: url(../../images/catB.jpg) -24px 0px no-repeat;
+		background: url(../images/catB.jpg) -24px 0px no-repeat;
 	}
 	.cover {
 		padding: 1.5em;
@@ -1314,7 +1314,7 @@ h4.modal-title {
 		left: 7%;
 	}
 	.box {
-		background-image: url(../../images/catZ.jpg) 0px 0px no-repeat;
+		background-image: url(../images/catZ.jpg) 0px 0px no-repeat;
 		background-size: cover;
 		-webkit-background-size: cover;
 		-moz-background-size: cover;
@@ -1322,7 +1322,7 @@ h4.modal-title {
 		-ms-background-size: cover;
 	}
 	.box1 {
-		background: url("../../images/catI.jpg") 0px 0px no-repeat;
+		background: url("../images/catI.jpg") 0px 0px no-repeat;
 		background-size: cover;
 		-webkit-background-size: cover;
 		-moz-background-size: cover;
@@ -1330,7 +1330,7 @@ h4.modal-title {
 		-ms-background-size: cover;
 	}
 	.box2 {
-		background: url(../../images/catW.jpg) 0px 0px no-repeat;
+		background: url(../images/catW.jpg) 0px 0px no-repeat;
 		background-size: cover;
 		-webkit-background-size: cover;
 		-moz-background-size: cover;

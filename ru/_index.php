@@ -9,7 +9,7 @@
 		<!--<h2 class="text-left" style="color:red;">БРОНИРОВАНИЕ АВТОМОБИЛЯ В ИЗРАИЛЕ ЗА ОДИН ШАГ</h2>-->
                 
                     
-    <!-- <hr /><a  href="http://www.rentalcarsisrael.com/minivan.php">Прокат минивэнов - наш бизнес</a>
+    <!-- <hr /><a  href="minivan.php">Прокат минивэнов - наш бизнес</a>
     <hr /><a  href="http://www.israeltour.online/ru/">Акция для клиентов - Частный гид за 250$</a> -->
     <!-- <hr /><a  href="http://www.rentalcarsisrael.com/transfer.php">Частный трансфер из аэропорта Бен Гурион начиная от 60$</a> -->
 <hr/>	 
