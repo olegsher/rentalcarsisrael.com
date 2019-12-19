@@ -35,9 +35,9 @@
            
 	 <p class="text-left"><img style="float:left" class="img-responsive" src="../images/flashing.gif" 
 	 alt="Консультация и помощь по бронированию автомобиля в Израиле на русском языке" width="20" height="20" />
-         <strong>Бесплатная консультация и помощь по бронированию автомобиля в Израиле на русском языке</strong>.</p>
-      <img src="images/whatsapp.png" height="20" width="20" alt="Whatsapp"/><a href="https://wa.me/972587710101?text=Я%20заинтересован%20в%20аренде%20авто%20в%20Израиле"/> +972-58-771-0101</a>
-          
+         <strong>Бесплатная консультация и помощь по бронированию автомобиля в Израиле на русском языке</strong>.<img src="images/whatsapp.png" height="20" width="20" alt="Whatsapp"/><a href="https://wa.me/972587710101?text=Я%20заинтересован%20в%20аренде%20авто%20в%20Израиле"/> +972-58-771-0101</a>
+                                                                                                                      </p>
+
 					         
     
     				          
@@ -399,7 +399,8 @@ grecaptcha.execute('6LcnE2MUAAAAAFU0xgg2wTQsbm6pYhdDYHH2g65h', {action: 'action_
 <!--                        
                         <div class="g-recaptcha" data-sitekey="6LcVRQgUAAAAALqre7PqN_m3eNet_RK1XrRoj6Hz"></div>-->
                         <br />
-                        <input type="submit" name="submit" value="ЗАКАЗАТЬ">
+                        <input type="submit" name="submit" value="ЗАКАЗАТЬ"> или <img src="images/whatsapp.png" height="20" width="20" alt="Whatsapp"/><a href="https://wa.me/972587710101?text=Я%20заинтересован%20в%20аренде%20авто%20в%20Израиле"/> +972-58-771-0101</a>
+
                         
 
                         
