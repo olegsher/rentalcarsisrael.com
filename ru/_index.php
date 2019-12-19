@@ -4,7 +4,7 @@
 <i> 
 
 <img src="../images/europcar_W.jpg" alt="прокат аренда авто израиль" class="img-responsive" />
-<!--<img src="../images/thrifty.png" alt="прокат аренда авто израиль" class="img-responsive" />-->
+
 </i>
 		<!--<h2 class="text-left" style="color:red;">БРОНИРОВАНИЕ АВТОМОБИЛЯ В ИЗРАИЛЕ ЗА ОДИН ШАГ</h2>-->
                 
@@ -417,14 +417,14 @@ grecaptcha.execute('6LcnE2MUAAAAAFU0xgg2wTQsbm6pYhdDYHH2g65h', {action: 'action_
     <hr/>    
     </div>
 
-<div class="clearfix"></div>      
+/* <div class="clearfix"></div>
 <?php include("../livejournal"); ?>
 <div class="clearfix"></div> 
 
 
 <div class="clearfix"></div>      
 <?php include("tours_ad.html"); ?>
-<div class="clearfix"></div>
+<div class="clearfix"></div> */
 
 
 
@@ -1121,14 +1121,14 @@ Roman Prokopchuk Всем добра! Бронировали автомобил�
 
 
 <div class="clearfix"></div>
-<hr/>
+/* <hr/>
 <h2>Автомобильные Новости </h2> 
 <a href="http://www.kolesa.ru/news" rel="nofollow" target="_blank">Полные новости здесь</a>
 <br/>     
 <?php include("../car_news"); ?>
 <div class="clearfix"></div>  
 </div>
-<hr />
+<hr /> */
 
 
 
