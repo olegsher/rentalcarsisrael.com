@@ -416,15 +416,15 @@ grecaptcha.execute('6LcnE2MUAAAAAFU0xgg2wTQsbm6pYhdDYHH2g65h', {action: 'action_
      alt="Хочу узнать о индивидуальных экскурсиях по Израилю" width="20" height="20" />
     <hr/>    
     </div>
-
-/* <div class="clearfix"></div>
+<!--
+ <div class="clearfix"></div>
 <?php include("../livejournal"); ?>
-<div class="clearfix"></div> 
+<div class="clearfix"></div> -->
 
 
 <div class="clearfix"></div>      
 <?php include("tours_ad.html"); ?>
-<div class="clearfix"></div> */
+<div class="clearfix"></div>
 
 
 
