@@ -31,7 +31,7 @@
 <?php include("_index.php"); ?>
 <?php include("__footer.html"); ?>
 
-<script type="text/javascript">
+/* <script type="text/javascript">
 var ZCallbackWidgetLinkId  = '86c302f105eb53a8f2c43e54f6be69ad';
 var ZCallbackWidgetDomain  = 'my.zadarma.com';
 (function(){
@@ -44,7 +44,7 @@ var ZCallbackWidgetDomain  = 'my.zadarma.com';
     if (sc) sc.parentNode.insertBefore(lt, sc);
     else document.documentElement.firstChild.appendChild(lt);
 })();
-</script>
+</script> */
 
 
 </body>
