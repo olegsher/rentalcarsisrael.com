@@ -1,9 +1,5 @@
 User-agent: *
 Disallow: 
-Disallow: /js/
-Disallow: /fonts/
-Disallow: /css/
-Disallow: /nbproject/
-Disallow: /dev/
-Host: www.rentalcarsisrael.com
+
+Host: http://www.rentalcarsisrael.com
 Sitemap: http://www.rentalcarsisrael.com/sitemap.xml

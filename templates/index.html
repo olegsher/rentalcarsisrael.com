@@ -1,0 +1,674 @@
+{% extends "layout.html" %}
+
+
+
+{% block content %}
+<div class="container">
+    <div class="col-md-5 bann-info1 wow fadeInLeft animated" data-wow-delay=".5s">
+        <!--		<i class="fa fa-columns"></i>-->
+        <i>
+
+            <img src="../static/img/europcar_W.jpg" alt="прокат аренда авто израиль" class="img-responsive" />
+
+        </i>
+        <!--<h2 class="text-left" style="color:red;">БРОНИРОВАНИЕ АВТОМОБИЛЯ В ИЗРАИЛЕ ЗА ОДИН ШАГ</h2>-->
+
+
+        <!-- <hr /><a  href="minivan.php">Прокат минивэнов - наш бизнес</a>
+        <hr /><a  href="http://www.israeltour.online/ru/">Акция для клиентов - Частный гид за 250$</a> -->
+        <!-- <hr /><a  href="http://www.rentalcarsisrael.com/transfer.php">Частный трансфер из аэропорта Бен Гурион начиная от 60$</a> -->
+        <hr/>
+        <p class="text-left"><img style="float:left" class="img-responsive" src="../static/img/flashing.gif" alt="Консультация и помощь по бронированию автомобиля в Израиле на русском языке" width="20" height="20" />
+            <strong>Бронирование автомобиля в Израиле</strong> по лучшей онлайн цене	(<strong style="color:red;">до 40% экономии</strong> при сравнении с заказом в отделении компании)</p>
+
+        <p class="text-left"><img style="float:left" class="img-responsive" src="../static/img/flashing.gif"
+                                  alt="НЕТ предоплаты, оплата только при возвращении машины, возможно наличным" width="20" height="20" />
+            <strong style="color:red;">НЕТ предоплаты </strong>, оплата при возвращении машины, можно наличными.</p>
+
+
+        <p class="text-left"><img style="float:left" src="../static/img/flashing.gif" width="20" height="20" alt="Индивидуальные экскурсии по Израилю с частным гидом" class="img-responsive"/>
+            <strong>Индивидуальные экскурсии по Израилю</strong> с частным гидом на арендованной машине -
+            <strong style="color:red;">до 50% экономии </strong>(согласование экскурсии и оплата напрямую гиду,  <strong style="color:red;">без посредников</strong>)
+
+        <p class="text-left"><img style="float:left" src="../static/img/flashing.gif" alt="Отделения по аренде прокату автомобилей во всех крупных городах Израиля" width="20" height="20" />
+            <strong>Отделения по аренде прокату</strong> автомобилей <strong>во всех крупных городах Израиля</strong></p>
+        <p class="text-left"><img style="float:left" class="img-responsive" src="../static/img/flashing.gif" alt="Неограниченный километраж при заказе 3-29 дней" width="20" height="20" />
+            <strong>Неограниченный километраж</strong> при заказе 3-29 дней</p>
+        <p class="text-left"><img style="float:left" class="img-responsive" src="../static/img/flashing.gif" alt="Огромные скидки при бронирование автомобиля на 30+ дней" width="20" height="20" />
+            <strong>Огромные скидки</strong> при бронировании автомобиля на 30+ дней</p>
+
+
+        <p class="text-left"><img style="float:left" class="img-responsive" src="../static/img/flashing.gif"
+                                  alt="Консультация и помощь по бронированию автомобиля в Израиле на русском языке" width="20" height="20" />
+            <strong>Бесплатная консультация и помощь по бронированию автомобиля в Израиле на русском языке</strong>.<img src="../static/img/whatsapp.png" height="20" width="20" alt="Whatsapp"/><a href="https://wa.me/972587710101?text=Я%20заинтересован%20в%20аренде%20авто%20в%20Израиле"/> +972-58-771-0101</a>
+        </p>
+
+
+
+
+
+    </div>
+
+
+    <div class="col-md-7 bann-info wow fadeInRight animated" data-wow-delay=".5s">
+        <h1>Аренда прокат автомобиля в Израиле</h1>
+        <p style="color:blue;" >Заполните форму и наш сотрудник свяжется с вами.
+            <br />Консультация на русском языке бесплатна и без обязательств </p>
+        <br />
+
+        <form action="request_car" method="POST">
+            <div class="ban-top">
+                <div class="bnr-left">
+                    <label  for="car-select">Выбирайте класс автомобиля</label>
+
+
+                    <select class="form-control" name="car-select" id="car-select" required >
+                        <option value="" >Категории автомобилей</option>
+                        {% for i in range(1,24) %}
+                        <option value="Category {{Albar_my_low_price[i][2]}}">{{Albar_my_low_price[i][3]}} мест
+                            {{Albar_my_low_price[i][7]}} - от {{Albar_my_low_price[i][18]}}$ в сутки
+                        </option>
+                        {% endfor %}
+                    </select>
+                    <br />
+                </div>
+                <!-- Car select end -->
+                <div class="clearfix"></div>
+                <hr />
+
+                <div class="bnr-left">
+                    <label for="pickup-location">Аренда</label>
+
+                    <select class="form-control" name="pickup-location" id="pickup-location" required>
+                        <option value="">Отделение</option>
+                        {% for i in range(1,27) %}
+                        <option value="{{Albar_branches[i][3]}}">{{Albar_branches[i][3]}}, {{Albar_branches[i][4]}} -
+                            +{{Albar_branches[i][5]}}
+                        </option>
+                        {% endfor %}
+                    </select>
+                    <input name="pickup-date" type="date"  min="2016-10-02" required = "required">
+                    <!-- <input type="time" name="pickup-time" id="pickup-time"  required = "required" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'hh:mm';}"> -->
+                    <label for="pickup-time"></label>
+                    <select class="form-control" name="pickup-time" id="pickup-time" required>
+                        <option value="">Время</option>
+                        <option value="00:00">00:00</option>
+                        <option value="00:30">00:30</option>
+                        <option value="01:00">01:00</option>
+                        <option value="01:30">01:30</option>
+                        <option value="02:00">02:00</option>
+                        <option value="02:30">02:30</option>
+                        <option value="03:00">03:00</option>
+                        <option value="03:30">03:30</option>
+                        <option value="04:00">04:00</option>
+                        <option value="04:30">04:30</option>
+                        <option value="05:00">05:00</option>
+                        <option value="05:30">05:30</option>
+                        <option value="06:00">06:00</option>
+                        <option value="06:30">06:30</option>
+                        <option value="07:00">07:00</option>
+                        <option value="07:30">07:30</option>
+                        <option value="08:00">08:00</option>
+                        <option value="08:30">08:30</option>
+                        <option value="09:00">09:00</option>
+                        <option value="09:30">09:30</option>
+                        <option value="10:00">10:00</option>
+                        <option value="10:30">10:30</option>
+                        <option value="11:00">11:00</option>
+                        <option value="11:30">11:30</option>
+                        <option value="12:00">12:00</option>
+                        <option value="12:30">12:30</option>
+                        <option value="13:00">13:00</option>
+                        <option value="13:30">13:30</option>
+                        <option value="14:00">14:00</option>
+                        <option value="14:30">14:30</option>
+                        <option value="15:00">15:00</option>
+                        <option value="15:30">15:30</option>
+                        <option value="16:00">16:00</option>
+                        <option value="16:30">16:30</option>
+                        <option value="17:00">17:00</option>
+                        <option value="17:30">17:30</option>
+                        <option value="18:00">18:00</option>
+                        <option value="18:30">18:30</option>
+                        <option value="19:00">19:00</option>
+                        <option value="19:30">19:30</option>
+                        <option value="20:00">20:00</option>
+                        <option value="20:30">20:30</option>
+                        <option value="21:00">21:00</option>
+                        <option value="21:30">21:30</option>
+                        <option value="22:00">22:00</option>
+                        <option value="22:30">22:30</option>
+                        <option value="23:00">23:00</option>
+                        <option value="23:30">23:30</option>
+                    </select>
+
+                </div>
+
+
+                <div class="bnr-right">
+                    <label for="dropoff-location">Возврат</label>
+
+                    <select class="form-control" name="dropoff-location" id="dropoff-location" required>
+                        <option value="">Отделение</option>
+                        {% for i in range(1,27) %}
+                        <option value="{{Albar_branches[i][3]}}">{{Albar_branches[i][3]}}, {{Albar_branches[i][4]}} -
+                            +{{Albar_branches[i][5]}}
+                        </option>
+                        {% endfor %}
+                    </select>
+                    <input name="dropoff-date" type="date"  min="2016-10-02" required = "required">
+
+
+
+                    <!--  <input type="time" name="dropoff-time" id="dropoff-time" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'hh:mm';}" required = "required"> -->
+                    <!--  <label for="dropoff-location">Возврат</label> -->
+                    <label for="dropoff-time"></label>
+                    <select class="form-control" name="dropoff-time" id="dropoff-time" required>
+                        <option value="">Время</option>
+                        <option value="00:00">00:00</option>
+                        <option value="00:30">00:30</option>
+                        <option value="01:00">01:00</option>
+                        <option value="01:30">01:30</option>
+                        <option value="02:00">02:00</option>
+                        <option value="02:30">02:30</option>
+                        <option value="03:00">03:00</option>
+                        <option value="03:30">03:30</option>
+                        <option value="04:00">04:00</option>
+                        <option value="04:30">04:30</option>
+                        <option value="05:00">05:00</option>
+                        <option value="05:30">05:30</option>
+                        <option value="06:00">06:00</option>
+                        <option value="06:30">06:30</option>
+                        <option value="07:00">07:00</option>
+                        <option value="07:30">07:30</option>
+                        <option value="08:00">08:00</option>
+                        <option value="08:30">08:30</option>
+                        <option value="09:00">09:00</option>
+                        <option value="09:30">09:30</option>
+                        <option value="10:00">10:00</option>
+                        <option value="10:30">10:30</option>
+                        <option value="11:00">11:00</option>
+                        <option value="11:30">11:30</option>
+                        <option value="12:00">12:00</option>
+                        <option value="12:30">12:30</option>
+                        <option value="13:00">13:00</option>
+                        <option value="13:30">13:30</option>
+                        <option value="14:00">14:00</option>
+                        <option value="14:30">14:30</option>
+                        <option value="15:00">15:00</option>
+                        <option value="15:30">15:30</option>
+                        <option value="16:00">16:00</option>
+                        <option value="16:30">16:30</option>
+                        <option value="17:00">17:00</option>
+                        <option value="17:30">17:30</option>
+                        <option value="18:00">18:00</option>
+                        <option value="18:30">18:30</option>
+                        <option value="19:00">19:00</option>
+                        <option value="19:30">19:30</option>
+                        <option value="20:00">20:00</option>
+                        <option value="20:30">20:30</option>
+                        <option value="21:00">21:00</option>
+                        <option value="21:30">21:30</option>
+                        <option value="22:00">22:00</option>
+                        <option value="22:30">22:30</option>
+                        <option value="23:00">23:00</option>
+                        <option value="23:30">23:30</option>
+                    </select>
+
+
+                </div>
+                <!--				<div class="clearfix"></div>-->
+            </div>
+            <div class="ban-bottom">
+
+                <div class="clearfix"></div>
+
+
+                <hr />
+                <!--Имя <input type="text" name="First_name" placeholder="на английском" required = "required">
+                Фамилия <input type="text" name="Last_name" placeholder="на английском" required = "required"> <br />
+                Почта <input type="email" name="email" placeholder="на нее придет ваучер" required = "required">
+                Телефон <input type="text" name="phone" placeholder="включая код страны" required = "required"> <br /> -->
+
+
+                <div class="location">
+                    <div class="input-group pick-up">
+                        <span class="input-group-addon"><span class="glyphicon glyphicon-user"></span></span>
+                        <input type="text" name="First_name" required class="form-control autocomplete-location" placeholder="Имя на английском(как в правах)">
+                    </div>
+                </div>
+                <div class="location">
+                    <div class="input-group pick-up">
+                        <span class="input-group-addon"><span class="glyphicon glyphicon-user"></span></span>
+                        <input type="text" name="Last_name" required class="form-control autocomplete-location" placeholder="Фамилия на английском(как в правах)">
+                    </div>
+                </div>
+
+
+
+                <div class="location">
+                    <div class="input-group pick-up">
+                        <span class="input-group-addon"><span class="glyphicon glyphicon-envelope"></span></span>
+                        <input type="email" name="email" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,3}$" required id="email" class="form-control autocomplete-location" placeholder="Ваша почта">
+                    </div>
+                </div>
+
+                <div class="location">
+                    <div class="input-group pick-up">
+                        <span class="input-group-addon"><span class="glyphicon glyphicon-earphone"></span></span>
+                        <input type="text" name="phone" required class="form-control autocomplete-location" placeholder="Ваш телефон-whatsapp-viber включая код страны" >
+                    </div>
+                </div>
+
+
+
+                <!-- <div class="location">
+                  <div class="input-group pick-up">
+                    <span class="input-group-addon"><span class="glyphicon glyphicon-ok-circle"></span></span>
+                    <input type="number" name="DriverExperience" min="1" max="50" class="form-control autocomplete-location" placeholder="Стаж вождения от 1 года">
+                  </div>
+                </div> -->
+                <div class="location">
+                    <div class="input-group pick-up">
+                        <span class="input-group-addon"><span class="glyphicon glyphicon-exclamation-sign"></span></span>
+                        <input type="text" name="message" class="form-control autocomplete-location" placeholder="Дополнительная информация, вопрос...">
+                    </div>
+                </div>
+
+                <div class="location">
+                    <div class="input-group pick-up">
+                        <!-- <span class="input-group-addon"><span class="glyphicon glyphicon-ok-sign"></span></span> -->
+                        Возраст водителя
+                        <!-- <input type="number" name="age" min="21" max="70" class="form-control autocomplete-location" placeholder="Возраст водителя от 21 года"> -->
+                        <label class="radio-inline"><input type="radio" name="age" value="21-22">21-22</label>
+                        <label class="radio-inline"><input type="radio" name="age" value="23+">23+</label>
+                        <label class="radio-inline"><input type="radio" name="age" value="25+">25+</label>
+                        <label class="radio-inline"><input type="radio" name="age" value="28+">28+</label>
+                    </div>
+                </div>
+
+                <div class="location">
+                    <div class="input-group pick-up">
+                        <!-- <span class="input-group-addon"><span class="glyphicon glyphicon-ok-sign"></span></span> -->
+                        Стаж вождения
+                        <!-- <input type="number" name="age" min="21" max="70" class="form-control autocomplete-location" placeholder="Возраст водителя от 21 года"> -->
+                        <label class="radio-inline"><input type="radio" name="DriverExperience" value="1-2">1-2</label>
+                        <label class="radio-inline"><input type="radio" name="DriverExperience" value="3+">3+</label>
+                    </div>
+                </div>
+
+
+                <div class="checkbox">
+                    <label><input type="checkbox" name="SuperCDW" value="V">Отмена личного участия при повреждении машины</label>
+                </div>
+                <div class="checkbox">
+                    <label><input type="checkbox" name="SuperTP" value="V">Отмена личного участия при угоне машины</label>
+                </div>
+                <div class="checkbox">
+                    <label><input type="checkbox" name="addDriver" value="V">Дополнительный водитель</label>
+                </div>
+                <div class="checkbox">
+                    <label><input type="checkbox" name="childseat" value="V">Детское сидение</label>
+                </div>
+                <div class="checkbox">
+                    <label><input type="checkbox" name="tour" value="V">
+                        <img style="float:right" class="img-responsive" src="../static/img/flashing.gif"
+                             alt="Хочу узнать о индивидуальных экскурсиях по Израилю" width="20" height="20" />
+                        Хочу узнать о индивидуальных экскурсиях по Израилю (согласование экскурсии и оплата напрямую гиду, без посредников)</label>
+                </div>
+
+                <script>
+                    grecaptcha.ready(function() {
+                        grecaptcha.execute('6LcnE2MUAAAAAFU0xgg2wTQsbm6pYhdDYHH2g65h', {action: 'action_name'})
+                            .then(function(token) {
+                            ...
+                            });
+                    });
+                </script>
+
+
+
+
+
+
+                <!--  Возраст водителя <input type="number" name="age" min="21" max="70" placeholder="от 21" required = "required">  -->
+                <!--  Стаж вождения <input type="number" name="DriverExperience" min="1" max="70" placeholder="" required = "required">  -->
+
+            </div>
+
+            <!--  <hr />
+         <input type="checkbox" name="SuperCDW" value="V"> Добавить отмену личного участия при повреждении машины<br>
+         <input type="checkbox" name="SuperTP" value="V"> Добавить отмену личного участия при угоне машины<br> -->
+
+            <!-- <input type="checkbox" name="childseat" value="V"> Детское сидение 5$ в день(максимум 50$)<br>
+            <input type="checkbox" name="GPS" value="V"> Навигатор 10$ в день(максимум 75$)<br> -->
+            <!--                        <input type="checkbox" name="youngDriver" value="youngDriver"> Молодой водитель, менее года<br>->
+                                    <input type="checkbox" name="addDriver" value="V"> Дополнительный водитель 2$ в день (бесплатно при заказе 7+ дней)<br>
+                                    <input type="checkbox" name="RoadSafe" value="V"> Быстрая помощь на дороге 4$ в день(максимум 100$)<br>
+                                    <input type="checkbox" name="Religious" value="V"> Я соблюдаю шабат. Расчет по прейскуранту для верующих <br> -->
+            <!--                        <input type="checkbox" name="vehicle1" value="Bike"> I have a bike<br>
+                                    <input type="checkbox" name="vehicle1" value="Bike"> I have a bike<br>-->
+            <!-- <textarea name="message" placeholder="Дополнительная информация, вопрос..."></textarea> <br /> -->
+            <!--
+                                    <div class="g-recaptcha" data-sitekey="6LcVRQgUAAAAALqre7PqN_m3eNet_RK1XrRoj6Hz"></div>-->
+            <br />
+            <input type="submit" name="submit" value="ЗАКАЗАТЬ"> или <img src="../static/img/whatsapp.png" height="20" width="20" alt="Whatsapp"/><a href="https://wa.me/972587710101?text=Я%20заинтересован%20в%20аренде%20авто%20в%20Израиле"/> +972-58-771-0101</a>
+
+
+
+
+        </form>
+    </div>
+
+    <div>
+
+        <hr/>
+        <img style="float:left" class="img-responsive" src="../static/img/flashing.gif"
+             alt="Хочу узнать о индивидуальных экскурсиях по Израилю" width="20" height="20" />
+        <strong style="color:red">Уже получили предложение от другой компании? Не беда, оставьте свои данные и наш сотрудник подберет Вам гораздо лучший вариант</strong>
+        <img style="float:right" class="img-responsive" src="../static/img/flashing.gif"
+             alt="Хочу узнать о индивидуальных экскурсиях по Израилю" width="20" height="20" />
+        <hr/>
+    </div>
+
+
+
+
+    <!-- Block Tours-->
+    <div class="container">
+        <h2 class="text-uppercase">Групповые экскурсии по Израилю - заказ и подтверждение онлайн</h2>
+        <hr/>
+
+
+        <div class="col-md-3 biseller-column">
+            <a target="_blank" href="https://atlantistravel.co.il/ekskursii/gruppovye-ekskursii-po-izrailju/galileya-khristianskaya-nazaret?refer=5977556e2f026">
+                <img srcset="https://atlantistravel.co.il/storage/excursions/icon5_5a814df508066.jpg"  sizes="(max-width: 255px) 170px, 50vw" class="img-responsive" alt=""/>
+                <span class="price">от 130шек</span>
+            </a>
+            <div class="ad-info">
+                <a target="_blank" href="https://atlantistravel.co.il/ekskursii/gruppovye-ekskursii-po-izrailju/galileya-khristianskaya-nazaret?refer=5977556e2f026">
+
+                    <h5>Галилея Христианская, Назарет</h5>
+                    <span>Групповые экскурсии по Израилю</span>
+                    <img src="../static/img/zakaz.png" class="img-responsive" alt="Хайфа. Акко. Заповедник Рош-а-Никра">
+                </a>
+            </div>
+        </div>
+
+        <div class="col-md-3 biseller-column">
+            <a target="_blank" href="https://atlantistravel.co.il/ekskursii/gruppovye-ekskursii-po-izrailju/ierusalim-khristianskij?refer=5977556e2f026">
+                <img srcset="https://atlantistravel.co.il/storage/excursions/icon129_5a9d7197a7b4e.jpg" sizes="(max-width: 255px) 170px, 50vw" class="img-responsive" alt=""/>
+                <span class="price">от 130шек</span>
+            </a>
+            <div class="ad-info">
+                <a target="_blank" href="https://atlantistravel.co.il/ekskursii/gruppovye-ekskursii-po-izrailju/ierusalim-khristianskij?refer=5977556e2f026">
+
+                    <h5>Иерусалим Христианский</h5>
+                    <span>Групповые экскурсии по Израилю</span>
+                    <img src="../static/img/zakaz.png" class="img-responsive" alt="Хайфа. Акко. Заповедник Рош-а-Никра">
+                </a>
+            </div>
+        </div>
+
+        <div class="col-md-3 biseller-column">
+            <a target="_blank" href="https://atlantistravel.co.il/ekskursii/gruppovye-ekskursii-po-izrailju/ierusalim-gorod-trjokh-religij?refer=5977556e2f026">
+                <img srcset="https://atlantistravel.co.il/storage/excursions/9A6KzuVlrXDQUxGRC9ifMHd3HgIPe5C7pbpLgt0g.jpeg" class="img-responsive" alt=""  sizes="(max-width: 255px) 170px, 50vw" />
+                <span class="price">от 130шек</span>
+            </a>
+            <div class="ad-info">
+                <a target="_blank" href="https://atlantistravel.co.il/ekskursii/gruppovye-ekskursii-po-izrailju/ierusalim-gorod-trjokh-religij?refer=5977556e2f026">
+
+                    <h5>Иерусалим, город трёх религий</h5>
+                    <span>Групповые экскурсии по Израилю</span>
+                    <img src="../static/img/zakaz.png" class="img-responsive" alt="Хайфа. Акко. Заповедник Рош-а-Никра">
+                </a>
+            </div>
+        </div>
+
+        <div class="col-md-3 biseller-column">
+            <a target="_blank" href="https://atlantistravel.co.il/ekskursii/gruppovye-ekskursii-po-izrailju/vifleem-i-khristianskij-ierusalim?refer=5977556e2f026">
+                <img srcset="https://atlantistravel.co.il/storage/excursions/icon4_5aa6bc68b6e2c.jpg" class="img-responsive"  sizes="(max-width: 255px) 170px, 50vw" alt=""/>
+                <span class="price">от 130шек</span>
+            </a>
+            <div class="ad-info">
+                <a target="_blank" href="https://atlantistravel.co.il/ekskursii/gruppovye-ekskursii-po-izrailju/vifleem-i-khristianskij-ierusalim?refer=5977556e2f026">
+
+                    <h5>Вифлеем и Христианский Иерусалим</h5>
+                    <span>Групповые экскурсии по Израилю</span>
+                    <img src="../static/img/zakaz.png" height="30" class="img-responsive" alt="Вифлеем и Христианский Иерусалим">
+                </a>
+            </div>
+        </div>
+        <br>
+        остальные <a href="https://atlantistravel.co.il/ekskursii/gruppovye-ekskursii-po-izrailju?filter_cities=24&viewtype=list&filter_types[0]=5&filter_types[1]=4&filter_types[2]=25&filter_types[3]=26&filter_types[4]=3&refer=5977556e2f026" target="_blank">групповые экскурсии здесь</a>
+        <hr/>
+
+        <h2 class="text-uppercase">индивидуальные экскурсии по израилю - всего 250$</h2>
+        <img src="../static/img/flashing.gif" alt="Хотите индивидуальную экскурсию" />Любые экскурсии по Израилю наш лицензированный частный гид проведет для вас по очень привлекательной цене! Всего 250$ за день работы гида!
+        <br/>Арендуйте машину приглашайте гида и путешествуйте по Израилю
+        <br/><img src="../static/img/whatsapp.png" height="20" width="20" alt="Whatsapp"/>
+        <a href="https://wa.me/972587710101?text=экскурсии по Израилю">Напишите нам на +972-58-771-0101</a> и гид свяжется с вами.
+        Согласование экскурсии и оплата напрямую гиду, без посредников
+        <div class="col-md-3 biseller-column">
+            <img srcset="https://rent.albar.co.il/CarImages/Rent/CarCategories/230t.jpg"  sizes="(max-width: 255px) 170px, 50vw" class="img-responsive" alt=""/>
+            <h5 class="text-uppercase">Однодневная индивидуальная экскурсия по Израилю <br> Гид + Машина от 600$</h5>
+            <div class="ad-info">
+                <span>до 4 человек на машине класса Audi A6</span>
+                <br><span>Индивидуальная экскурсии по Израилю</span>
+            </div>
+        </div>
+        <div class="col-md-3 biseller-column">
+
+            <img srcset="https://rent.albar.co.il/CarImages/Rent/CarCategories/90t1.jpg"  sizes="(max-width: 255px) 170px, 50vw" class="img-responsive" alt=""/>
+            <h5 class="text-uppercase">Однодневная индивидуальная экскурсия по Израилю <br> Гид + Машина от 400$</h5>
+
+            <div class="ad-info">
+                <span>до 4 человек на машине класса VW Golf</span>
+                <br><span>Индивидуальная экскурсии по Израилю</span>
+
+            </div>
+        </div>
+        <div class="col-md-3 biseller-column">
+
+            <img srcset="https://rent.albar.co.il/CarImages/Rent/CarCategories/210t.jpg"  sizes="(max-width: 255px) 170px, 50vw" class="img-responsive" alt=""/>
+            <h5 class="text-uppercase">Однодневная индивидуальная экскурсия по Израилю <br> Гид + Машина от 500$</h5>
+            <div class="ad-info">
+                <span>до 6 человек на машине класса Opel Zafira</span>
+                <br><span>Индивидуальная экскурсии по Израилю</span>
+
+            </div>
+        </div>
+        <div class="col-md-3 biseller-column">
+
+            <img srcset="https://rent.albar.co.il/CarImages/Rent/CarCategories/260t2.jpg"  sizes="(max-width: 255px) 170px, 50vw" class="img-responsive" alt=""/>
+            <h5 class="text-uppercase">Однодневная индивидуальная экскурсия по Израилю <br> Гид + Машина от 600$</h5>
+
+            <div class="ad-info">
+                <span>до 8 человек на машине класса VW Transporter</span>
+                <br><span>Индивидуальная экскурсии по Израилю</span>
+
+            </div>
+        </div>
+        <div class="clearfix"></div>
+
+
+
+    </div>
+    <!-- End Block Tours-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <hr/>
+    <div class="clearfix"></div>
+    <h4>Последние отзывы наших клиентов: </h4>
+    <a href="https://www.facebook.com/pg/vastama.israel/reviews/">
+        <img style="float:left" class="img-responsive" src="../static/img/facebook-icon-small.png" alt="отзывы наших клиентов пять звезд" height="20" />
+        <img src="../static/img/blue_star_20px.png" alt="аренда прокат атомобиля в Израиле" style="float:left" class="img-responsive" />
+        <img src="../static/img/blue_star_20px.png" alt="аренда прокат атомобиля в Израиле" style="float:left" class="img-responsive" />
+        <img src="../static/img/blue_star_20px.png" alt="аренда прокат атомобиля в Израиле" style="float:left" class="img-responsive" />
+        <img src="../static/img/blue_star_20px.png" alt="аренда прокат атомобиля в Израиле" style="float:left" class="img-responsive" />
+        <img src="../static/img/blue_star_20px.png" alt="аренда прокат атомобиля в Израиле" style="float:left" class="img-responsive" />
+
+    </a>
+
+    Sasa Sim Спасибо за сервис и авто. Арендовал авто в Бен Гурион, сдавал в Ашдоде. Предварительно проконсультировали на русском по всем тонкостям, авто предоставили классом выше чем заказывал, деньги списаны по договоренности. Все доступно , точно и понятно. Буду обращаться еще.
+
+    <br><a href="https://www.facebook.com/pg/vastama.israel/reviews/">
+    <img style="float:left" class="img-responsive" src="../static/img/facebook-icon-small.png" alt="отзывы наших клиентов пять звезд" height="20" />
+    <img src="../static/img/blue_star_20px.png" alt="аренда прокат атомобиля в Израиле" style="float:left" class="img-responsive" />
+    <img src="../static/img/blue_star_20px.png" alt="аренда прокат атомобиля в Израиле" style="float:left" class="img-responsive" />
+    <img src="../static/img/blue_star_20px.png" alt="аренда прокат атомобиля в Израиле" style="float:left" class="img-responsive" />
+    <img src="../static/img/blue_star_20px.png" alt="аренда прокат атомобиля в Израиле" style="float:left" class="img-responsive" />
+    <img src="../static/img/blue_star_20px.png" alt="аренда прокат атомобиля в Израиле" style="float:left" class="img-responsive" />
+</a>
+
+    Dmitry Tikhonov Арендовали автомобиль через Олега. В качестве бонуса "получили" отзывчивого человека, всегда готового придти на помощь и дать толковый совет. Причем, оперативно, что в чужой стране бывает актуально. Рекомендую.
+
+    <br><a href="https://www.facebook.com/pg/vastama.israel/reviews/"> <img style="float:left" class="img-responsive" src="../static/img/facebook-icon-small.png" alt="отзывы наших клиентов пять звезд" height="20" />
+    <img src="../static/img/blue_star_20px.png" alt="отзывы наших клиентов пять звезд прокат аренда авто израиль" />
+    <img src="../static/img/blue_star_20px.png" alt="отзывы наших клиентов пять звезд прокат аренда авто израиль" />
+    <img src="../static/img/blue_star_20px.png" alt="отзывы наших клиентов пять звезд прокат аренда авто израиль" />
+    <img src="../static/img/blue_star_20px.png" alt="отзывы наших клиентов пять звезд прокат аренда авто израиль" />
+    <img src="../static/img/blue_star_20px.png" alt="отзывы наших клиентов пять звезд прокат аренда авто израиль" />
+</a>
+
+    Ольга Рыбакова Помогли арендовать автомобиль, дешевле, чем в других агентствах. Предоставили автомобиль новый и выше классом.
+
+
+
+    <br><a href="https://www.facebook.com/pg/vastama.israel/reviews/"> <img style="float:left" class="img-responsive" src="../static/img/facebook-icon-small.png" alt="отзывы наших клиентов пять звезд" height="20" />
+    <img src="../static/img/blue_star_20px.png" alt="отзывы наших клиентов пять звезд прокат аренда авто израиль" />
+    <img src="../static/img/blue_star_20px.png" alt="отзывы наших клиентов пять звезд прокат аренда авто израиль" />
+    <img src="../static/img/blue_star_20px.png" alt="отзывы наших клиентов пять звезд прокат аренда авто израиль" />
+    <img src="../static/img/blue_star_20px.png" alt="отзывы наших клиентов пять звезд прокат аренда авто израиль" />
+    <img src="../static/img/blue_star_20px.png" alt="отзывы наших клиентов пять звезд прокат аренда авто израиль" />
+</a>
+
+    Roman Prokopchuk Всем добра! Бронировали автомобиль через интернет. По факту предоставили автомобиль больше, чем заказывали.
+    Более того автомобиль оказался совершенно новым. Автомобиль оборудован всем необходимым. Приятный девайс виде считывателя знаков и предупреждения о съезде с полосы.
+    Был небольшой языковой борьер при оформлении, но при помощи Павла, данный барьер был преодолён. Рекомендую!!!
+
+
+
+    <hr />
+
+    <h4>Последние заказы на сайте: </h4>
+    <p class="text-left">
+        <img src="../static/img/blue_star_20px.png" alt="заказ на сайте аренда прокат автомобиля в Израиле" style="float:left" class="img-responsive" />
+        Александр  категория U(PWAR)‎, <strong>отделение аренды проката авто в Тель Авив</strong>, Яркон
+    </p>
+    <p class="text-left">
+        <img src="../static/img/blue_star_20px.png" alt="заказ на сайте аренда прокат автомобиля в Израиле" style="float:left" class="img-responsive" />
+        Ирина категория E(CDAR), <strong>отделение аренды проката авто в Хайфа</strong>
+    </p>
+    <p class="text-left">
+        <img src="../static/img/blue_star_20px.png" alt="заказ на сайте аренда прокат автомобиля в Израиле" style="float:left" class="img-responsive" />
+        Эдуард  категория F(IDAR)‎, <strong>отделение аренды проката авто в Тель Авив</strong>, Яркон
+    </p>
+    <p class="text-left">
+        <img src="../static/img/blue_star_20px.png" alt="заказ на сайте аренда прокат автомобиля в Израиле" style="float:left" class="img-responsive" />
+        Дмитрий  категория I(SDAR)‎‎, <strong>отделение аренды проката авто в Тель Авив</strong>, Яркон
+    </p>
+
+
+
+
+    <p class="text-left">
+        <img src="../static/img/blue_star_20px.png" alt="заказ на сайте аренда прокат автомобиля в Израиле" style="float:left" class="img-responsive" />
+        Александр  категория Mazda3, <strong>отделение аренды проката авто в Тель Авив</strong>, Яркон
+    </p>
+    <p class="text-left">
+        <img src="../static/img/blue_star_20px.png" alt="заказ на сайте прокат аренда авто израиль" style="float:left" class="img-responsive" />
+        Татьяна  категория Ford Fiesta, <strong>‎отделение аренды проката - Тель Авив, Бен Гурион</strong></p>
+    <p class="text-left">
+        <img src="../static/img/blue_star_20px.png" alt="заказ на сайте прокат аренда авто израиль" style="float:left" class="img-responsive" />
+        Лариса  категория Hy‎undai i20, <strong>отделение аренды проката - Нетания</strong></p>
+    <p class="text-left">
+        <img src="../static/img/blue_star_20px.png" alt="заказ на сайте прокат аренда авто израиль" style="float:left" class="img-responsive" />
+        Андрей  категория Ford Fiesta, ‎<strong>отделение аренды проката - Тель Авив, Бен Гурион</strong></p>
+    <p class="text-left">
+        <img src="../static/img/blue_star_20px.png" alt="заказ на сайте прокат аренда авто израиль" style="float:left" class="img-responsive" />
+        Александра  категория Hyundai Tucson‎, <strong>отделение аренды проката - Тель Авив</strong>, Яркон</p>
+
+
+
+
+
+    <hr />
+
+    <h2>РАСЦЕНКИ НА АРЕНДУ ПРОКАТ АВТОМОБИЛЯ В ИЗРАИЛЕ ЗА СУТКИ В $USA:</h2>
+    <br>
+
+
+        {% for i in range(1,24) %}
+        <img src="{{ Albar_my_low_price[i][6] }}" class="card-img" alt="...">
+        <br>Категория - {{Albar_my_low_price[i][2]}} {{Albar_my_low_price[i][3]}}
+        <br><small>Модели автомобилей представлены исключительно для примера и при выдаче компания имеет право предоставить автомобиль того же класса, но другой марки.</small>
+        <br>Мест - {{Albar_my_low_price[i][7]}}
+        <br>Мал.сумок - {{Albar_my_low_price[i][8]}} || Бол.сумок - {{Albar_my_low_price[i][9]}}
+
+        <br>
+        НАША ЦЕНА ОТ {{Albar_my_low_price[i][18]}}$/сутки <small>(Указанные цены НЕ ВКЛЮЧАЮТ обязательные страховки и НДС)</small>
+        <hr/>
+        {% endfor %}
+
+    <div class="table-responsive">
+
+        <h2>Отделения проката аренды автомобилей в Израиле</h2>
+        <br>
+
+        <div class="table-responsive">
+            <table class="table table-bordered">
+                <tbody>
+                <tr>
+                    <td><p><strong>Отделение проката</strong></p></td>
+                    <td><p><strong>Адрес</strong></p></td>
+                    <td><p><strong>Телефон в отделении</strong></p></td>
+                    <td><p><strong>Часы работы</strong></p></td>
+                    {% for i in range(1,27) %}
+                </tr>
+                <tr>
+                    <td><p><strong>{{Albar_branches[i][3]}}</strong> - городское отделение аренды проката автомобилей в
+                        Израиле</p></td>
+                    <td>{{Albar_branches[i][4]}} , {{Albar_branches[i][3]}}</td>
+                    <td>+{{Albar_branches[i][5]}}</td>
+                    <td>{{Albar_branches[i][9]}}</td>
+                </tr>
+                {% endfor %}
+                </tbody>
+            </table>
+        </div>
+
+        <hr />
+        <hr/>
+        <p class="text-left">* Указанные цены соответствуют прейскуранту дилера компаний EuropCar/Albar для обычного сезона и значительно отличаются от расценок на сайте\отделении компании </p>
+        <p class="text-left">* Указанные цены ВКЛЮЧАЮТ обязательные страховки </p>
+        <p class="text-left">* Указанные цены НЕ включают НДС (от НДС освобождены только туристы имеющие в пасторте визу В2\В3 - обязательно предоставить при получении машины) </p>
+        <p class="text-left">* Часы работы отделений - <a href="benGurion.php">Аэропорт Бен Гурион</a> 24\7, остальные отделения 8-18, пятница 8-13  </p>
+        <p class="text-left">* Компания Vastama Ltd официально зарегистрированное (регистрационный номер 515052702) в 2014 году в Израиле. Предприятие является официальным агентом ведущей компании по аренде прокату автомобилей в Израиле Albar</p>
+        <!-- Минимальный возраст водителя 21 год. Водитель 21-23 года - дополнительная оплата "молодой водитель" - 10$ в день <br /> -->
+        <p class="text-left">* Модели автомобилей представлены исключительно для примера и при выдаче компания имеет право предоставить автомобиль того же класса, но другой марки.
+            <!-- <br />Компания поставщик может изменить цены и конечной считается цена в ваучере. -->
+    </div>
+
+
+    <div class="clearfix"></div>
+
+
+
+
+
+
+
+
+{% endblock %}
