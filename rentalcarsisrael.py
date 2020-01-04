@@ -212,6 +212,7 @@ def about():
 
 
 
+
 @app.route('/ru/request_car', methods=["POST"])
 def request_car():
     title = "Спасибо за обращение к нам"
