@@ -62,7 +62,7 @@
                     <label  for="car-select">Выбирайте класс автомобиля</label>
 
 
-                    <select class="form-control" name="car-select" id="car-select" required >
+                    <select class="form-control" name="car" id="car-select" required >
                         <option value="" >Категории автомобилей</option>
                         {% for i in range(1,24) %}
                         <option value="Category {{Albar_my_low_price[i][2]}}">{{Albar_my_low_price[i][3]}} мест
@@ -87,7 +87,7 @@
                         </option>
                         {% endfor %}
                     </select>
-                    <input name="pickup-date" type="date"  min="2016-10-02" required = "required">
+                    <input name="date_rent" type="date"  min="2020-01-01" required = "required">
                     <!-- <input type="time" name="pickup-time" id="pickup-time"  required = "required" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'hh:mm';}"> -->
                     <label for="pickup-time"></label>
                     <select class="form-control" name="pickup-time" id="pickup-time" required>
@@ -156,7 +156,7 @@
                         </option>
                         {% endfor %}
                     </select>
-                    <input name="dropoff-date" type="date"  min="2016-10-02" required = "required">
+                    <input name="date_return" type="date"  min="2020-01-01" required = "required">
 
 
 
