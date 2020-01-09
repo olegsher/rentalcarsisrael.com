@@ -64,7 +64,7 @@
 
                     <select class="form-control" name="car" id="car-select" required >
                         <option value="" >Категории автомобилей</option>
-                        {% for i in range(1,24) %}
+                        {% for i in range(1,25) %}
                         <option value="Category {{Albar_my_low_price[i][2]}}">{{Albar_my_low_price[i][3]}} мест
                             {{Albar_my_low_price[i][7]}} - от {{Albar_my_low_price[i][18]}}$ в сутки
                         </option>
@@ -252,6 +252,7 @@
                         <input type="email" name="email" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,3}$" required id="email" class="form-control autocomplete-location" placeholder="Ваша почта">
                     </div>
                 </div>
+                <input type="email" name="to_email" hidden value="rentcargroup@privateisrael.com">
 
                 <div class="location">
                     <div class="input-group pick-up">
@@ -603,7 +604,7 @@
     <br>
 
 
-        {% for i in range(1,24) %}
+        {% for i in range(1,25) %}
         <img src="{{ Albar_my_low_price[i][6] }}" class="card-img" alt="{{Albar_my_low_price[i][3]}} | {{title}}">
         <br>Категория - {{Albar_my_low_price[i][2]}} {{Albar_my_low_price[i][3]}}
         <br><small>Модели автомобилей представлены исключительно для примера и при выдаче компания имеет право предоставить автомобиль того же класса, но другой марки.</small>
