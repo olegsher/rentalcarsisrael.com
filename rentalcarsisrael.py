@@ -16,6 +16,7 @@ mail_settings = {
 app.config.update(mail_settings)
 mail = Mail(app)
 
+
 site = "RentalCarsIsrael.com"
 title = "Недорогая прокат аренда автомобиля в Израиле - " + site
 title_ru = "Недорогая прокат аренда автомобиля в Израиле - " + site
