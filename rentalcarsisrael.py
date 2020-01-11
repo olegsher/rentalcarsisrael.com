@@ -17,8 +17,8 @@ app.config.update(mail_settings)
 mail = Mail(app)
 
 site = "RentalCarsIsrael.com"
-title = "Недорогая прокат аренда автомобиля в Израиле | " + site
-title_ru = "Недорогая прокат аренда автомобиля в Израиле |  " + site
+title = "Недорогая прокат аренда автомобиля в Израиле - " + site
+title_ru = "Недорогая прокат аренда автомобиля в Израиле - " + site
 description = site + " Недорогая прокат аренда автомобиля в Израиле, бронирование онлайн, нет предоплаты, безлимитный километраж, нет скрытых платежей, говорим по русски, отделения в Бен Гурион, Тель Авив, Хайфа, Эйлат, Нетания, Ашдод, эконом семейные и люкс автомобили, минивэны"
 description_minivan_ru = site + " Недорогая прокат аренда автомобиля в Израиле, бронирование онлайн, нет предоплаты, безлимитный километраж, нет скрытых платежей, говорим по русски, отделения в Бен Гурион, Тель Авив, Хайфа, Эйлат, Нетания, Ашдод, эконом семейные и люкс автомобили, минивэны"
 
@@ -210,38 +210,46 @@ def robots(): return render_template('robots.txt')
 
 @app.route('/')
 def index():
-    return render_template('index.html', title=title, Albar_my_low_price = Albar_my_low_price_20200115, Albar_my_high_price = Albar_my_high_price_20191229, Albar_reg_low_price = Albar_reg_low_price_20191229, Albar_reg_high_price = Albar_reg_high_price_20191229, Albar_branches=Albar_branches, description=description)
+    page = "ru"
+    return render_template('index.html', page= page, title=title, Albar_my_low_price = Albar_my_low_price_20200115, Albar_my_high_price = Albar_my_high_price_20191229, Albar_reg_low_price = Albar_reg_low_price_20191229, Albar_reg_high_price = Albar_reg_high_price_20191229, Albar_branches=Albar_branches, description=description)
 
 @app.route('/ru/')
 def index_ru():
-    return render_template('index.html', title=title_ru, Albar_my_low_price = Albar_my_low_price_20200115, Albar_my_high_price = Albar_my_high_price_20191229, Albar_reg_low_price = Albar_reg_low_price_20191229, Albar_reg_high_price = Albar_reg_high_price_20191229,Albar_branches=Albar_branches, description=description)
+    page = "ru"
+    return render_template('index.html', page= page, title=title_ru, Albar_my_low_price = Albar_my_low_price_20200115, Albar_my_high_price = Albar_my_high_price_20191229, Albar_reg_low_price = Albar_reg_low_price_20191229, Albar_reg_high_price = Albar_reg_high_price_20191229,Albar_branches=Albar_branches, description=description)
 
 
 @app.route('/ru/minivans')
 def minivans():
-    return render_template('minivans.html', title=title_ru, Albar_my_low_price = Albar_my_low_price_20200115, Albar_my_high_price = Albar_my_high_price_20191229, Albar_reg_low_price = Albar_reg_low_price_20191229, Albar_reg_high_price = Albar_reg_high_price_20191229,Albar_branches=Albar_branches, description=description)
+    page = "ru/minivans"
+    return render_template('minivans.html', page= page, title=title_ru, Albar_my_low_price = Albar_my_low_price_20200115, Albar_my_high_price = Albar_my_high_price_20191229, Albar_reg_low_price = Albar_reg_low_price_20191229, Albar_reg_high_price = Albar_reg_high_price_20191229,Albar_branches=Albar_branches, description=description)
 
 @app.route('/ru/branches')
 def branches():
+    page = "ru/branches"
     return render_template('branches.html', title=title_ru, Albar_my_low_price = Albar_my_low_price_20200115, Albar_my_high_price = Albar_my_high_price_20191229, Albar_reg_low_price = Albar_reg_low_price_20191229, Albar_reg_high_price = Albar_reg_high_price_20191229,Albar_branches=Albar_branches, description=description)
 
 @app.route('/ru/insurance')
 def insurance():
-    return render_template('insurance.html', title=title_ru, Albar_my_low_price = Albar_my_low_price_20200115, Albar_my_high_price = Albar_my_high_price_20191229, Albar_reg_low_price = Albar_reg_low_price_20191229, Albar_reg_high_price = Albar_reg_high_price_20191229,Albar_branches=Albar_branches, description=description)
+    page = "ru/insurance"
+    return render_template('insurance.html', page= page, title=title_ru, Albar_my_low_price = Albar_my_low_price_20200115, Albar_my_high_price = Albar_my_high_price_20191229, Albar_reg_low_price = Albar_reg_low_price_20191229, Albar_reg_high_price = Albar_reg_high_price_20191229,Albar_branches=Albar_branches, description=description)
 
 @app.route('/ru/terms')
 def terms():
-    return render_template('terms.html', title=title_ru, Albar_my_low_price = Albar_my_low_price_20200115, Albar_my_high_price = Albar_my_high_price_20191229, Albar_reg_low_price = Albar_reg_low_price_20191229, Albar_reg_high_price = Albar_reg_high_price_20191229,Albar_branches=Albar_branches, description=description)
+    page = "ru/terms"
+    return render_template('terms.html', page= page, title=title_ru, Albar_my_low_price = Albar_my_low_price_20200115, Albar_my_high_price = Albar_my_high_price_20191229, Albar_reg_low_price = Albar_reg_low_price_20191229, Albar_reg_high_price = Albar_reg_high_price_20191229,Albar_branches=Albar_branches, description=description)
 
 
 @app.route('/ru/faq')
 def faq():
-    return render_template('faq.html', title=title_ru, Albar_my_low_price = Albar_my_low_price_20200115, Albar_my_high_price = Albar_my_high_price_20191229, Albar_reg_low_price = Albar_reg_low_price_20191229, Albar_reg_high_price = Albar_reg_high_price_20191229,Albar_branches=Albar_branches, description=description)
+    page = "ru/faq"
+    return render_template('faq.html', page= page, title=title_ru, Albar_my_low_price = Albar_my_low_price_20200115, Albar_my_high_price = Albar_my_high_price_20191229, Albar_reg_low_price = Albar_reg_low_price_20191229, Albar_reg_high_price = Albar_reg_high_price_20191229,Albar_branches=Albar_branches, description=description)
 
 
 @app.route('/ru/about')
 def about():
-    return render_template('about.html', title=title_ru, Albar_my_low_price = Albar_my_low_price_20200115, Albar_my_high_price = Albar_my_high_price_20191229, Albar_reg_low_price = Albar_reg_low_price_20191229, Albar_reg_high_price = Albar_reg_high_price_20191229,Albar_branches=Albar_branches, description=description)
+    page = "ru/about"
+    return render_template('about.html', page= page, title=title_ru, Albar_my_low_price = Albar_my_low_price_20200115, Albar_my_high_price = Albar_my_high_price_20191229, Albar_reg_low_price = Albar_reg_low_price_20191229, Albar_reg_high_price = Albar_reg_high_price_20191229,Albar_branches=Albar_branches, description=description)
 
 
 

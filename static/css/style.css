@@ -397,7 +397,7 @@ ul.paging{padding:5em 0 0;}
 .leave-comment input[type="submit"]{outline:none;padding:10px 0;width:100%;background:#4CB320;border:none;font-size:1em;color:#fff;text-align:center;}
 .leave-comment input[type="submit"]:hover{background:#3F84B1;}
 .footer-social-icons ul li{display:inline-block;margin:0 0.2em;}
-.footer-social-icons ul li a{width:30px;height:30px;background:url('../images/img-sprite.png') no-repeat 0px 0px;display:inline-block;position:relative;}
+.footer-social-icons ul li a{width:30px;height:30px;background:url('../img/img-sprite.png') no-repeat 0px 0px;display:inline-block;position:relative;}
 .footer-social-icons ul li a span{color:#fff;position:absolute;bottom:0;left:-25px;right:-25px;padding:5px;font-size:14px;border-radius:2px;background:#1F8DD6;visibility:hidden;opacity:0;-o-transition:all .5s cubic-bezier(0.68, -0.55, 0.265, 1.55);-webkit-transition:all .5s cubic-bezier(0.68, -0.55, 0.265, 1.55);-moz-transition:all .5s cubic-bezier(0.68, -0.55, 0.265, 1.55);transition:all .5s cubic-bezier(0.68, -0.55, 0.265, 1.55);}
 .footer-social-icons ul li a span:before{content:'';width:0;height:0;border-left:5px solid transparent;border-right:5px solid transparent;border-top:5px solid #1F8DD6;position:absolute;bottom:-5px;left:34px;}
 .footer-social-icons ul li a:hover span{bottom:41px;visibility:visible;opacity:1;}
