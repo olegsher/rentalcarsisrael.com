@@ -16,6 +16,7 @@ Mail_settings = {
 
 
 
+
 app.config.update(Mail_settings)
 Mail = Mail(app)
 
