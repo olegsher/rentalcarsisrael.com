@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6f95ba44-4eab-4825-b00b-5de182185e59" name="Default Changelist" comment="">
+    <list default="true" id="d2ccc8f6-4cf9-4f92-8122-187d01b3ba76" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rentalcarsisrael.py" beforeDir="false" afterPath="$PROJECT_DIR$/rentalcarsisrael.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,6 +77,9 @@
       </list>
     </option>
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="6f95ba44-4eab-4825-b00b-5de182185e59" name="Default Changelist" comment="" />
@@ -94,10 +98,29 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="555" y="217" width="810" height="681" key="#Chrome_Settings" timestamp="1581100760782">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="555" y="217" width="810" height="681" key="#Chrome_Settings/0.27.1920.1053@0.27.1920.1053" timestamp="1581100760782" />
+    <state x="555" y="215" width="810" height="681" key="#Web_Browsers" timestamp="1581100763011">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="555" y="215" width="810" height="681" key="#Web_Browsers/0.27.1920.1053@0.27.1920.1053" timestamp="1581100763011" />
     <state x="699" y="350" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1578092805021">
       <screen x="0" y="0" width="1920" height="1000" />
     </state>
