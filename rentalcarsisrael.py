@@ -637,14 +637,17 @@ def index():
                            description=description)
 
 
-@app.route('/ru/')
+@app.route('/ru')
 def index_ru():
     page = "ru"
-    return render_template('index.html', page=page, title=title_ru, Albar_my_low_price=albar_my_low_price_20200115,
+    title = "Недорогая прокат аренда автомобиля в Израиле - " + site
+    description = site + " Недорогая прокат аренда автомобиля в Израиле, бронирование онлайн, нет предоплаты, безлимитный километраж, нет скрытых платежей, говорим по русски, отделения в Бен Гурион, Тель Авив, Хайфа, Эйлат, Нетания, Ашдод, эконом семейные и люкс автомобили, минивэны"
+    return render_template('index.html', page=page, title=title, Albar_my_low_price=albar_my_low_price_20200115,
                            Albar_my_high_price=Albar_my_high_price_20191229,
                            Albar_reg_low_price=Albar_reg_low_price_20191229,
                            Albar_reg_high_price=Albar_reg_high_price_20191229, Albar_branches=Albar_branches,
                            description=description)
+
 
 
 @app.route('/ru/minivans')
