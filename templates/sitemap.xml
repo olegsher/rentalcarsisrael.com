@@ -46,4 +46,29 @@
   <changefreq>daily</changefreq>
   <priority>0.64</priority>
 </url>
+  <url>
+    <loc>https://www.rentalcarsisrael.com/ru/AirPort-Ben-Gurion</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.50</priority>
+  </url>
+  <url>
+    <loc>https://www.rentalcarsisrael.com/ru/AirportEilat</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.50</priority>
+  </url>
+  <url>
+    <loc>https://www.rentalcarsisrael.com/ru/Branch-TelAviv-Yarkon80</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.50</priority>
+  </url>
+  <url>
+    <loc>https://www.rentalcarsisrael.com/ru/Branch-TelAviv-haMelaha3</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.50</priority>
+  </url>
+  <url>
+    <loc>https://www.rentalcarsisrael.com/ru/Branch-TelAviv-haMelaha3</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.50</priority>
+  </url>
 </urlset>

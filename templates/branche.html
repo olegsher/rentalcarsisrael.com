@@ -1,0 +1,26 @@
+{% extends "layout.html" %}
+{% block content %}
+<div class="container">
+
+    <div class="col-md-7 bann-info wow fadeInRight animated" data-wow-delay=".5s">
+        <h1>Отделение проката автомобилей в Израиле:
+            <br>{{title}}</h1>
+        <!--<iframe src="{{branch_map}}" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe> -->
+    </div>
+    <div class="clearfix"></div>
+    <br />{{pick_up}}
+    <br /><strong>Часы работы отделения:</strong><br />{{open_time}}
+    <br /><strong>Телефоны в отделении:</strong><br />{{phones}}
+    <br />{{return_car}}
+    <br />
+    <div  class="clearfix"></div>
+    <p style="color:teal; font-weight: lighter;" >Какие документы принести в отделение для получения машины </p>
+    Действующие права, кредитную карту на которой будет закрыт депозит, ваучер(достаточно номера), если вы турист то визу В2 или В3 для отмены НДС
+    <div  class="clearfix"></div>
+    <br>
+    <p style="color:teal; font-weight: lighter;" >Будет ли мне добавлен НДС? </p>
+    НДС по закону добавляется всем кто не предоставит туристическую визу B2 или B3. Если у вас студенческая или рабочая виза то НДС вам будет добавлен к счету
+    <br />
+    <div  class="clearfix"></div>
+</div>
+{% endblock %}

@@ -705,6 +705,56 @@ def about():
                            Albar_reg_high_price=Albar_reg_high_price_20191229, Albar_branches=Albar_branches,
                            description=description)
 
+@app.route('/ru/AirPort-Ben-Gurion')
+def brancheAirPortBenGurion():
+    title = "Аэропорт Тель-Авива «Бен Гурион»"
+    text = "Филиал в Международном аэропорту Бен-Гурион, Тель-Авив"
+    pick_up = "Стойка компании EuropCar находится в Аэропорт Тель-Авива «Бен Гурион», в 3 терминале, на 1 этаже прямо над залом прилетов, поднимитесь по эскалатору предоставьте сотруднику компании " \
+              "номер заказа и визу которую вам поставили для отмены налога на добавленную стоимость"
+    open_time = "Часы работы отделения: круглосуточно"
+    phones = "Телефоны в отделении: +972 (3) 6058000 (иврит, английский), +972 (52) 3414669 (русский)"
+    return_car = "Возврат автомобиля в аэропорту: ул. Дайя."
+    branch_map = "https://www.google.com/maps/embed?pb=!1m19!1m8!1m3!1d54133.61868537479!2d34.8503918!3d32.0056!3m2!1i1024!2i768!4f13.1!4m8!3e0!4m0!4m5!1s0x1502caad86c8945b%3A0x54230ad9cc8917e9!2sBen%20Gurion%20International%20Airport%20%2C%20Lod!3m2!1d32.005531999999995!2d34.8854112!5e0!3m2!1sru!2sil!4v1581101820271!5m2!1sru!2sil"
+    return render_template('branche.html', title = title, text = text, pick_up= pick_up, open_time =open_time,phones=phones,return_car=return_car)
+
+
+
+@app.route('/ru/AirportEilat')
+def brancheAirportEilat():
+    title = "Аэропорт Рамон в городе Эйлат"
+    text = "Филиал в Международном аэропорту Рамон, Эйлат"
+    pick_up = "обратитесь на стойку компании EuropCar и предоставьте сотруднику компании " \
+              "номер заказа и визу которую вам поставили для отмены налога на добавленную стоимость"
+    open_time = "Часы работы отделения: Вс-Чт: 05:30-23:00; Пт: 05:30-17:00; Сб: 14:00-23:00"
+    phones = "Телефоны в отделении: +972 (8) 6239300 (иврит, английский), +972 (52) 3414669 (русский)"
+    return_car = "Возврат автомобиля в аэропорту: ул. Дайя."
+    branch_map = "https://www.google.com/maps/embed?pb=!1m19!1m8!1m3!1d54133.61868537479!2d34.8503918!3d32.0056!3m2!1i1024!2i768!4f13.1!4m8!3e0!4m0!4m5!1s0x1502caad86c8945b%3A0x54230ad9cc8917e9!2sBen%20Gurion%20International%20Airport%20%2C%20Lod!3m2!1d32.005531999999995!2d34.8854112!5e0!3m2!1sru!2sil!4v1581101820271!5m2!1sru!2sil"
+    return render_template('branche.html', title = title, text = text, pick_up= pick_up, open_time =open_time,phones=phones)
+
+@app.route('/ru/Branch-TelAviv-Yarkon80')
+def BranchTelAvivYarkon80():
+    title = "Тель-Авив, набережная, ул. ха-Яркон, 80"
+    text = "Филиал в городе Тель-Авив, набережная, на улице ха-Яркон, 80"
+    pick_up = "Обратитесь на стойку компании EuropCar и предоставьте сотруднику компании " \
+              "номер заказа и визу которую вам поставили для отмены налога на добавленную стоимость(если вы турист)"
+    open_time = "Воскресенье-Четверг: с 08:00 до 18:00; Пятница(короткий день): с 08:00 до 13:00; в Субботу и национальные праздники — отделение закрыто"
+    phones = "+972 (3) 6335252 (иврит, английский), +972 (52) 3414669 (русский)"
+    return_car = "Возврат автомобиля в аэропорту: ул. Дайя."
+    branch_map = "https://www.google.com/maps/embed?pb=!1m19!1m8!1m3!1d54133.61868537479!2d34.8503918!3d32.0056!3m2!1i1024!2i768!4f13.1!4m8!3e0!4m0!4m5!1s0x1502caad86c8945b%3A0x54230ad9cc8917e9!2sBen%20Gurion%20International%20Airport%20%2C%20Lod!3m2!1d32.005531999999995!2d34.8854112!5e0!3m2!1sru!2sil!4v1581101820271!5m2!1sru!2sil"
+    return render_template('branche.html', title = title, text = text, pick_up= pick_up, open_time =open_time,phones=phones)
+
+@app.route('/ru/Branch-TelAviv-haMelaha3')
+def BranchTelAvivhaMelaha3():
+    title = "Тель-Авив, центр, на улице ха-Мелаха, дом 3"
+    text = "Филиал в городе Тель-Авив, центр, на улице ха-Мелаха, дом 3"
+    pick_up = "Обратитесь на стойку компании EuropCar и предоставьте сотруднику компании " \
+              "номер заказа и визу которую вам поставили для отмены налога на добавленную стоимость(если вы турист)"
+    open_time = "Воскресенье-Четверг: с 08:00 до 18:00; Пятница(короткий день): с 08:00 до 13:00; в Субботу и национальные праздники — отделение закрыто"
+    phones = "+972 (3) 7588599 (иврит, английский), +972 (52) 3414669 (русский)"
+    return_car = "Возврат автомобиля в аэропорту: ул. Дайя."
+    branch_map = "https://www.google.com/maps/embed?pb=!1m19!1m8!1m3!1d54133.61868537479!2d34.8503918!3d32.0056!3m2!1i1024!2i768!4f13.1!4m8!3e0!4m0!4m5!1s0x1502caad86c8945b%3A0x54230ad9cc8917e9!2sBen%20Gurion%20International%20Airport%20%2C%20Lod!3m2!1d32.005531999999995!2d34.8854112!5e0!3m2!1sru!2sil!4v1581101820271!5m2!1sru!2sil"
+    return render_template('branche.html', title = title, text = text, pick_up= pick_up, open_time =open_time,phones=phones)
+
 
 @app.route('/ru/request_car', methods=["POST"])
 def request_car():
