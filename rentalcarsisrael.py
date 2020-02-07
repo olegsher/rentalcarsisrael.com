@@ -558,6 +558,7 @@ Albar_my_high_price_20191229 = [
      "0", "0", "null", "null", "null", "null", "null", "null", "null", "339.00"]
 ]
 
+
 Albar_branches = [
     ["BranchTypeId", "Id", "Name", "City", "Address", "Phone", "Fax", "Latitude", "Longitude", "OpeningHours",
      "CityCode"],
