@@ -12,7 +12,7 @@
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://www.rentalcarsisrael.com/ru/</loc>
+  <loc>https://www.rentalcarsisrael.com/ru</loc>
   <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
@@ -68,6 +68,16 @@
   </url>
   <url>
     <loc>https://www.rentalcarsisrael.com/ru/Branch-TelAviv-haMelaha3</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.50</priority>
+  </url>
+  <url>
+    <loc>https://www.rentalcarsisrael.com/ru/Branch-Romena-Shamgar-21</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.50</priority>
+  </url>
+  <url>
+    <loc>https://www.rentalcarsisrael.com/ru/Branch-Jerusalem-Kind-David-19</loc>
     <changefreq>daily</changefreq>
     <priority>0.50</priority>
   </url>
