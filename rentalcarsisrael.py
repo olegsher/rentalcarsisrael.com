@@ -773,7 +773,6 @@ def BranchJerusalemKindDavid19():
     return render_template('branche.html', page="ru/Branch-Jerusalem-Kind-David-19", title = text, text = text, pick_up= pick_up, open_time =open_time,phones=phones)
 
 
-
 @app.route('/ru/Branch-Romena-Shamgar-21')
 def BranchRomenaShamgar21():
     title = "Иерусалим, Ромена, улица Шамгар, 21"
