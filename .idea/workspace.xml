@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d2ccc8f6-4cf9-4f92-8122-187d01b3ba76" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/rentalcarsisrael.py" beforeDir="false" afterPath="$PROJECT_DIR$/rentalcarsisrael.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/blue_star_20px.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/img/blue_star_20px.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/eurocar_logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/img/eurocar_logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/hidden_pix.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/img/hidden_pix.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/sprite_phone_viber_whatsapp.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/img/sprite_phone_viber_whatsapp.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/whatsapp.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/img/whatsapp.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +97,7 @@
       <workItem from="1578602791688" duration="1591000" />
       <workItem from="1578692015831" duration="11000" />
       <workItem from="1578759020162" duration="2454000" />
-      <workItem from="1581140371756" duration="6482000" />
+      <workItem from="1581140371756" duration="7922000" />
     </task>
     <servers />
   </component>
