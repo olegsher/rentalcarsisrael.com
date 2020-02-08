@@ -663,7 +663,7 @@ def minivans():
 @app.route('/ru/branches')
 def branches():
     page = "ru/branches"
-    return render_template('branches.html', title=title_ru, Albar_my_low_price=albar_my_low_price_20200115,
+    return render_template('branches.html', page=page, title=title_ru, Albar_my_low_price=albar_my_low_price_20200115,
                            Albar_my_high_price=Albar_my_high_price_20191229,
                            Albar_reg_low_price=Albar_reg_low_price_20191229,
                            Albar_reg_high_price=Albar_reg_high_price_20191229, Albar_branches=Albar_branches,
