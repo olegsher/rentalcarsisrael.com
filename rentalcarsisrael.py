@@ -716,7 +716,7 @@ def brancheAirPortBenGurion():
     pick_up = "Стойка компании EuropCar находится в Аэропорт Тель-Авива «Бен Гурион», в 3 терминале, на 1 этаже прямо над залом прилетов, поднимитесь по эскалатору предоставьте сотруднику компании " \
               "номер заказа и визу которую вам поставили(если вы турист, для отмены налога на добавленную стоимость)"
     open_time = "Круглосуточно"
-    phones = "+972 (3) 6058000 (иврит, английский), +972 (52) 3414669 (русский)"
+    phones = "+972 (3) 6058000 (английский, иврит)"
     return_car = "Возврат автомобиля в аэропорту: ул. Дайя."
     branch_map = "https://www.google.com/maps/embed?pb=!1m19!1m8!1m3!1d54133.61868537479!2d34.8503918!3d32.0056!3m2!1i1024!2i768!4f13.1!4m8!3e0!4m0!4m5!1s0x1502caad86c8945b%3A0x54230ad9cc8917e9!2sBen%20Gurion%20International%20Airport%20%2C%20Lod!3m2!1d32.005531999999995!2d34.8854112!5e0!3m2!1sru!2sil!4v1581101820271!5m2!1sru!2sil"
     return render_template('branche.html', title = title, text = text, pick_up= pick_up, open_time =open_time,phones=phones)
@@ -730,7 +730,7 @@ def brancheAirportEilat():
     pick_up = "Обратитесь на стойку компании EuropCar и предоставьте сотруднику компании " \
               "номер заказа и визу которую вам поставили(если вы турист, для отмены налога на добавленную стоимость)"
     open_time = "Воскресенье-Четверг: с 05:30 до 23:00; Пятница(короткий день): с 05:30 до 17:00; Суббота: с 14:00 до 23:00"
-    phones = "+972 (8) 6239300 (иврит, английский), +972 (52) 3414669 (русский)"
+    phones = "+972 (8) 6239300 (английский, иврит)"
     return_car = "Возврат автомобиля в аэропорту: ул. Дайя."
     branch_map = "https://www.google.com/maps/embed?pb=!1m19!1m8!1m3!1d54133.61868537479!2d34.8503918!3d32.0056!3m2!1i1024!2i768!4f13.1!4m8!3e0!4m0!4m5!1s0x1502caad86c8945b%3A0x54230ad9cc8917e9!2sBen%20Gurion%20International%20Airport%20%2C%20Lod!3m2!1d32.005531999999995!2d34.8854112!5e0!3m2!1sru!2sil!4v1581101820271!5m2!1sru!2sil"
     return render_template('branche.html', title = title, text = text, pick_up= pick_up, open_time =open_time,phones=phones)
@@ -742,7 +742,7 @@ def BranchTelAvivYarkon80():
     pick_up = "Обратитесь на стойку компании EuropCar и предоставьте сотруднику компании " \
               "номер заказа и визу которую вам поставили(если вы турист, для отмены налога на добавленную стоимость)"
     open_time = "Воскресенье-Четверг: с 08:00 до 18:00; Пятница(короткий день): с 08:00 до 13:00; в Субботу и национальные праздники — отделение закрыто"
-    phones = "+972 (3) 6335252 (иврит, английский), +972 (52) 3414669 (русский)"
+    phones = "+972 (3) 6335252 (английский, иврит)"
     return_car = "Возврат автомобиля в аэропорту: ул. Дайя."
     branch_map = "https://www.google.com/maps/embed?pb=!1m19!1m8!1m3!1d54133.61868537479!2d34.8503918!3d32.0056!3m2!1i1024!2i768!4f13.1!4m8!3e0!4m0!4m5!1s0x1502caad86c8945b%3A0x54230ad9cc8917e9!2sBen%20Gurion%20International%20Airport%20%2C%20Lod!3m2!1d32.005531999999995!2d34.8854112!5e0!3m2!1sru!2sil!4v1581101820271!5m2!1sru!2sil"
     return render_template('branche.html', title = title, text = text, pick_up= pick_up, open_time =open_time,phones=phones)
@@ -754,13 +754,14 @@ def BranchTelAvivhaMelaha3():
     pick_up = "Обратитесь на стойку компании EuropCar и предоставьте сотруднику компании " \
               "номер заказа и визу которую вам поставили(если вы турист, для отмены налога на добавленную стоимость)"
     open_time = "Воскресенье-Четверг: с 08:00 до 18:00; Пятница(короткий день): с 08:00 до 13:00; в Субботу и национальные праздники — отделение закрыто"
-    phones = "+972 (3) 7588599 (иврит, английский), +972 (52) 3414669 (русский)"
+    phones = "+972 (3) 7588599 (английский, иврит)"
     return_car = "Возврат автомобиля в аэропорту: ул. Дайя."
     branch_map = "https://www.google.com/maps/embed?pb=!1m19!1m8!1m3!1d54133.61868537479!2d34.8503918!3d32.0056!3m2!1i1024!2i768!4f13.1!4m8!3e0!4m0!4m5!1s0x1502caad86c8945b%3A0x54230ad9cc8917e9!2sBen%20Gurion%20International%20Airport%20%2C%20Lod!3m2!1d32.005531999999995!2d34.8854112!5e0!3m2!1sru!2sil!4v1581101820271!5m2!1sru!2sil"
     return render_template('branche.html', title = title, text = text, pick_up= pick_up, open_time =open_time,phones=phones)
 
 
 @app.route('/ru/request_car', methods=["POST"])
+@app.route('/request_car', methods=["POST"])
 def request_car():
     title_ok = "Спасибо за обращение к нам"
     car = request.form.get("car")

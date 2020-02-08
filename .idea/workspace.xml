@@ -4,6 +4,7 @@
     <list default="true" id="d2ccc8f6-4cf9-4f92-8122-187d01b3ba76" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/rentalcarsisrael.py" beforeDir="false" afterPath="$PROJECT_DIR$/rentalcarsisrael.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +83,7 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="6f95ba44-4eab-4825-b00b-5de182185e59" name="Default Changelist" comment="" />
+      <changelist id="d2ccc8f6-4cf9-4f92-8122-187d01b3ba76" name="Default Changelist" comment="" />
       <created>1578091798471</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -92,6 +93,7 @@
       <workItem from="1578602791688" duration="1591000" />
       <workItem from="1578692015831" duration="11000" />
       <workItem from="1578759020162" duration="2454000" />
+      <workItem from="1581140371756" duration="1261000" />
     </task>
     <servers />
   </component>
@@ -103,7 +105,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
