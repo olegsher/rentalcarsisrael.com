@@ -135,6 +135,7 @@ albar_my_low_price_20200115 = [
      "0", "0", "null", "null", "null", "null", "null", "null", "null", "81.27"]
 ]
 
+
 Albar_my_low_price_20191229 = [
     ["Id", "CarCategoryId", "CarCategoryCode", "CarCategoryName", "Currency", "CurrencySymbol", "ImageLink",
      "NumberOfPeople", "NumberOfSmallBags", "NumberOfLargeBags", "AirConditioner", "Airbags", "Radio", "PowerSteering",

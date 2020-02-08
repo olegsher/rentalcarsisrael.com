@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d2ccc8f6-4cf9-4f92-8122-187d01b3ba76" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/static/img/icon129_5a9d7197a7b4e.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/img/icon129_5a9d7197a7b4e.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/icon4_5aa6bc68b6e2c.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/img/icon4_5aa6bc68b6e2c.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/icon5_5a814df508066.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/img/icon5_5a814df508066.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rentalcarsisrael.py" beforeDir="false" afterPath="$PROJECT_DIR$/rentalcarsisrael.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +91,7 @@
       <workItem from="1578602791688" duration="1591000" />
       <workItem from="1578692015831" duration="11000" />
       <workItem from="1578759020162" duration="2454000" />
-      <workItem from="1581140371756" duration="9337000" />
+      <workItem from="1581140371756" duration="9673000" />
     </task>
     <servers />
   </component>
