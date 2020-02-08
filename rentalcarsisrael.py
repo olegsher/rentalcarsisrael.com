@@ -136,6 +136,7 @@ albar_my_low_price_20200115 = [
 ]
 
 
+
 Albar_my_low_price_20191229 = [
     ["Id", "CarCategoryId", "CarCategoryCode", "CarCategoryName", "Currency", "CurrencySymbol", "ImageLink",
      "NumberOfPeople", "NumberOfSmallBags", "NumberOfLargeBags", "AirConditioner", "Airbags", "Radio", "PowerSteering",
