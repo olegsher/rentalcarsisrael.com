@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d2ccc8f6-4cf9-4f92-8122-187d01b3ba76" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/templates/layout_branche.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/minivans.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/minivans.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rentalcarsisrael.py" beforeDir="false" afterPath="$PROJECT_DIR$/rentalcarsisrael.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/branche.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/branche.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/layout.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/layout.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +47,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="go.import.settings.migrated" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/static/img" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/templates" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
@@ -56,12 +60,13 @@
     </option>
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/templates" />
+      <recent name="$PROJECT_DIR$/static/img" />
       <recent name="$PROJECT_DIR$/static" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/static/img" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/templates" />
       <recent name="$PROJECT_DIR$/static" />
     </key>
   </component>
@@ -92,7 +97,8 @@
       <workItem from="1578602791688" duration="1591000" />
       <workItem from="1578692015831" duration="11000" />
       <workItem from="1578759020162" duration="2454000" />
-      <workItem from="1581140371756" duration="11625000" />
+      <workItem from="1581140371756" duration="12423000" />
+      <workItem from="1581541146947" duration="3770000" />
     </task>
     <servers />
   </component>
@@ -128,9 +134,13 @@
       <screen x="0" y="0" width="1920" height="1000" />
     </state>
     <state x="699" y="350" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1000@0.0.1920.1000" timestamp="1578092805021" />
-    <state x="743" y="311" width="434" height="488" key="FileChooserDialogImpl" timestamp="1581156557876">
+    <state x="743" y="311" width="434" height="488" key="FileChooserDialogImpl" timestamp="1581544249996">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state x="743" y="311" width="434" height="488" key="FileChooserDialogImpl/0.27.1920.1053@0.27.1920.1053" timestamp="1581156557876" />
+    <state x="743" y="311" width="434" height="488" key="FileChooserDialogImpl/0.27.1920.1053@0.27.1920.1053" timestamp="1581544249996" />
+    <state x="552" y="126" width="816" height="855" key="find.popup" timestamp="1581544402175">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="552" y="126" width="816" height="855" key="find.popup/0.27.1920.1053@0.27.1920.1053" timestamp="1581544402175" />
   </component>
 </project>

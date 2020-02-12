@@ -626,25 +626,21 @@ def sitemap(): return render_template('sitemap.xml')
 def robots(): return render_template('robots.txt')
 
 
+#@app.route('/')
+#def index():
+#    page = "ru"
+#    return render_template('index.html', page=page, title=title, Albar_my_low_price=albar_my_low_price_20200115,
+#                            Albar_branches=Albar_branches,
+#                           description=description)
+
 @app.route('/')
-def index():
-    page = "ru"
-    return render_template('index.html', page=page, title=title, Albar_my_low_price=albar_my_low_price_20200115,
-                           Albar_my_high_price=Albar_my_high_price_20191229,
-                           Albar_reg_low_price=Albar_reg_low_price_20191229,
-                           Albar_reg_high_price=Albar_reg_high_price_20191229, Albar_branches=Albar_branches,
-                           description=description)
-
-
 @app.route('/ru')
 def index_ru():
     page = "ru"
-    title = "Недорогая прокат аренда автомобиля в Израиле - " + site
-    description = site + " Недорогая прокат аренда автомобиля в Израиле, бронирование онлайн, нет предоплаты, безлимитный километраж, нет скрытых платежей, говорим по русски, отделения в Бен Гурион, Тель Авив, Хайфа, Эйлат, Нетания, Ашдод, эконом семейные и люкс автомобили, минивэны"
+    description = site + " — ведущий русскоязычный дилер автопроката в Израиле! Тел\Whatsapp\Viber: +972 (58) 7710101. Аренда без посредников, оплата по возврату машины! Аэропорты Бен-Гурион, Рамон, Тель-Авив, Эйлат, Хайфа, Натания и все большие города Израиля. Все классы машин от бюджетных до миниванов и люкс автомобилей"
+    title = "Аренда авто в Израиле от 25 долларов, бесплатная консультация на Русском языке"
     return render_template('index.html', page=page, title=title, Albar_my_low_price=albar_my_low_price_20200115,
-                           Albar_my_high_price=Albar_my_high_price_20191229,
-                           Albar_reg_low_price=Albar_reg_low_price_20191229,
-                           Albar_reg_high_price=Albar_reg_high_price_20191229, Albar_branches=Albar_branches,
+                           Albar_branches=Albar_branches,
                            description=description)
 
 
@@ -652,20 +648,21 @@ def index_ru():
 @app.route('/ru/minivans')
 def minivans():
     page = "ru/minivans"
-    return render_template('minivans.html', page=page, title=title_ru, Albar_my_low_price=albar_my_low_price_20200115,
-                           Albar_my_high_price=Albar_my_high_price_20191229,
-                           Albar_reg_low_price=Albar_reg_low_price_20191229,
-                           Albar_reg_high_price=Albar_reg_high_price_20191229, Albar_branches=Albar_branches,
+    description = site + " — у нас огромный выбор 6-7-8-9 местных автомобилей с ручной и автоматической коробкой передач! Тел\Whatsapp\Viber: +972 (58) 7710101. Аренда без посредников, оплата по возврату машины! Аэропорты Бен-Гурион, Рамон, Тель-Авив, Эйлат, Хайфа, Натания и все большие города Израиля."
+    title = "Аренда минивена 6-7-8-9 мест в Израиле, консультация бесплатна и на Русском языке"
+    return render_template('minivans.html', page=page, title=title, Albar_my_low_price=albar_my_low_price_20200115,
+                            Albar_branches=Albar_branches,
                            description=description)
 
 
 @app.route('/ru/branches')
 def branches():
-    page = "ru/branches"
+    page = "ru/Israel/branches"
+    description = site + " — Отделения проката в Аэропортах Бен-Гурион и Рамон, Тель-Авив, Эйлат, Хайфа, Натания и все большие города Израиля! Тел\Whatsapp\Viber: +972 (58) 7710101. Аренда без посредников, оплата по возврату машины!."
+    title = "Отделения проката в Аэропортах Бен-Гурион и Рамон, Тель-Авив, Эйлат, Хайфа, Натания и все большие города Израиля, консультация бесплатна и на русском языке"
+
     return render_template('branches.html', page=page, title=title_ru, Albar_my_low_price=albar_my_low_price_20200115,
-                           Albar_my_high_price=Albar_my_high_price_20191229,
-                           Albar_reg_low_price=Albar_reg_low_price_20191229,
-                           Albar_reg_high_price=Albar_reg_high_price_20191229, Albar_branches=Albar_branches,
+                            Albar_branches=Albar_branches,
                            description=description)
 
 
@@ -673,9 +670,7 @@ def branches():
 def insurance():
     page = "ru/insurance"
     return render_template('insurance.html', page=page, title=title_ru, Albar_my_low_price=albar_my_low_price_20200115,
-                           Albar_my_high_price=Albar_my_high_price_20191229,
-                           Albar_reg_low_price=Albar_reg_low_price_20191229,
-                           Albar_reg_high_price=Albar_reg_high_price_20191229, Albar_branches=Albar_branches,
+                           Albar_branches=Albar_branches,
                            description=description)
 
 
@@ -683,9 +678,7 @@ def insurance():
 def terms():
     page = "ru/terms"
     return render_template('terms.html', page=page, title=title_ru, Albar_my_low_price=albar_my_low_price_20200115,
-                           Albar_my_high_price=Albar_my_high_price_20191229,
-                           Albar_reg_low_price=Albar_reg_low_price_20191229,
-                           Albar_reg_high_price=Albar_reg_high_price_20191229, Albar_branches=Albar_branches,
+                            Albar_branches=Albar_branches,
                            description=description)
 
 
@@ -693,9 +686,7 @@ def terms():
 def faq():
     page = "ru/faq"
     return render_template('faq.html', page=page, title=title_ru, Albar_my_low_price=albar_my_low_price_20200115,
-                           Albar_my_high_price=Albar_my_high_price_20191229,
-                           Albar_reg_low_price=Albar_reg_low_price_20191229,
-                           Albar_reg_high_price=Albar_reg_high_price_20191229, Albar_branches=Albar_branches,
+                            Albar_branches=Albar_branches,
                            description=description)
 
 
@@ -703,12 +694,10 @@ def faq():
 def about():
     page = "ru/about"
     return render_template('about.html', page=page, title=title_ru, Albar_my_low_price=albar_my_low_price_20200115,
-                           Albar_my_high_price=Albar_my_high_price_20191229,
-                           Albar_reg_low_price=Albar_reg_low_price_20191229,
-                           Albar_reg_high_price=Albar_reg_high_price_20191229, Albar_branches=Albar_branches,
+                            Albar_branches=Albar_branches,
                            description=description)
 
-@app.route('/ru/AirPort-Ben-Gurion')
+@app.route('/ru/Israel/branches/AirPort-Ben-Gurion')
 def brancheAirPortBenGurion():
     title = "Аэропорт Тель-Авива «Бен Гурион»"
     text = "Филиал проката автомобилей в Израиле компании Europcar в Международном аэропорту Бен-Гурион, Тель-Авив"
@@ -718,11 +707,11 @@ def brancheAirPortBenGurion():
     phones = "+972 (3) 6058000 (английский, иврит)"
     return_car = "Возврат автомобиля в аэропорту: ул. Дайя."
     branch_map = "https://www.google.com/maps/embed?pb=!1m19!1m8!1m3!1d54133.61868537479!2d34.8503918!3d32.0056!3m2!1i1024!2i768!4f13.1!4m8!3e0!4m0!4m5!1s0x1502caad86c8945b%3A0x54230ad9cc8917e9!2sBen%20Gurion%20International%20Airport%20%2C%20Lod!3m2!1d32.005531999999995!2d34.8854112!5e0!3m2!1sru!2sil!4v1581101820271!5m2!1sru!2sil"
-    return render_template('branche.html', page="ru/AirPort-Ben-Gurion", title = text, text = text, pick_up= pick_up, open_time =open_time,phones=phones)
+    return render_template('branche.html', page="/ru/Israel/branches/AirPort-Ben-Gurion", title = text, text = text, pick_up= pick_up, open_time =open_time,phones=phones)
 
 
 
-@app.route('/ru/AirportEilat')
+@app.route('/ru/Israel/branches/Airport-Eilat-Ramon')
 def brancheAirportEilat():
     title = "Аэропорт Рамон в городе Эйлат"
     text = "Филиал проката автомобилей в Израиле компании Europcar в Международном аэропорту Рамон, Эйлат"
@@ -732,9 +721,9 @@ def brancheAirportEilat():
     phones = "+972 (8) 6239300 (английский, иврит)"
     return_car = "Возврат автомобиля в аэропорту: ул. Дайя."
     branch_map = "https://www.google.com/maps/embed?pb=!1m19!1m8!1m3!1d54133.61868537479!2d34.8503918!3d32.0056!3m2!1i1024!2i768!4f13.1!4m8!3e0!4m0!4m5!1s0x1502caad86c8945b%3A0x54230ad9cc8917e9!2sBen%20Gurion%20International%20Airport%20%2C%20Lod!3m2!1d32.005531999999995!2d34.8854112!5e0!3m2!1sru!2sil!4v1581101820271!5m2!1sru!2sil"
-    return render_template('branche.html', page="ru/AirportEilat",title = text, text = text, pick_up= pick_up, open_time =open_time,phones=phones)
+    return render_template('branche.html', page="/ru/Israel/branches/Airport-Eilat-Ramon",title = text, text = text, pick_up= pick_up, open_time =open_time,phones=phones)
 
-@app.route('/ru/Branch-TelAviv-Yarkon80')
+@app.route('/ru/Israel/branches/Tel-Aviv-Yarkon-80')
 def BranchTelAvivYarkon80():
     title = "Тель-Авив, набережная, ул. ха-Яркон, 80"
     text = "Филиал проката автомобилей в Израиле компании Europcar в городе Тель-Авив, набережная, на улице ха-Яркон, 80"
@@ -744,9 +733,9 @@ def BranchTelAvivYarkon80():
     phones = "+972 (3) 6335252 (английский, иврит)"
     return_car = "Возврат автомобиля в аэропорту: ул. Дайя."
     branch_map = "https://www.google.com/maps/embed?pb=!1m19!1m8!1m3!1d54133.61868537479!2d34.8503918!3d32.0056!3m2!1i1024!2i768!4f13.1!4m8!3e0!4m0!4m5!1s0x1502caad86c8945b%3A0x54230ad9cc8917e9!2sBen%20Gurion%20International%20Airport%20%2C%20Lod!3m2!1d32.005531999999995!2d34.8854112!5e0!3m2!1sru!2sil!4v1581101820271!5m2!1sru!2sil"
-    return render_template('branche.html', page="ru/Branch-TelAviv-Yarkon80",title = text, text = text, pick_up= pick_up, open_time =open_time,phones=phones)
+    return render_template('branche.html', page="ru/Israel/branches/Tel-Aviv-Yarkon-80",title = text, text = text, pick_up= pick_up, open_time =open_time,phones=phones)
 
-@app.route('/ru/Branch-TelAviv-haMelaha3')
+@app.route('/ru/Israel/branches/Tel-Aviv-haMelaha-3')
 def BranchTelAvivhaMelaha3():
     title = "Тель-Авив, центр, на улице ха-Мелаха, дом 3"
     text = "Филиал проката автомобилей в Израиле компании Europcar в городе Тель-Авив, центр, на улице ха-Мелаха, дом 3"
@@ -756,10 +745,10 @@ def BranchTelAvivhaMelaha3():
     phones = "+972 (3) 7588599 (английский, иврит)"
     return_car = "Возврат автомобиля в аэропорту: ул. Дайя."
     branch_map = "https://www.google.com/maps/embed?pb=!1m19!1m8!1m3!1d54133.61868537479!2d34.8503918!3d32.0056!3m2!1i1024!2i768!4f13.1!4m8!3e0!4m0!4m5!1s0x1502caad86c8945b%3A0x54230ad9cc8917e9!2sBen%20Gurion%20International%20Airport%20%2C%20Lod!3m2!1d32.005531999999995!2d34.8854112!5e0!3m2!1sru!2sil!4v1581101820271!5m2!1sru!2sil"
-    return render_template('branche.html', page="ru/Branch-TelAviv-haMelaha3", title = text, text = text, pick_up= pick_up, open_time =open_time,phones=phones)
+    return render_template('branche.html', page="ru/Israel/branches/Tel-Aviv-haMelaha-3", title = text, text = text, pick_up= pick_up, open_time =open_time,phones=phones)
 
 
-@app.route('/ru/Branch-Jerusalem-Kind-David-19')
+@app.route('/ru/Israel/branches/Jerusalem-Kind-David-19')
 def BranchJerusalemKindDavid19():
     title = "Иерусалим, центр, улица Кинг Давид, 19"
     text = "Филиал проката автомобилей в Израиле компании Europcar в городе Иерусалим, центр, улица. Кинг Давид, 19"
@@ -769,10 +758,10 @@ def BranchJerusalemKindDavid19():
     phones = "+972 (2) 5001800 (английский, иврит)"
     return_car = "Возврат автомобиля в аэропорту: ул. Дайя."
     branch_map = "https://www.google.com/maps/embed?pb=!1m19!1m8!1m3!1d54133.61868537479!2d34.8503918!3d32.0056!3m2!1i1024!2i768!4f13.1!4m8!3e0!4m0!4m5!1s0x1502caad86c8945b%3A0x54230ad9cc8917e9!2sBen%20Gurion%20International%20Airport%20%2C%20Lod!3m2!1d32.005531999999995!2d34.8854112!5e0!3m2!1sru!2sil!4v1581101820271!5m2!1sru!2sil"
-    return render_template('branche.html', page="ru/Branch-Jerusalem-Kind-David-19", title = text, text = text, pick_up= pick_up, open_time =open_time,phones=phones)
+    return render_template('branche.html', page="ru/Israel/branches/Jerusalem-Kind-David-19", title = text, text = text, pick_up= pick_up, open_time =open_time,phones=phones)
 
 
-@app.route('/ru/Branch-Romena-Shamgar-21')
+@app.route('/ru/Israel/branches/Jerusalem-Romena-Shamgar-21')
 def BranchRomenaShamgar21():
     title = "Иерусалим, Ромена, улица Шамгар, 21"
     text = "Филиал проката автомобилей в Израиле компании Europcar в городе Иерусалим, Ромена, улица Шамгар, 21"
@@ -782,7 +771,7 @@ def BranchRomenaShamgar21():
     phones = " +972 (2) 6339666 (английский, иврит)"
     return_car = "Возврат автомобиля в аэропорту: ул. Дайя."
     branch_map = "https://www.google.com/maps/embed?pb=!1m19!1m8!1m3!1d54133.61868537479!2d34.8503918!3d32.0056!3m2!1i1024!2i768!4f13.1!4m8!3e0!4m0!4m5!1s0x1502caad86c8945b%3A0x54230ad9cc8917e9!2sBen%20Gurion%20International%20Airport%20%2C%20Lod!3m2!1d32.005531999999995!2d34.8854112!5e0!3m2!1sru!2sil!4v1581101820271!5m2!1sru!2sil"
-    return render_template('branche.html', page="ru/Branch-Romena-Shamgar-21", title = text, text = text, pick_up= pick_up, open_time =open_time,phones=phones)
+    return render_template('branche.html', page="ru/Israel/branches/Jerusalem-Romena-Shamgar-21", title = text, text = text, pick_up= pick_up, open_time =open_time,phones=phones)
 
 
 @app.route('/ru/request_car', methods=["POST"])
