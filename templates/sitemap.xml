@@ -47,37 +47,32 @@
   <priority>0.64</priority>
 </url>
   <url>
-    <loc>https://www.rentalcarsisrael.com/ru/AirPort-Ben-Gurion</loc>
+    <loc>https://www.rentalcarsisrael.com/ru/Israel/branches/AirPort-Ben-Gurion</loc>
     <changefreq>daily</changefreq>
     <priority>0.50</priority>
   </url>
   <url>
-    <loc>https://www.rentalcarsisrael.com/ru/AirportEilat</loc>
+    <loc>https://www.rentalcarsisrael.com/ru/Israel/branches/Airport-Eilat-Ramon</loc>
     <changefreq>daily</changefreq>
     <priority>0.50</priority>
   </url>
   <url>
-    <loc>https://www.rentalcarsisrael.com/ru/Branch-TelAviv-Yarkon80</loc>
+    <loc>https://www.rentalcarsisrael.com/ru/Israel/branches/Tel-Aviv-Yarkon-80</loc>
     <changefreq>daily</changefreq>
     <priority>0.50</priority>
   </url>
   <url>
-    <loc>https://www.rentalcarsisrael.com/ru/Branch-TelAviv-haMelaha3</loc>
+    <loc>https://www.rentalcarsisrael.com/ru/Israel/branches/Tel-Aviv-haMelaha-3</loc>
     <changefreq>daily</changefreq>
     <priority>0.50</priority>
   </url>
   <url>
-    <loc>https://www.rentalcarsisrael.com/ru/Branch-TelAviv-haMelaha3</loc>
+    <loc>https://www.rentalcarsisrael.com/ru/Israel/branches/Jerusalem-Romena-Shamgar-21</loc>
     <changefreq>daily</changefreq>
     <priority>0.50</priority>
   </url>
   <url>
-    <loc>https://www.rentalcarsisrael.com/ru/Branch-Romena-Shamgar-21</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.50</priority>
-  </url>
-  <url>
-    <loc>https://www.rentalcarsisrael.com/ru/Branch-Jerusalem-Kind-David-19</loc>
+    <loc>https://www.rentalcarsisrael.com/ru/Israel/branches/Jerusalem-Kind-David-19</loc>
     <changefreq>daily</changefreq>
     <priority>0.50</priority>
   </url>

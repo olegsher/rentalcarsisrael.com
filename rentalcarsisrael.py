@@ -699,6 +699,7 @@ def about():
 
 @app.route('/ru/Israel/branches/AirPort-Ben-Gurion')
 def brancheAirPortBenGurion():
+    page = "ru/Israel/branches/AirPort-Ben-Gurion"
     title = "Аэропорт Тель-Авива «Бен Гурион»"
     text = "Филиал проката автомобилей в Израиле компании Europcar в Международном аэропорту Бен-Гурион, Тель-Авив"
     pick_up = "Стойка компании EuropCar находится в Аэропорт Тель-Авива «Бен Гурион», в 3 терминале, на 1 этаже прямо над залом прилетов, поднимитесь по эскалатору предоставьте сотруднику компании " \
@@ -707,12 +708,13 @@ def brancheAirPortBenGurion():
     phones = "+972 (3) 6058000 (английский, иврит)"
     return_car = "Возврат автомобиля в аэропорту: ул. Дайя."
     branch_map = "https://www.google.com/maps/embed?pb=!1m19!1m8!1m3!1d54133.61868537479!2d34.8503918!3d32.0056!3m2!1i1024!2i768!4f13.1!4m8!3e0!4m0!4m5!1s0x1502caad86c8945b%3A0x54230ad9cc8917e9!2sBen%20Gurion%20International%20Airport%20%2C%20Lod!3m2!1d32.005531999999995!2d34.8854112!5e0!3m2!1sru!2sil!4v1581101820271!5m2!1sru!2sil"
-    return render_template('branche.html', page="/ru/Israel/branches/AirPort-Ben-Gurion", title = text, text = text, pick_up= pick_up, open_time =open_time,phones=phones)
+    return render_template('branche.html', page=page, title = text, text = text, pick_up= pick_up, open_time =open_time,phones=phones)
 
 
 
 @app.route('/ru/Israel/branches/Airport-Eilat-Ramon')
 def brancheAirportEilat():
+    page = "ru/Israel/branches/Airport-Eilat-Ramon"
     title = "Аэропорт Рамон в городе Эйлат"
     text = "Филиал проката автомобилей в Израиле компании Europcar в Международном аэропорту Рамон, Эйлат"
     pick_up = "Обратитесь на стойку компании EuropCar и предоставьте сотруднику компании " \
@@ -721,10 +723,11 @@ def brancheAirportEilat():
     phones = "+972 (8) 6239300 (английский, иврит)"
     return_car = "Возврат автомобиля в аэропорту: ул. Дайя."
     branch_map = "https://www.google.com/maps/embed?pb=!1m19!1m8!1m3!1d54133.61868537479!2d34.8503918!3d32.0056!3m2!1i1024!2i768!4f13.1!4m8!3e0!4m0!4m5!1s0x1502caad86c8945b%3A0x54230ad9cc8917e9!2sBen%20Gurion%20International%20Airport%20%2C%20Lod!3m2!1d32.005531999999995!2d34.8854112!5e0!3m2!1sru!2sil!4v1581101820271!5m2!1sru!2sil"
-    return render_template('branche.html', page="/ru/Israel/branches/Airport-Eilat-Ramon",title = text, text = text, pick_up= pick_up, open_time =open_time,phones=phones)
+    return render_template('branche.html', page=page,title = text, text = text, pick_up= pick_up, open_time =open_time,phones=phones)
 
 @app.route('/ru/Israel/branches/Tel-Aviv-Yarkon-80')
 def BranchTelAvivYarkon80():
+    page = "ru/Israel/branches/Tel-Aviv-Yarkon-80"
     title = "Тель-Авив, набережная, ул. ха-Яркон, 80"
     text = "Филиал проката автомобилей в Израиле компании Europcar в городе Тель-Авив, набережная, на улице ха-Яркон, 80"
     pick_up = "Обратитесь на стойку компании EuropCar и предоставьте сотруднику компании " \
@@ -733,10 +736,11 @@ def BranchTelAvivYarkon80():
     phones = "+972 (3) 6335252 (английский, иврит)"
     return_car = "Возврат автомобиля в аэропорту: ул. Дайя."
     branch_map = "https://www.google.com/maps/embed?pb=!1m19!1m8!1m3!1d54133.61868537479!2d34.8503918!3d32.0056!3m2!1i1024!2i768!4f13.1!4m8!3e0!4m0!4m5!1s0x1502caad86c8945b%3A0x54230ad9cc8917e9!2sBen%20Gurion%20International%20Airport%20%2C%20Lod!3m2!1d32.005531999999995!2d34.8854112!5e0!3m2!1sru!2sil!4v1581101820271!5m2!1sru!2sil"
-    return render_template('branche.html', page="ru/Israel/branches/Tel-Aviv-Yarkon-80",title = text, text = text, pick_up= pick_up, open_time =open_time,phones=phones)
+    return render_template('branche.html', page=page,title = text, text = text, pick_up= pick_up, open_time =open_time,phones=phones)
 
 @app.route('/ru/Israel/branches/Tel-Aviv-haMelaha-3')
 def BranchTelAvivhaMelaha3():
+    page = "ru/Israel/branches/Tel-Aviv-haMelaha-3"
     title = "Тель-Авив, центр, на улице ха-Мелаха, дом 3"
     text = "Филиал проката автомобилей в Израиле компании Europcar в городе Тель-Авив, центр, на улице ха-Мелаха, дом 3"
     pick_up = "Обратитесь на стойку компании EuropCar и предоставьте сотруднику компании " \
@@ -745,11 +749,12 @@ def BranchTelAvivhaMelaha3():
     phones = "+972 (3) 7588599 (английский, иврит)"
     return_car = "Возврат автомобиля в аэропорту: ул. Дайя."
     branch_map = "https://www.google.com/maps/embed?pb=!1m19!1m8!1m3!1d54133.61868537479!2d34.8503918!3d32.0056!3m2!1i1024!2i768!4f13.1!4m8!3e0!4m0!4m5!1s0x1502caad86c8945b%3A0x54230ad9cc8917e9!2sBen%20Gurion%20International%20Airport%20%2C%20Lod!3m2!1d32.005531999999995!2d34.8854112!5e0!3m2!1sru!2sil!4v1581101820271!5m2!1sru!2sil"
-    return render_template('branche.html', page="ru/Israel/branches/Tel-Aviv-haMelaha-3", title = text, text = text, pick_up= pick_up, open_time =open_time,phones=phones)
+    return render_template('branche.html', page=page, title = text, text = text, pick_up= pick_up, open_time =open_time,phones=phones)
 
 
 @app.route('/ru/Israel/branches/Jerusalem-Kind-David-19')
 def BranchJerusalemKindDavid19():
+    page ="ru/Israel/branches/Jerusalem-Kind-David-19"
     title = "Иерусалим, центр, улица Кинг Давид, 19"
     text = "Филиал проката автомобилей в Израиле компании Europcar в городе Иерусалим, центр, улица. Кинг Давид, 19"
     pick_up = "Обратитесь на стойку компании EuropCar и предоставьте сотруднику компании " \
@@ -758,11 +763,12 @@ def BranchJerusalemKindDavid19():
     phones = "+972 (2) 5001800 (английский, иврит)"
     return_car = "Возврат автомобиля в аэропорту: ул. Дайя."
     branch_map = "https://www.google.com/maps/embed?pb=!1m19!1m8!1m3!1d54133.61868537479!2d34.8503918!3d32.0056!3m2!1i1024!2i768!4f13.1!4m8!3e0!4m0!4m5!1s0x1502caad86c8945b%3A0x54230ad9cc8917e9!2sBen%20Gurion%20International%20Airport%20%2C%20Lod!3m2!1d32.005531999999995!2d34.8854112!5e0!3m2!1sru!2sil!4v1581101820271!5m2!1sru!2sil"
-    return render_template('branche.html', page="ru/Israel/branches/Jerusalem-Kind-David-19", title = text, text = text, pick_up= pick_up, open_time =open_time,phones=phones)
+    return render_template('branche.html', page=page, title = text, text = text, pick_up= pick_up, open_time =open_time,phones=phones)
 
 
 @app.route('/ru/Israel/branches/Jerusalem-Romena-Shamgar-21')
 def BranchRomenaShamgar21():
+    page ="ru/Israel/branches/Jerusalem-Romena-Shamgar-21"
     title = "Иерусалим, Ромена, улица Шамгар, 21"
     text = "Филиал проката автомобилей в Израиле компании Europcar в городе Иерусалим, Ромена, улица Шамгар, 21"
     pick_up = "Обратитесь на стойку компании EuropCar и предоставьте сотруднику компании " \
@@ -771,7 +777,7 @@ def BranchRomenaShamgar21():
     phones = " +972 (2) 6339666 (английский, иврит)"
     return_car = "Возврат автомобиля в аэропорту: ул. Дайя."
     branch_map = "https://www.google.com/maps/embed?pb=!1m19!1m8!1m3!1d54133.61868537479!2d34.8503918!3d32.0056!3m2!1i1024!2i768!4f13.1!4m8!3e0!4m0!4m5!1s0x1502caad86c8945b%3A0x54230ad9cc8917e9!2sBen%20Gurion%20International%20Airport%20%2C%20Lod!3m2!1d32.005531999999995!2d34.8854112!5e0!3m2!1sru!2sil!4v1581101820271!5m2!1sru!2sil"
-    return render_template('branche.html', page="ru/Israel/branches/Jerusalem-Romena-Shamgar-21", title = text, text = text, pick_up= pick_up, open_time =open_time,phones=phones)
+    return render_template('branche.html', page=page, title = text, text = text, pick_up= pick_up, open_time =open_time,phones=phones)
 
 
 @app.route('/ru/request_car', methods=["POST"])
